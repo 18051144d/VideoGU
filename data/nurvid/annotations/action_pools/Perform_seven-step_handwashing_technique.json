@@ -1,0 +1,39 @@
+{
+    "Perform seven-step handwashing technique": [
+        {
+            "sentence": "The healthcare worker removes any jewelry and rolls up sleeves to the elbows.",
+            "subject": "The healthcare worker",
+            "action": "removes",
+            "object": "jewelry",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare worker wet their hands with clean, running water.",
+            "subject": "The healthcare worker",
+            "action": "wet",
+            "object": "hands",
+            "tools": "clean running water"
+        },
+        {
+            "sentence": "The healthcare worker applies soap to their hands and lathers for at least 20 seconds.",
+            "subject": "The healthcare worker",
+            "action": "applies",
+            "object": "soap",
+            "tools": "soap"
+        },
+        {
+            "sentence": "The healthcare worker rinses their hands thoroughly under clean, running water.",
+            "subject": "The healthcare worker",
+            "action": "rinses",
+            "object": "hands",
+            "tools": "clean running water"
+        },
+        {
+            "sentence": "The healthcare worker dries their hands using a clean towel or air dryer.",
+            "subject": "The healthcare worker",
+            "action": "dries",
+            "object": "hands",
+            "tools": "clean towel or air dryer"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Establish a sterile zone": [
+        {
+            "sentence": "The surgical team cleans the designated area with antiseptic solution.",
+            "subject": "The surgical team",
+            "action": "cleans",
+            "object": "the designated area",
+            "tools": "antiseptic solution"
+        },
+        {
+            "sentence": "The surgical team lays down sterile drapes around the perimeter of the area.",
+            "subject": "The surgical team",
+            "action": "lays down",
+            "object": "sterile drapes",
+            "tools": "sterile drapes"
+        },
+        {
+            "sentence": "The surgical team ensures that all instruments are sterilized before placing them in the sterile zone.",
+            "subject": "The surgical team",
+            "action": "ensures",
+            "object": "all instruments",
+            "tools": "sterilization equipment"
+        },
+        {
+            "sentence": "The surgical team verifies that all personnel entering the sterile zone are wearing appropriate sterile attire.",
+            "subject": "The surgical team",
+            "action": "verifies",
+            "object": "all personnel",
+            "tools": "sterile attire"
+        },
+        {
+            "sentence": "The surgical team marks the boundaries of the sterile zone to prevent contamination.",
+            "subject": "The surgical team",
+            "action": "marks",
+            "object": "the boundaries of the sterile zone",
+            "tools": "marker or tape"
+        }
+    ]
+}

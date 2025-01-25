@@ -1,0 +1,39 @@
+{
+    "Take treatment towels": [
+        {
+            "sentence": "The nurse gathers the treatment towels from the supply room.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "the treatment towels",
+            "tools": "supply room"
+        },
+        {
+            "sentence": "The nurse checks the cleanliness and condition of the treatment towels before use.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the cleanliness and condition of the treatment towels",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse organizes the treatment towels on a clean surface for easy access.",
+            "subject": "The nurse",
+            "action": "organizes",
+            "object": "the treatment towels",
+            "tools": "clean surface"
+        },
+        {
+            "sentence": "The nurse ensures that the treatment towels are appropriately folded and stacked.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the treatment towels are appropriately folded and stacked",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse prepares the area by placing the treatment towels within reach for the procedure.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the area",
+            "tools": "treatment towels"
+        }
+    ]
+}

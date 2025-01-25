@@ -1,0 +1,39 @@
+{
+    "Moisten hair": [
+        {
+            "sentence": "The patient sits comfortably in a chair.",
+            "subject": "The patient",
+            "action": "sits",
+            "object": "in a chair",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse fills a spray bottle with water.",
+            "subject": "The nurse",
+            "action": "fills",
+            "object": "a spray bottle",
+            "tools": "water, spray bottle"
+        },
+        {
+            "sentence": "The nurse sprays the water evenly onto the patient's hair.",
+            "subject": "The nurse",
+            "action": "sprays",
+            "object": "the patient's hair",
+            "tools": "spray bottle"
+        },
+        {
+            "sentence": "The nurse gently massages the hair to ensure even moisture distribution.",
+            "subject": "The nurse",
+            "action": "massages",
+            "object": "the hair",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse checks the hair to confirm it is adequately moistened.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the hair",
+            "tools": "none"
+        }
+    ]
+}

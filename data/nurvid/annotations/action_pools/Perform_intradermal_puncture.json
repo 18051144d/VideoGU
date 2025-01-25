@@ -1,0 +1,39 @@
+{
+    "Perform intradermal puncture": [
+        {
+            "sentence": "The nurse gathers all necessary supplies for the intradermal puncture.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "all necessary supplies",
+            "tools": "sterile needle, syringe, alcohol swabs, gloves"
+        },
+        {
+            "sentence": "The nurse prepares the patient's skin by cleaning the area with an alcohol swab.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the patient's skin",
+            "tools": "alcohol swab"
+        },
+        {
+            "sentence": "The nurse puts on sterile gloves to maintain a clean environment during the procedure.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "sterile gloves",
+            "tools": "sterile gloves"
+        },
+        {
+            "sentence": "The nurse inserts the needle into the dermis at a 10 to 15-degree angle to perform the puncture.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "the needle",
+            "tools": "sterile needle, syringe"
+        },
+        {
+            "sentence": "The nurse observes the puncture site for any immediate reactions after the injection.",
+            "subject": "The nurse",
+            "action": "observes",
+            "object": "the puncture site",
+            "tools": "none"
+        }
+    ]
+}

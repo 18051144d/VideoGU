@@ -1,0 +1,39 @@
+{
+    "Prepare defibrillation device": [
+        {
+            "sentence": "The healthcare provider checks that the defibrillation device is fully charged and functional.",
+            "subject": "The healthcare provider",
+            "action": "checks",
+            "object": "the defibrillation device",
+            "tools": "defibrillation device"
+        },
+        {
+            "sentence": "The healthcare provider gathers all necessary accessories, including electrodes and gel pads.",
+            "subject": "The healthcare provider",
+            "action": "gathers",
+            "object": "all necessary accessories",
+            "tools": "electrodes and gel pads"
+        },
+        {
+            "sentence": "The healthcare provider prepares the electrodes by applying gel to ensure proper conductivity.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the electrodes",
+            "tools": "gel"
+        },
+        {
+            "sentence": "The healthcare provider ensures that the environment is clear of any obstructions and bystanders.",
+            "subject": "The healthcare provider",
+            "action": "ensures",
+            "object": "the environment",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider positions the defibrillation device near the patient for immediate access.",
+            "subject": "The healthcare provider",
+            "action": "positions",
+            "object": "the defibrillation device",
+            "tools": "defibrillation device"
+        }
+    ]
+}

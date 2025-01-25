@@ -1,0 +1,39 @@
+{
+    "Apply shampoo": [
+        {
+            "sentence": "The patient prepares for the shampoo application by gathering necessary supplies.",
+            "subject": "The patient",
+            "action": "prepares",
+            "object": "for the shampoo application",
+            "tools": "shampoo, towel, water"
+        },
+        {
+            "sentence": "The caregiver or patient wet the hair thoroughly with warm water.",
+            "subject": "The caregiver or patient",
+            "action": "wet",
+            "object": "the hair thoroughly",
+            "tools": "warm water"
+        },
+        {
+            "sentence": "The caregiver or patient applies an appropriate amount of shampoo to the scalp.",
+            "subject": "The caregiver or patient",
+            "action": "applies",
+            "object": "an appropriate amount of shampoo",
+            "tools": "shampoo"
+        },
+        {
+            "sentence": "The caregiver or patient massages the shampoo into the scalp and hair for a few minutes.",
+            "subject": "The caregiver or patient",
+            "action": "massages",
+            "object": "the shampoo into the scalp and hair",
+            "tools": "hands"
+        },
+        {
+            "sentence": "The caregiver or patient rinses the hair thoroughly with clean water until all shampoo is removed.",
+            "subject": "The caregiver or patient",
+            "action": "rinses",
+            "object": "the hair thoroughly",
+            "tools": "clean water"
+        }
+    ]
+}

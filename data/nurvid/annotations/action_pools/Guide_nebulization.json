@@ -1,0 +1,39 @@
+{
+    "Guide nebulization": [
+        {
+            "sentence": "The nurse prepares the nebulizer by assembling the device and ensuring all parts are clean.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the nebulizer",
+            "tools": "nebulizer components"
+        },
+        {
+            "sentence": "The nurse measures the appropriate medication dosage and places it into the nebulizer cup.",
+            "subject": "The nurse",
+            "action": "measures",
+            "object": "the medication dosage",
+            "tools": "medication, nebulizer cup"
+        },
+        {
+            "sentence": "The nurse connects the nebulizer to an air compressor and checks for proper functionality.",
+            "subject": "The nurse",
+            "action": "connects",
+            "object": "the nebulizer to an air compressor",
+            "tools": "air compressor"
+        },
+        {
+            "sentence": "The nurse positions the patient comfortably and instructs them on how to use the mouthpiece or face mask.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "mouthpiece or face mask"
+        },
+        {
+            "sentence": "The nurse monitors the patient during nebulization to assess effectiveness and manage any discomfort.",
+            "subject": "The nurse",
+            "action": "monitors",
+            "object": "the patient",
+            "tools": "monitoring equipment"
+        }
+    ]
+}

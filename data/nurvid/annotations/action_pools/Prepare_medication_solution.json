@@ -1,0 +1,39 @@
+{
+    "Prepare medication solution": [
+        {
+            "sentence": "The pharmacist gathers the necessary ingredients for the medication solution.",
+            "subject": "The pharmacist",
+            "action": "gathers",
+            "object": "the necessary ingredients",
+            "tools": "measuring cups, scales, and ingredient containers"
+        },
+        {
+            "sentence": "The pharmacist measures the correct dosage of each ingredient according to the prescription.",
+            "subject": "The pharmacist",
+            "action": "measures",
+            "object": "the correct dosage of each ingredient",
+            "tools": "measuring spoons and syringes"
+        },
+        {
+            "sentence": "The pharmacist combines the measured ingredients in a sterile mixing container.",
+            "subject": "The pharmacist",
+            "action": "combines",
+            "object": "the measured ingredients",
+            "tools": "sterile mixing container and spatula"
+        },
+        {
+            "sentence": "The pharmacist stirs the mixture thoroughly to ensure a uniform solution.",
+            "subject": "The pharmacist",
+            "action": "stirs",
+            "object": "the mixture",
+            "tools": "stirring rod"
+        },
+        {
+            "sentence": "The pharmacist labels the medication solution with the appropriate information for administration.",
+            "subject": "The pharmacist",
+            "action": "labels",
+            "object": "the medication solution",
+            "tools": "labeling printer and adhesive labels"
+        }
+    ]
+}

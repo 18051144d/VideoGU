@@ -1,0 +1,39 @@
+{
+    "Open airway": [
+        {
+            "sentence": "The healthcare provider positions the patient to optimize airway access.",
+            "subject": "The healthcare provider",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider tilts the patient's head back to open the airway.",
+            "subject": "The healthcare provider",
+            "action": "tilts",
+            "object": "the patient's head",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider lifts the chin to further maintain airway patency.",
+            "subject": "The healthcare provider",
+            "action": "lifts",
+            "object": "the chin",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider checks for any obstructions in the airway.",
+            "subject": "The healthcare provider",
+            "action": "checks",
+            "object": "any obstructions",
+            "tools": "flashlight or suction device"
+        },
+        {
+            "sentence": "The healthcare provider ensures that the airway remains clear and unobstructed.",
+            "subject": "The healthcare provider",
+            "action": "ensures",
+            "object": "the airway",
+            "tools": "none"
+        }
+    ]
+}

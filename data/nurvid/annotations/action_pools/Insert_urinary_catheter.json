@@ -1,0 +1,39 @@
+{
+    "Insert urinary catheter": [
+        {
+            "sentence": "The nurse gathers all necessary tools for the catheter insertion.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "all necessary tools",
+            "tools": "urinary catheter, lubricant, gloves, antiseptic wipes, drainage bag"
+        },
+        {
+            "sentence": "The nurse explains the procedure to the patient to ensure understanding and consent.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the procedure",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse positions the patient appropriately to facilitate catheter insertion.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse dons gloves and cleans the urinary meatus with antiseptic wipes.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the urinary meatus",
+            "tools": "antiseptic wipes"
+        },
+        {
+            "sentence": "The nurse gently inserts the urinary catheter into the bladder and secures it in place.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "the urinary catheter",
+            "tools": "urinary catheter, drainage bag"
+        }
+    ]
+}

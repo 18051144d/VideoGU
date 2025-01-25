@@ -1,0 +1,39 @@
+{
+    "Organize the blood pressure mete": [
+        {
+            "sentence": "The technician gathers all necessary components for the blood pressure meter.",
+            "subject": "The technician",
+            "action": "gathers",
+            "object": "all necessary components for the blood pressure meter",
+            "tools": "blood pressure cuff, sphygmomanometer, stethoscope"
+        },
+        {
+            "sentence": "The technician inspects the blood pressure cuff for any signs of damage or wear.",
+            "subject": "The technician",
+            "action": "inspects",
+            "object": "the blood pressure cuff",
+            "tools": "visual inspection tools"
+        },
+        {
+            "sentence": "The technician calibrates the sphygmomanometer to ensure accurate readings.",
+            "subject": "The technician",
+            "action": "calibrates",
+            "object": "the sphygmomanometer",
+            "tools": "calibration device, reference standards"
+        },
+        {
+            "sentence": "The technician organizes the components in a clean and accessible manner.",
+            "subject": "The technician",
+            "action": "organizes",
+            "object": "the components",
+            "tools": "storage containers, labels"
+        },
+        {
+            "sentence": "The technician performs a final check to confirm that all tools are functioning properly.",
+            "subject": "The technician",
+            "action": "performs",
+            "object": "a final check",
+            "tools": "blood pressure meter, checklist"
+        }
+    ]
+}

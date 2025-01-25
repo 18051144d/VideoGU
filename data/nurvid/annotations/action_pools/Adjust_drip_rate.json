@@ -1,0 +1,39 @@
+{
+    "Adjust drip rate": [
+        {
+            "sentence": "The nurse assesses the patient's IV setup to determine the current drip rate.",
+            "subject": "The nurse",
+            "action": "assesses",
+            "object": "the patient's IV setup",
+            "tools": "IV setup"
+        },
+        {
+            "sentence": "The nurse calculates the desired drip rate based on the physician's orders and the patient's condition.",
+            "subject": "The nurse",
+            "action": "calculates",
+            "object": "the desired drip rate",
+            "tools": "physician's orders, patient's condition"
+        },
+        {
+            "sentence": "The nurse adjusts the roller clamp on the IV tubing to modify the flow rate.",
+            "subject": "The nurse",
+            "action": "adjusts",
+            "object": "the roller clamp on the IV tubing",
+            "tools": "roller clamp, IV tubing"
+        },
+        {
+            "sentence": "The nurse monitors the drip chamber to ensure the adjusted drip rate is achieved.",
+            "subject": "The nurse",
+            "action": "monitors",
+            "object": "the drip chamber",
+            "tools": "drip chamber"
+        },
+        {
+            "sentence": "The nurse documents the changes made to the drip rate in the patient's medical record.",
+            "subject": "The nurse",
+            "action": "documents",
+            "object": "the changes made to the drip rate",
+            "tools": "patient's medical record"
+        }
+    ]
+}

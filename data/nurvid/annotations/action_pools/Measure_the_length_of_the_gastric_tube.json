@@ -1,0 +1,39 @@
+{
+    "Measure the length of the gastric tube": [
+        {
+            "sentence": "The nurse prepares the necessary tools for measuring the gastric tube length.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the necessary tools for measuring the gastric tube length",
+            "tools": "measuring tape, gastric tube calibration chart"
+        },
+        {
+            "sentence": "The nurse positions the patient comfortably to ensure accurate measurement.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient comfortably",
+            "tools": "patient bed"
+        },
+        {
+            "sentence": "The nurse identifies the insertion point of the gastric tube in the patient's nostril.",
+            "subject": "The nurse",
+            "action": "identifies",
+            "object": "the insertion point of the gastric tube",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse measures the distance from the insertion point to the patient's stomach using the measuring tape.",
+            "subject": "The nurse",
+            "action": "measures",
+            "object": "the distance from the insertion point to the patient's stomach",
+            "tools": "measuring tape"
+        },
+        {
+            "sentence": "The nurse records the measured length for future reference and documentation.",
+            "subject": "The nurse",
+            "action": "records",
+            "object": "the measured length",
+            "tools": "patient's medical record"
+        }
+    ]
+}

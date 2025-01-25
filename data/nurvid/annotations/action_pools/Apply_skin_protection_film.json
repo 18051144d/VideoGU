@@ -1,0 +1,39 @@
+{
+    "Apply skin protection film": [
+        {
+            "sentence": "The nurse prepares the skin protection film by selecting an appropriate product for the patient's condition.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the skin protection film",
+            "tools": "skin protection film"
+        },
+        {
+            "sentence": "The nurse cleans the skin area thoroughly to remove any dirt or contaminants before application.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the skin area",
+            "tools": "cleansing solution, gauze or wipes"
+        },
+        {
+            "sentence": "The nurse applies the skin protection film evenly over the cleaned skin area using a gentle technique.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "the skin protection film",
+            "tools": "applicator or fingertips"
+        },
+        {
+            "sentence": "The nurse ensures that the film dries completely to form a protective barrier on the skin.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the film dries",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse monitors the patient's skin condition after application to assess for any adverse reactions.",
+            "subject": "The nurse",
+            "action": "monitors",
+            "object": "the patient's skin condition",
+            "tools": "none"
+        }
+    ]
+}

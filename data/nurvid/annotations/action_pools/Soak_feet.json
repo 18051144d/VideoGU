@@ -1,0 +1,39 @@
+{
+    "Soak feet": [
+        {
+            "sentence": "The patient prepares a basin filled with warm water.",
+            "subject": "The patient",
+            "action": "prepares",
+            "object": "a basin filled with warm water",
+            "tools": "basin, warm water"
+        },
+        {
+            "sentence": "The patient adds Epsom salt or essential oils to the water.",
+            "subject": "The patient",
+            "action": "adds",
+            "object": "Epsom salt or essential oils to the water",
+            "tools": "Epsom salt, essential oils"
+        },
+        {
+            "sentence": "The patient submerges their feet in the warm water for 15-20 minutes.",
+            "subject": "The patient",
+            "action": "submerges",
+            "object": "their feet in the warm water",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient gently massages their feet while soaking.",
+            "subject": "The patient",
+            "action": "gently massages",
+            "object": "their feet",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient dries their feet thoroughly with a clean towel after soaking.",
+            "subject": "The patient",
+            "action": "dries",
+            "object": "their feet thoroughly with a clean towel",
+            "tools": "clean towel"
+        }
+    ]
+}

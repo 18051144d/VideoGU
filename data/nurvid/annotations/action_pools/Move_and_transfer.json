@@ -1,0 +1,39 @@
+{
+    "Move and transfer": [
+        {
+            "sentence": "The caregiver assesses the patient's mobility and physical condition before the transfer.",
+            "subject": "The caregiver",
+            "action": "assesses",
+            "object": "the patient's mobility and physical condition",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver prepares the transfer equipment, such as a gait belt or transfer board, for safe movement.",
+            "subject": "The caregiver",
+            "action": "prepares",
+            "object": "the transfer equipment",
+            "tools": "gait belt, transfer board"
+        },
+        {
+            "sentence": "The caregiver explains the transfer process to the patient to ensure understanding and cooperation.",
+            "subject": "The caregiver",
+            "action": "explains",
+            "object": "the transfer process",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver positions the patient properly, ensuring comfort and safety before initiating the transfer.",
+            "subject": "The caregiver",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver executes the transfer while maintaining proper body mechanics to prevent injury.",
+            "subject": "The caregiver",
+            "action": "executes",
+            "object": "the transfer",
+            "tools": "none"
+        }
+    ]
+}

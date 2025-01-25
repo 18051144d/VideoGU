@@ -1,0 +1,39 @@
+{
+    "Connect lead wires": [
+        {
+            "sentence": "The technician prepares the lead wires for connection.",
+            "subject": "The technician",
+            "action": "prepares",
+            "object": "the lead wires",
+            "tools": "none"
+        },
+        {
+            "sentence": "The technician identifies the appropriate connection points on the device.",
+            "subject": "The technician",
+            "action": "identifies",
+            "object": "the appropriate connection points",
+            "tools": "none"
+        },
+        {
+            "sentence": "The technician aligns the lead wires with the connection points.",
+            "subject": "The technician",
+            "action": "aligns",
+            "object": "the lead wires",
+            "tools": "none"
+        },
+        {
+            "sentence": "The technician securely connects the lead wires to the device.",
+            "subject": "The technician",
+            "action": "connects",
+            "object": "the lead wires",
+            "tools": "none"
+        },
+        {
+            "sentence": "The technician tests the connection for proper functionality.",
+            "subject": "The technician",
+            "action": "tests",
+            "object": "the connection",
+            "tools": "testing equipment"
+        }
+    ]
+}

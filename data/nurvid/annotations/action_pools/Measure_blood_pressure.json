@@ -1,0 +1,39 @@
+{
+    "Measure blood pressure": [
+        {
+            "sentence": "The nurse prepares the sphygmomanometer and stethoscope for measuring blood pressure.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the sphygmomanometer and stethoscope",
+            "tools": "sphygmomanometer, stethoscope"
+        },
+        {
+            "sentence": "The nurse positions the patient comfortably with the arm at heart level.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse wraps the cuff around the patient's upper arm and secures it snugly.",
+            "subject": "The nurse",
+            "action": "wraps",
+            "object": "the cuff around the patient's upper arm",
+            "tools": "cuff"
+        },
+        {
+            "sentence": "The nurse inflates the cuff using the bulb until the pulse is no longer felt.",
+            "subject": "The nurse",
+            "action": "inflates",
+            "object": "the cuff",
+            "tools": "bulb"
+        },
+        {
+            "sentence": "The nurse listens with the stethoscope while slowly deflating the cuff to obtain the systolic and diastolic pressures.",
+            "subject": "The nurse",
+            "action": "listens",
+            "object": "the systolic and diastolic pressures",
+            "tools": "stethoscope"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Document": [
+        {
+            "sentence": "The healthcare professional prepares the necessary forms for documentation.",
+            "subject": "The healthcare professional",
+            "action": "prepares",
+            "object": "the necessary forms",
+            "tools": "documentation forms"
+        },
+        {
+            "sentence": "The healthcare professional collects all relevant patient information and medical history.",
+            "subject": "The healthcare professional",
+            "action": "collects",
+            "object": "all relevant patient information and medical history",
+            "tools": "patient records, interview questions"
+        },
+        {
+            "sentence": "The healthcare professional accurately records the patient's details in the documentation forms.",
+            "subject": "The healthcare professional",
+            "action": "records",
+            "object": "the patient's details",
+            "tools": "documentation forms, pen or electronic device"
+        },
+        {
+            "sentence": "The healthcare professional reviews the completed documentation for accuracy and completeness.",
+            "subject": "The healthcare professional",
+            "action": "reviews",
+            "object": "the completed documentation",
+            "tools": "checklist, reference materials"
+        },
+        {
+            "sentence": "The healthcare professional securely stores the documentation in the patient's medical record.",
+            "subject": "The healthcare professional",
+            "action": "stores",
+            "object": "the documentation",
+            "tools": "patient's medical record system"
+        }
+    ]
+}

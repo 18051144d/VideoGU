@@ -1,0 +1,39 @@
+{
+    "Rub upper limbs": [
+        {
+            "sentence": "The therapist positions the patient comfortably to facilitate upper limb mobility.",
+            "subject": "The therapist",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The therapist gently warms the upper limbs using hands or a warm compress to enhance blood flow.",
+            "subject": "The therapist",
+            "action": "warms",
+            "object": "the upper limbs",
+            "tools": "hands or warm compress"
+        },
+        {
+            "sentence": "The therapist instructs the patient to perform gentle range-of-motion exercises to improve flexibility.",
+            "subject": "The therapist",
+            "action": "instructs",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The therapist monitors the patient's movements for any signs of discomfort or pain during the exercises.",
+            "subject": "The therapist",
+            "action": "monitors",
+            "object": "the patient's movements",
+            "tools": "none"
+        },
+        {
+            "sentence": "The therapist concludes the session by advising the patient on post-exercise care and stretches.",
+            "subject": "The therapist",
+            "action": "concludes",
+            "object": "the session",
+            "tools": "none"
+        }
+    ]
+}

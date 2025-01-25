@@ -1,0 +1,39 @@
+{
+    "Defibrillate": [
+        {
+            "sentence": "The healthcare provider assesses the patient's responsiveness and checks for a pulse.",
+            "subject": "The healthcare provider",
+            "action": "assesses",
+            "object": "the patient's responsiveness and checks for a pulse",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider prepares the defibrillator and ensures it is charged and ready for use.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the defibrillator",
+            "tools": "defibrillator"
+        },
+        {
+            "sentence": "The healthcare provider places the defibrillator pads on the patient's bare chest according to the manufacturer's guidelines.",
+            "subject": "The healthcare provider",
+            "action": "places",
+            "object": "the defibrillator pads on the patient's bare chest",
+            "tools": "defibrillator pads"
+        },
+        {
+            "sentence": "The healthcare provider ensures that everyone is clear of the patient and delivers the shock as indicated.",
+            "subject": "The healthcare provider",
+            "action": "delivers",
+            "object": "the shock",
+            "tools": "defibrillator"
+        },
+        {
+            "sentence": "The healthcare provider monitors the patient's rhythm and reassesses the need for additional shocks or CPR.",
+            "subject": "The healthcare provider",
+            "action": "monitors",
+            "object": "the patient's rhythm",
+            "tools": "none"
+        }
+    ]
+}

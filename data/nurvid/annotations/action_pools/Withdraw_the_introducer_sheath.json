@@ -1,0 +1,39 @@
+{
+    "Withdraw the introducer sheath": [
+        {
+            "sentence": "The physician prepares the sterile field by cleaning the area around the introducer sheath insertion site.",
+            "subject": "The physician",
+            "action": "prepares",
+            "object": "the sterile field",
+            "tools": "sterile wipes"
+        },
+        {
+            "sentence": "The nurse assesses the patient's vital signs to ensure stability before the procedure.",
+            "subject": "The nurse",
+            "action": "assesses",
+            "object": "the patient's vital signs",
+            "tools": "vital signs monitor"
+        },
+        {
+            "sentence": "The physician gently holds the introducer sheath while the nurse applies pressure around the insertion site.",
+            "subject": "The physician",
+            "action": "holds",
+            "object": "the introducer sheath",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse carefully withdraws the introducer sheath in a controlled manner to prevent complications.",
+            "subject": "The nurse",
+            "action": "withdraws",
+            "object": "the introducer sheath",
+            "tools": "none"
+        },
+        {
+            "sentence": "The physician inspects the site for any signs of bleeding or complications after the sheath is removed.",
+            "subject": "The physician",
+            "action": "inspects",
+            "object": "the site",
+            "tools": "none"
+        }
+    ]
+}

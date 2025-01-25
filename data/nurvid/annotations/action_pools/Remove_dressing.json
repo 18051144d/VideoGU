@@ -1,0 +1,39 @@
+{
+    "Remove dressing": [
+        {
+            "sentence": "The nurse assesses the condition of the dressing and the surrounding skin.",
+            "subject": "The nurse",
+            "action": "assesses",
+            "object": "the condition of the dressing and the surrounding skin",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse gathers necessary supplies, including gloves, sterile gauze, and tape.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "necessary supplies",
+            "tools": "gloves, sterile gauze, and tape"
+        },
+        {
+            "sentence": "The nurse puts on gloves to ensure infection control during the procedure.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "gloves",
+            "tools": "gloves"
+        },
+        {
+            "sentence": "The nurse carefully removes the dressing by peeling it away from the skin.",
+            "subject": "The nurse",
+            "action": "removes",
+            "object": "the dressing",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse cleans the area with sterile gauze to prevent infection after the dressing is removed.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the area",
+            "tools": "sterile gauze"
+        }
+    ]
+}

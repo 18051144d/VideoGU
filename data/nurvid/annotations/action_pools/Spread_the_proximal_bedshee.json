@@ -1,0 +1,39 @@
+{
+    "Spread the proximal bedshee": [
+        {
+            "sentence": "The nurse prepares the patient by ensuring the bed is clean and free of clutter.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the patient",
+            "tools": "clean bed"
+        },
+        {
+            "sentence": "The nurse gathers the proximal bedsheet and checks for any damages or stains.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "the proximal bedsheet",
+            "tools": "bedsheet"
+        },
+        {
+            "sentence": "The nurse spreads the proximal bedsheet over the mattress, ensuring it is smooth and wrinkle-free.",
+            "subject": "The nurse",
+            "action": "spreads",
+            "object": "the proximal bedsheet",
+            "tools": "mattress"
+        },
+        {
+            "sentence": "The nurse tucks the corners of the proximal bedsheet securely under the mattress.",
+            "subject": "The nurse",
+            "action": "tucks",
+            "object": "the corners of the proximal bedsheet",
+            "tools": "mattress"
+        },
+        {
+            "sentence": "The nurse performs a final inspection to confirm the bedsheet is properly positioned and safe for the patient.",
+            "subject": "The nurse",
+            "action": "performs",
+            "object": "a final inspection",
+            "tools": "none"
+        }
+    ]
+}

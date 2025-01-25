@@ -1,0 +1,39 @@
+{
+    "Remove needle": [
+        {
+            "sentence": "The nurse prepares the necessary tools for needle removal.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the necessary tools for needle removal",
+            "tools": "gloves, gauze, antiseptic wipes"
+        },
+        {
+            "sentence": "The nurse puts on gloves to maintain a sterile environment.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "gloves",
+            "tools": "gloves"
+        },
+        {
+            "sentence": "The nurse holds the skin around the insertion site to stabilize it.",
+            "subject": "The nurse",
+            "action": "holds",
+            "object": "the skin around the insertion site",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse gently pulls the needle out in a swift motion.",
+            "subject": "The nurse",
+            "action": "pulls out",
+            "object": "the needle",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse applies gauze to the site and instructs the patient to apply pressure.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "gauze to the site",
+            "tools": "gauze"
+        }
+    ]
+}

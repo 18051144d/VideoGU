@@ -1,0 +1,39 @@
+{
+    "Spread the opposite side bed sheet": [
+        {
+            "sentence": "The nurse prepares a clean bed sheet for the procedure.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "a clean bed sheet",
+            "tools": "clean bed sheet"
+        },
+        {
+            "sentence": "The nurse raises the opposite side of the mattress to create space.",
+            "subject": "The nurse",
+            "action": "raises",
+            "object": "the opposite side of the mattress",
+            "tools": "mattress lifter or hands"
+        },
+        {
+            "sentence": "The nurse carefully spreads the clean bed sheet over the opposite side of the bed.",
+            "subject": "The nurse",
+            "action": "spreads",
+            "object": "the clean bed sheet",
+            "tools": "clean bed sheet"
+        },
+        {
+            "sentence": "The nurse tucks the edges of the bed sheet securely under the mattress.",
+            "subject": "The nurse",
+            "action": "tucks",
+            "object": "the edges of the bed sheet",
+            "tools": "hands"
+        },
+        {
+            "sentence": "The nurse lowers the opposite side of the mattress back into position.",
+            "subject": "The nurse",
+            "action": "lowers",
+            "object": "the opposite side of the mattress",
+            "tools": "hands"
+        }
+    ]
+}

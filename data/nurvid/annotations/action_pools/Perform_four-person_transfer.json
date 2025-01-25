@@ -1,0 +1,39 @@
+{
+    "Perform four-person transfer": [
+        {
+            "sentence": "The team gathers to discuss the four-person transfer procedure.",
+            "subject": "The team",
+            "action": "gathers",
+            "object": "to discuss the four-person transfer procedure",
+            "tools": "none"
+        },
+        {
+            "sentence": "The team positions themselves around the patient to ensure a safe transfer.",
+            "subject": "The team",
+            "action": "positions",
+            "object": "themselves around the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The team members coordinate their movements to lift the patient simultaneously.",
+            "subject": "The team members",
+            "action": "coordinate",
+            "object": "their movements to lift the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The team carefully transfers the patient to the designated location.",
+            "subject": "The team",
+            "action": "transfers",
+            "object": "the patient to the designated location",
+            "tools": "none"
+        },
+        {
+            "sentence": "The team checks the patient for any discomfort after the transfer.",
+            "subject": "The team",
+            "action": "checks",
+            "object": "the patient for any discomfort",
+            "tools": "none"
+        }
+    ]
+}

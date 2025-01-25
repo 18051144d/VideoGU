@@ -1,0 +1,39 @@
+{
+    "Pour sterile solution": [
+        {
+            "sentence": "The nurse prepares a sterile workspace by cleaning the area and gathering necessary supplies.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "a sterile workspace",
+            "tools": "cleaning supplies, workspace materials"
+        },
+        {
+            "sentence": "The nurse selects an appropriate sterile solution from the inventory.",
+            "subject": "The nurse",
+            "action": "selects",
+            "object": "an appropriate sterile solution",
+            "tools": "sterile solution inventory"
+        },
+        {
+            "sentence": "The nurse opens the sterile solution container carefully to maintain sterility.",
+            "subject": "The nurse",
+            "action": "opens",
+            "object": "the sterile solution container",
+            "tools": "sterile solution container"
+        },
+        {
+            "sentence": "The nurse pours the sterile solution into a clean receptacle without contaminating it.",
+            "subject": "The nurse",
+            "action": "pours",
+            "object": "the sterile solution",
+            "tools": "clean receptacle"
+        },
+        {
+            "sentence": "The nurse disposes of the empty container and any used materials according to safety protocols.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "the empty container and any used materials",
+            "tools": "safety disposal bins"
+        }
+    ]
+}

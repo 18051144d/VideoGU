@@ -1,0 +1,39 @@
+{
+    "Monitor blood oxygen saturation": [
+        {
+            "sentence": "The nurse prepares the pulse oximeter for use.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the pulse oximeter",
+            "tools": "pulse oximeter"
+        },
+        {
+            "sentence": "The nurse attaches the pulse oximeter probe to the patient's fingertip.",
+            "subject": "The nurse",
+            "action": "attaches",
+            "object": "the pulse oximeter probe",
+            "tools": "pulse oximeter probe"
+        },
+        {
+            "sentence": "The nurse ensures that the pulse oximeter is properly calibrated for accurate readings.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the pulse oximeter is properly calibrated",
+            "tools": "calibration settings"
+        },
+        {
+            "sentence": "The nurse observes the displayed blood oxygen saturation levels on the pulse oximeter.",
+            "subject": "The nurse",
+            "action": "observes",
+            "object": "the displayed blood oxygen saturation levels",
+            "tools": "pulse oximeter display"
+        },
+        {
+            "sentence": "The nurse documents the blood oxygen saturation readings in the patient's medical record.",
+            "subject": "The nurse",
+            "action": "documents",
+            "object": "the blood oxygen saturation readings",
+            "tools": "patient's medical record"
+        }
+    ]
+}

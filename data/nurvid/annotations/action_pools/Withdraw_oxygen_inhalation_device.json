@@ -1,0 +1,39 @@
+{
+    "Withdraw oxygen inhalation device": [
+        {
+            "sentence": "The healthcare provider assesses the patient's respiratory status before withdrawing the oxygen inhalation device.",
+            "subject": "The healthcare provider",
+            "action": "assesses",
+            "object": "the patient's respiratory status",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider explains the procedure to the patient to ensure understanding and cooperation.",
+            "subject": "The healthcare provider",
+            "action": "explains",
+            "object": "the procedure to the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider turns off the oxygen flow to the inhalation device prior to withdrawal.",
+            "subject": "The healthcare provider",
+            "action": "turns off",
+            "object": "the oxygen flow to the inhalation device",
+            "tools": "oxygen flow control valve"
+        },
+        {
+            "sentence": "The healthcare provider gently removes the oxygen inhalation device from the patient's face.",
+            "subject": "The healthcare provider",
+            "action": "removes",
+            "object": "the oxygen inhalation device from the patient's face",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider monitors the patient for any signs of respiratory distress after the device is withdrawn.",
+            "subject": "The healthcare provider",
+            "action": "monitors",
+            "object": "the patient for any signs of respiratory distress",
+            "tools": "monitoring equipment"
+        }
+    ]
+}

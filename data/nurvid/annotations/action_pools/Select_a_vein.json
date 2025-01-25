@@ -1,0 +1,39 @@
+{
+    "Select a vein": [
+        {
+            "sentence": "The healthcare provider assesses the patient's arms and hands to identify suitable veins for venipuncture.",
+            "subject": "The healthcare provider",
+            "action": "assesses",
+            "object": "the patient's arms and hands",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider palpates the identified veins to evaluate their depth and firmness.",
+            "subject": "The healthcare provider",
+            "action": "palpates",
+            "object": "the identified veins",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider cleans the selected area with an antiseptic solution to prevent infection.",
+            "subject": "The healthcare provider",
+            "action": "cleans",
+            "object": "the selected area",
+            "tools": "antiseptic solution"
+        },
+        {
+            "sentence": "The healthcare provider uses a tourniquet to engorge the vein and facilitate easier access.",
+            "subject": "The healthcare provider",
+            "action": "uses",
+            "object": "a tourniquet",
+            "tools": "tourniquet"
+        },
+        {
+            "sentence": "The healthcare provider confirms the selected vein's suitability before proceeding with the venipuncture.",
+            "subject": "The healthcare provider",
+            "action": "confirms",
+            "object": "the selected vein's suitability",
+            "tools": "none"
+        }
+    ]
+}

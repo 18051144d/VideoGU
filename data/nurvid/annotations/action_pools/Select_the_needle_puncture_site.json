@@ -1,0 +1,39 @@
+{
+    "Select the needle puncture site": [
+        {
+            "sentence": "The healthcare provider examines the patient's arm for suitable veins.",
+            "subject": "The healthcare provider",
+            "action": "examines",
+            "object": "the patient's arm",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider palpates the identified vein to assess its size and depth.",
+            "subject": "The healthcare provider",
+            "action": "palpates",
+            "object": "the identified vein",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider cleans the selected puncture site with an antiseptic wipe.",
+            "subject": "The healthcare provider",
+            "action": "cleans",
+            "object": "the selected puncture site",
+            "tools": "antiseptic wipe"
+        },
+        {
+            "sentence": "The healthcare provider marks the puncture site for easy identification during the procedure.",
+            "subject": "The healthcare provider",
+            "action": "marks",
+            "object": "the puncture site",
+            "tools": "marker"
+        },
+        {
+            "sentence": "The healthcare provider confirms the final puncture site with the patient to ensure comfort and consent.",
+            "subject": "The healthcare provider",
+            "action": "confirms",
+            "object": "the final puncture site",
+            "tools": "none"
+        }
+    ]
+}

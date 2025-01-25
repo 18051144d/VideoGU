@@ -1,0 +1,39 @@
+{
+    "Rinse mouth": [
+        {
+            "sentence": "The patient fills a cup with water.",
+            "subject": "The patient",
+            "action": "fills",
+            "object": "a cup with water",
+            "tools": "cup, water"
+        },
+        {
+            "sentence": "The patient takes a sip of water from the cup.",
+            "subject": "The patient",
+            "action": "takes",
+            "object": "a sip of water from the cup",
+            "tools": "cup, water"
+        },
+        {
+            "sentence": "The patient swishes the water around in the mouth.",
+            "subject": "The patient",
+            "action": "swishes",
+            "object": "the water around in the mouth",
+            "tools": "water"
+        },
+        {
+            "sentence": "The patient tilts the head back and spits the water into the sink.",
+            "subject": "The patient",
+            "action": "tilts",
+            "object": "the head back and spits the water into the sink",
+            "tools": "sink"
+        },
+        {
+            "sentence": "The patient rinses the mouth with clean water if necessary.",
+            "subject": "The patient",
+            "action": "rinses",
+            "object": "the mouth with clean water if necessary",
+            "tools": "clean water"
+        }
+    ]
+}

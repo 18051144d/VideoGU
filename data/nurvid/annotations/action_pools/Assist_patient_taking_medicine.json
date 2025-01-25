@@ -1,0 +1,39 @@
+{
+    "Assist patient taking medicine": [
+        {
+            "sentence": "The nurse prepares the prescribed medication for the patient.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the prescribed medication",
+            "tools": "medication container, measuring devices"
+        },
+        {
+            "sentence": "The nurse checks the patient's identification and medication instructions.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the patient's identification and medication instructions",
+            "tools": "patient ID bracelet, medication chart"
+        },
+        {
+            "sentence": "The nurse explains the purpose and dosage of the medication to the patient.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the purpose and dosage of the medication",
+            "tools": "patient education materials"
+        },
+        {
+            "sentence": "The nurse assists the patient in taking the medication safely.",
+            "subject": "The nurse",
+            "action": "assists",
+            "object": "the patient in taking the medication",
+            "tools": "glass of water, medication"
+        },
+        {
+            "sentence": "The nurse observes the patient for any immediate reactions after taking the medication.",
+            "subject": "The nurse",
+            "action": "observes",
+            "object": "the patient for any immediate reactions",
+            "tools": "observation chart, vital sign monitor"
+        }
+    ]
+}

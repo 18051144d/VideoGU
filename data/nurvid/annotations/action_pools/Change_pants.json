@@ -1,0 +1,39 @@
+{
+    "Change pants": [
+        {
+            "sentence": "The patient removes the soiled pants.",
+            "subject": "The patient",
+            "action": "removes",
+            "object": "the soiled pants",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver provides clean pants to the patient.",
+            "subject": "The caregiver",
+            "action": "provides",
+            "object": "clean pants",
+            "tools": "clean pants"
+        },
+        {
+            "sentence": "The patient puts on the clean pants.",
+            "subject": "The patient",
+            "action": "puts on",
+            "object": "the clean pants",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver assists the patient with fastening the pants if necessary.",
+            "subject": "The caregiver",
+            "action": "assists",
+            "object": "the patient with fastening the pants",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver ensures the patient is comfortable and the pants fit properly.",
+            "subject": "The caregiver",
+            "action": "ensures",
+            "object": "the patient is comfortable and the pants fit properly",
+            "tools": "none"
+        }
+    ]
+}

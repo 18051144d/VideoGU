@@ -1,0 +1,39 @@
+{
+    "Measure the length of PICC catheter": [
+        {
+            "sentence": "The nurse prepares the measuring tape for accurate measurement.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the measuring tape",
+            "tools": "measuring tape"
+        },
+        {
+            "sentence": "The nurse positions the patient\u2019s arm to ensure the catheter is straight.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient\u2019s arm",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse aligns the measuring tape with the PICC catheter's tip and the insertion site.",
+            "subject": "The nurse",
+            "action": "aligns",
+            "object": "the measuring tape",
+            "tools": "measuring tape"
+        },
+        {
+            "sentence": "The nurse reads the measurement from the tape to determine the catheter length.",
+            "subject": "The nurse",
+            "action": "reads",
+            "object": "the measurement",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse documents the catheter length in the patient's medical record.",
+            "subject": "The nurse",
+            "action": "documents",
+            "object": "the catheter length",
+            "tools": "medical record"
+        }
+    ]
+}

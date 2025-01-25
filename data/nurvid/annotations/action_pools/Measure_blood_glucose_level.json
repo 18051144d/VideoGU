@@ -1,0 +1,39 @@
+{
+    "Measure blood glucose level": [
+        {
+            "sentence": "The nurse cleans the patient's fingertip with an alcohol swab.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the patient's fingertip",
+            "tools": "alcohol swab"
+        },
+        {
+            "sentence": "The nurse pricks the patient's fingertip with a lancet.",
+            "subject": "The nurse",
+            "action": "pricks",
+            "object": "the patient's fingertip",
+            "tools": "lancet"
+        },
+        {
+            "sentence": "The nurse collects a drop of blood using a test strip.",
+            "subject": "The nurse",
+            "action": "collects",
+            "object": "a drop of blood",
+            "tools": "test strip"
+        },
+        {
+            "sentence": "The nurse inserts the test strip into the blood glucose meter.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "the test strip",
+            "tools": "blood glucose meter"
+        },
+        {
+            "sentence": "The meter displays the patient's blood glucose level.",
+            "subject": "The meter",
+            "action": "displays",
+            "object": "the patient's blood glucose level",
+            "tools": ""
+        }
+    ]
+}

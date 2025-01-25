@@ -1,0 +1,39 @@
+{
+    "Perform subcutaneous puncture": [
+        {
+            "sentence": "The nurse prepares the necessary equipment for the subcutaneous puncture.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the necessary equipment",
+            "tools": "syringe, needle, antiseptic, gauze, gloves"
+        },
+        {
+            "sentence": "The nurse cleans the puncture site on the patient\u2019s skin with antiseptic.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the puncture site",
+            "tools": "antiseptic"
+        },
+        {
+            "sentence": "The nurse inserts the needle into the subcutaneous tissue at the selected site.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "the needle",
+            "tools": "needle"
+        },
+        {
+            "sentence": "The nurse administers the medication slowly into the subcutaneous tissue.",
+            "subject": "The nurse",
+            "action": "administers",
+            "object": "the medication",
+            "tools": "syringe"
+        },
+        {
+            "sentence": "The nurse removes the needle and applies a gauze pad to the puncture site.",
+            "subject": "The nurse",
+            "action": "removes",
+            "object": "the needle",
+            "tools": "gauze pad"
+        }
+    ]
+}

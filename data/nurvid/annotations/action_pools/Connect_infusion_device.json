@@ -1,0 +1,39 @@
+{
+    "Connect infusion device": [
+        {
+            "sentence": "The nurse prepares the infusion device by checking all necessary components for functionality.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the infusion device",
+            "tools": "infusion device components"
+        },
+        {
+            "sentence": "The nurse selects an appropriate IV site on the patient for the infusion.",
+            "subject": "The nurse",
+            "action": "selects",
+            "object": "an appropriate IV site",
+            "tools": "IV site selection tools"
+        },
+        {
+            "sentence": "The nurse cleans the IV site using antiseptic wipes to prevent infection.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the IV site",
+            "tools": "antiseptic wipes"
+        },
+        {
+            "sentence": "The nurse connects the infusion tubing to the IV site, ensuring a secure fit.",
+            "subject": "The nurse",
+            "action": "connects",
+            "object": "the infusion tubing",
+            "tools": "infusion tubing"
+        },
+        {
+            "sentence": "The nurse programs the infusion device according to the prescribed medication and flow rate.",
+            "subject": "The nurse",
+            "action": "programs",
+            "object": "the infusion device",
+            "tools": "infusion device settings"
+        }
+    ]
+}

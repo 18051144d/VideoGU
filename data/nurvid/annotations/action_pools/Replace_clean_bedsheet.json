@@ -1,0 +1,39 @@
+{
+    "Replace clean bedsheet": [
+        {
+            "sentence": "The nurse gathers a clean bedsheet from the supply room.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "a clean bedsheet",
+            "tools": "supply room"
+        },
+        {
+            "sentence": "The nurse removes the soiled bedsheet from the patient's bed.",
+            "subject": "The nurse",
+            "action": "removes",
+            "object": "the soiled bedsheet",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse disposes of the soiled bedsheet in the designated laundry bin.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "the soiled bedsheet",
+            "tools": "laundry bin"
+        },
+        {
+            "sentence": "The nurse places the clean bedsheet on the patient's bed.",
+            "subject": "The nurse",
+            "action": "places",
+            "object": "the clean bedsheet",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse ensures that the clean bedsheet is smooth and wrinkle-free on the bed.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the clean bedsheet is smooth and wrinkle-free",
+            "tools": "none"
+        }
+    ]
+}

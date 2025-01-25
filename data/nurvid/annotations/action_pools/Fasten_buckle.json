@@ -1,0 +1,39 @@
+{
+    "Fasten buckle": [
+        {
+            "sentence": "The technician secures the buckle around the patient's waist.",
+            "subject": "The technician",
+            "action": "secures",
+            "object": "the buckle",
+            "tools": "buckle"
+        },
+        {
+            "sentence": "The technician ensures the buckle is aligned properly with the patient's body.",
+            "subject": "The technician",
+            "action": "ensures",
+            "object": "the buckle",
+            "tools": "alignment guide"
+        },
+        {
+            "sentence": "The technician pulls the strap to tighten the buckle to the appropriate tension.",
+            "subject": "The technician",
+            "action": "pulls",
+            "object": "the strap",
+            "tools": "tension gauge"
+        },
+        {
+            "sentence": "The technician checks that the buckle is securely fastened and adjusts if necessary.",
+            "subject": "The technician",
+            "action": "checks",
+            "object": "the buckle",
+            "tools": "manual"
+        },
+        {
+            "sentence": "The technician confirms that the patient is comfortable and safe with the fastened buckle.",
+            "subject": "The technician",
+            "action": "confirms",
+            "object": "the patient's comfort",
+            "tools": "patient feedback form"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Evaluate resuscitation effect": [
+        {
+            "sentence": "The healthcare provider assesses the patient's vital signs to determine the effectiveness of resuscitation efforts.",
+            "subject": "The healthcare provider",
+            "action": "assesses",
+            "object": "the patient's vital signs",
+            "tools": "stethoscope, pulse oximeter, blood pressure monitor"
+        },
+        {
+            "sentence": "The healthcare provider evaluates the patient's responsiveness and airway patency to gauge the success of resuscitation.",
+            "subject": "The healthcare provider",
+            "action": "evaluates",
+            "object": "the patient's responsiveness and airway patency",
+            "tools": "gloves, airway adjuncts"
+        },
+        {
+            "sentence": "The healthcare provider checks for adequate circulation by palpating the carotid pulse to assess blood flow.",
+            "subject": "The healthcare provider",
+            "action": "checks",
+            "object": "for adequate circulation",
+            "tools": "gloves"
+        },
+        {
+            "sentence": "The healthcare provider reviews the patient's cardiac rhythm using an electrocardiogram (ECG) to identify any abnormalities.",
+            "subject": "The healthcare provider",
+            "action": "reviews",
+            "object": "the patient's cardiac rhythm",
+            "tools": "electrocardiogram (ECG) machine"
+        },
+        {
+            "sentence": "The healthcare provider documents the findings and interventions performed to ensure accurate patient records.",
+            "subject": "The healthcare provider",
+            "action": "documents",
+            "object": "the findings and interventions performed",
+            "tools": "medical chart, pen"
+        }
+    ]
+}

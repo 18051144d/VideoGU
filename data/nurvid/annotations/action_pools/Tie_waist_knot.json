@@ -1,0 +1,39 @@
+{
+    "Tie waist knot": [
+        {
+            "sentence": "The patient stands upright to prepare for the waist knot.",
+            "subject": "The patient",
+            "action": "stands",
+            "object": "upright",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse gathers the necessary fabric or belt to create the waist knot.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "the necessary fabric or belt",
+            "tools": "fabric or belt"
+        },
+        {
+            "sentence": "The nurse positions the fabric or belt around the patient's waist.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the fabric or belt",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse crosses the ends of the fabric or belt securely.",
+            "subject": "The nurse",
+            "action": "crosses",
+            "object": "the ends of the fabric or belt",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse ties the ends of the fabric or belt into a knot to secure it.",
+            "subject": "The nurse",
+            "action": "ties",
+            "object": "the ends of the fabric or belt into a knot",
+            "tools": "none"
+        }
+    ]
+}

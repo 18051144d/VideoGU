@@ -1,0 +1,39 @@
+{
+    "Check the blood pressure meter": [
+        {
+            "sentence": "The nurse prepares the blood pressure meter for use.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the blood pressure meter",
+            "tools": "blood pressure meter"
+        },
+        {
+            "sentence": "The nurse ensures that the cuff is the correct size for the patient.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the cuff size",
+            "tools": "blood pressure cuff"
+        },
+        {
+            "sentence": "The nurse wraps the cuff around the patient's upper arm appropriately.",
+            "subject": "The nurse",
+            "action": "wraps",
+            "object": "the cuff",
+            "tools": "blood pressure cuff"
+        },
+        {
+            "sentence": "The nurse inflates the cuff to the recommended pressure level.",
+            "subject": "The nurse",
+            "action": "inflates",
+            "object": "the cuff",
+            "tools": "inflation bulb"
+        },
+        {
+            "sentence": "The nurse reads the blood pressure measurement from the gauge.",
+            "subject": "The nurse",
+            "action": "reads",
+            "object": "the blood pressure measurement",
+            "tools": "gauge"
+        }
+    ]
+}

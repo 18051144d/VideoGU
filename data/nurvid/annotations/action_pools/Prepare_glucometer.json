@@ -1,0 +1,39 @@
+{
+    "Prepare glucometer": [
+        {
+            "sentence": "The nurse gathers the glucometer and test strips from the supply cabinet.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "the glucometer and test strips",
+            "tools": "supply cabinet"
+        },
+        {
+            "sentence": "The nurse inserts a new test strip into the glucometer.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "a new test strip",
+            "tools": "glucometer"
+        },
+        {
+            "sentence": "The nurse ensures that the glucometer is turned on and ready for use.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the glucometer is turned on",
+            "tools": "glucometer"
+        },
+        {
+            "sentence": "The nurse prepares the patient's finger by cleaning it with an alcohol swab.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the patient's finger",
+            "tools": "alcohol swab"
+        },
+        {
+            "sentence": "The nurse pricks the patient's finger using a lancing device to obtain a blood sample.",
+            "subject": "The nurse",
+            "action": "pricks",
+            "object": "the patient's finger",
+            "tools": "lancing device"
+        }
+    ]
+}

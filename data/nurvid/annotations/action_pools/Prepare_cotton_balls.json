@@ -1,0 +1,39 @@
+{
+    "Prepare cotton balls": [
+        {
+            "sentence": "The nurse gathers the necessary materials for preparing cotton balls.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "the necessary materials",
+            "tools": "cotton balls, disinfectant, gloves"
+        },
+        {
+            "sentence": "The nurse puts on disposable gloves to maintain hygiene during the preparation process.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "disposable gloves",
+            "tools": "disposable gloves"
+        },
+        {
+            "sentence": "The nurse disinfects the work surface to ensure a sterile environment for the cotton balls.",
+            "subject": "The nurse",
+            "action": "disinfects",
+            "object": "the work surface",
+            "tools": "disinfectant"
+        },
+        {
+            "sentence": "The nurse takes the cotton balls from the packaging and places them on the disinfected surface.",
+            "subject": "The nurse",
+            "action": "takes",
+            "object": "the cotton balls",
+            "tools": "packaging, disinfected surface"
+        },
+        {
+            "sentence": "The nurse stores the prepared cotton balls in a clean, labeled container for future use.",
+            "subject": "The nurse",
+            "action": "stores",
+            "object": "the prepared cotton balls",
+            "tools": "clean container, labeling materials"
+        }
+    ]
+}

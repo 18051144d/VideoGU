@@ -1,0 +1,39 @@
+{
+    "Remove proximal bedsheet": [
+        {
+            "sentence": "The nurse ensures that the patient is comfortable and ready for the procedure.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the patient is comfortable and ready for the procedure",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse verifies that all necessary items are within reach before starting the process.",
+            "subject": "The nurse",
+            "action": "verifies",
+            "object": "all necessary items are within reach",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse carefully lifts the proximal bedsheet to avoid disturbing the patient.",
+            "subject": "The nurse",
+            "action": "lifts",
+            "object": "the proximal bedsheet",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse folds the proximal bedsheet neatly to maintain cleanliness and organization.",
+            "subject": "The nurse",
+            "action": "folds",
+            "object": "the proximal bedsheet neatly",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse disposes of the proximal bedsheet according to hospital protocols.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "the proximal bedsheet",
+            "tools": "none"
+        }
+    ]
+}

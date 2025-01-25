@@ -1,0 +1,39 @@
+{
+    "Venipuncture": [
+        {
+            "sentence": "The healthcare provider prepares the venipuncture site by cleaning it with an antiseptic swab.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the venipuncture site",
+            "tools": "antiseptic swab"
+        },
+        {
+            "sentence": "The healthcare provider selects an appropriate vein for the procedure.",
+            "subject": "The healthcare provider",
+            "action": "selects",
+            "object": "an appropriate vein",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider inserts a sterile needle into the selected vein to collect the blood sample.",
+            "subject": "The healthcare provider",
+            "action": "inserts",
+            "object": "a sterile needle",
+            "tools": "sterile needle"
+        },
+        {
+            "sentence": "The healthcare provider attaches a collection tube to the needle to capture the blood.",
+            "subject": "The healthcare provider",
+            "action": "attaches",
+            "object": "a collection tube",
+            "tools": "collection tube"
+        },
+        {
+            "sentence": "The healthcare provider removes the needle and applies pressure to the puncture site with a cotton ball.",
+            "subject": "The healthcare provider",
+            "action": "removes",
+            "object": "the needle",
+            "tools": "cotton ball"
+        }
+    ]
+}

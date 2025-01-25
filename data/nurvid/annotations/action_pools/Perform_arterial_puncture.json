@@ -1,0 +1,39 @@
+{
+    "Perform arterial puncture": [
+        {
+            "sentence": "The healthcare provider prepares the necessary tools for the arterial puncture.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the necessary tools",
+            "tools": "disinfectant, gloves, sterile needle, syringe, and bandage"
+        },
+        {
+            "sentence": "The healthcare provider cleans the puncture site using an antiseptic solution.",
+            "subject": "The healthcare provider",
+            "action": "cleans",
+            "object": "the puncture site",
+            "tools": "antiseptic solution and sterile gauze"
+        },
+        {
+            "sentence": "The healthcare provider palpates the artery to locate the optimal puncture site.",
+            "subject": "The healthcare provider",
+            "action": "palpates",
+            "object": "the artery",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider inserts the sterile needle into the artery at the identified site.",
+            "subject": "The healthcare provider",
+            "action": "inserts",
+            "object": "the sterile needle",
+            "tools": "sterile needle and syringe"
+        },
+        {
+            "sentence": "The healthcare provider applies pressure to the puncture site and secures a bandage after withdrawing the needle.",
+            "subject": "The healthcare provider",
+            "action": "applies",
+            "object": "pressure to the puncture site",
+            "tools": "bandage and sterile gauze"
+        }
+    ]
+}

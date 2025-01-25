@@ -1,0 +1,39 @@
+{
+    "Remove isolation gown": [
+        {
+            "sentence": "The healthcare worker ensures that the isolation gown is untied at the back.",
+            "subject": "The healthcare worker",
+            "action": "ensures",
+            "object": "the isolation gown is untied at the back",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare worker carefully pulls the gown away from the body, avoiding contact with the outside surface.",
+            "subject": "The healthcare worker",
+            "action": "pulls",
+            "object": "the gown away from the body",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare worker rolls the gown inward, trapping any contaminants inside.",
+            "subject": "The healthcare worker",
+            "action": "rolls",
+            "object": "the gown inward",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare worker discards the rolled gown into the designated waste bin.",
+            "subject": "The healthcare worker",
+            "action": "discards",
+            "object": "the rolled gown",
+            "tools": "designated waste bin"
+        },
+        {
+            "sentence": "The healthcare worker performs hand hygiene immediately after removing the gown.",
+            "subject": "The healthcare worker",
+            "action": "performs",
+            "object": "hand hygiene",
+            "tools": "hand sanitizer or soap and water"
+        }
+    ]
+}

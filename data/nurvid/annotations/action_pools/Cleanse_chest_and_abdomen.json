@@ -1,0 +1,39 @@
+{
+    "Cleanse chest and abdomen": [
+        {
+            "sentence": "The healthcare provider prepares the cleansing solution.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the cleansing solution",
+            "tools": "cleansing solution, container"
+        },
+        {
+            "sentence": "The healthcare provider gathers the necessary sterile supplies.",
+            "subject": "The healthcare provider",
+            "action": "gathers",
+            "object": "the necessary sterile supplies",
+            "tools": "sterile gauze, saline solution, gloves"
+        },
+        {
+            "sentence": "The healthcare provider puts on sterile gloves before starting the procedure.",
+            "subject": "The healthcare provider",
+            "action": "puts on",
+            "object": "sterile gloves",
+            "tools": "sterile gloves"
+        },
+        {
+            "sentence": "The healthcare provider applies the cleansing solution to the chest and abdomen using sterile gauze.",
+            "subject": "The healthcare provider",
+            "action": "applies",
+            "object": "the cleansing solution to the chest and abdomen",
+            "tools": "sterile gauze, cleansing solution"
+        },
+        {
+            "sentence": "The healthcare provider ensures that the chest and abdomen are thoroughly cleansed and dry.",
+            "subject": "The healthcare provider",
+            "action": "ensures",
+            "object": "the chest and abdomen are thoroughly cleansed and dry",
+            "tools": "none"
+        }
+    ]
+}

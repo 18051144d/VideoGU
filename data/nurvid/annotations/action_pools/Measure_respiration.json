@@ -1,0 +1,39 @@
+{
+    "Measure respiration": [
+        {
+            "sentence": "The nurse prepares the necessary equipment for measuring respiration.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the necessary equipment",
+            "tools": "stopwatch or timer, notepad, pen"
+        },
+        {
+            "sentence": "The nurse positions the patient comfortably in a sitting or lying position.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse explains the procedure to the patient to ensure understanding and cooperation.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the procedure",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse observes the patient's chest movements to count the number of breaths taken.",
+            "subject": "The nurse",
+            "action": "observes",
+            "object": "the patient's chest movements",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse records the number of breaths per minute in the patient's chart for future reference.",
+            "subject": "The nurse",
+            "action": "records",
+            "object": "the number of breaths per minute",
+            "tools": "notepad, pen"
+        }
+    ]
+}

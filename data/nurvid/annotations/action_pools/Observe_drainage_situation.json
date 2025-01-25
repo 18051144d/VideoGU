@@ -1,0 +1,39 @@
+{
+    "Observe drainage situation": [
+        {
+            "sentence": "The nurse inspects the drainage site for any signs of infection.",
+            "subject": "The nurse",
+            "action": "inspects",
+            "object": "the drainage site",
+            "tools": "gloves, flashlight"
+        },
+        {
+            "sentence": "The nurse measures the amount of drainage collected in the container.",
+            "subject": "The nurse",
+            "action": "measures",
+            "object": "the amount of drainage",
+            "tools": "graduated cylinder"
+        },
+        {
+            "sentence": "The nurse assesses the color and consistency of the drainage fluid.",
+            "subject": "The nurse",
+            "action": "assesses",
+            "object": "the color and consistency of the drainage fluid",
+            "tools": "clean gloves, container"
+        },
+        {
+            "sentence": "The nurse documents the findings in the patient's medical record.",
+            "subject": "The nurse",
+            "action": "documents",
+            "object": "the findings",
+            "tools": "electronic medical record system"
+        },
+        {
+            "sentence": "The nurse reports any abnormal findings to the attending physician.",
+            "subject": "The nurse",
+            "action": "reports",
+            "object": "any abnormal findings",
+            "tools": "telephone, medical record"
+        }
+    ]
+}

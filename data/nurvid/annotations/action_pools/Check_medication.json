@@ -1,0 +1,39 @@
+{
+    "Check medication": [
+        {
+            "sentence": "The nurse reviews the patient's medication list.",
+            "subject": "The nurse",
+            "action": "reviews",
+            "object": "the patient's medication list",
+            "tools": "patient's chart"
+        },
+        {
+            "sentence": "The nurse verifies the dosages of each medication.",
+            "subject": "The nurse",
+            "action": "verifies",
+            "object": "the dosages of each medication",
+            "tools": "dosage guidelines"
+        },
+        {
+            "sentence": "The nurse checks for potential drug interactions.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "for potential drug interactions",
+            "tools": "drug interaction database"
+        },
+        {
+            "sentence": "The nurse confirms the patient's allergies to medications.",
+            "subject": "The nurse",
+            "action": "confirms",
+            "object": "the patient's allergies to medications",
+            "tools": "allergy records"
+        },
+        {
+            "sentence": "The nurse documents any discrepancies or concerns in the patient's chart.",
+            "subject": "The nurse",
+            "action": "documents",
+            "object": "any discrepancies or concerns in the patient's chart",
+            "tools": "patient's chart"
+        }
+    ]
+}

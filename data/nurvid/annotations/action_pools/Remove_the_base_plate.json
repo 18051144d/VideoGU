@@ -1,0 +1,39 @@
+{
+    "Remove the base plate": [
+        {
+            "sentence": "The surgeon examines the patient's condition and determines the need to remove the base plate.",
+            "subject": "The surgeon",
+            "action": "examines",
+            "object": "the patient's condition",
+            "tools": "none"
+        },
+        {
+            "sentence": "The surgical team prepares the necessary instruments for the procedure, including a scalpel and forceps.",
+            "subject": "The surgical team",
+            "action": "prepares",
+            "object": "the necessary instruments",
+            "tools": "scalpel, forceps"
+        },
+        {
+            "sentence": "The anesthesiologist administers anesthesia to the patient to ensure comfort during the procedure.",
+            "subject": "The anesthesiologist",
+            "action": "administers",
+            "object": "anesthesia",
+            "tools": "anesthetic agents"
+        },
+        {
+            "sentence": "The surgeon carefully makes an incision to access the base plate and begins the removal process.",
+            "subject": "The surgeon",
+            "action": "makes",
+            "object": "an incision",
+            "tools": "scalpel"
+        },
+        {
+            "sentence": "The surgeon removes the base plate and examines the site for any signs of complication before closing the incision.",
+            "subject": "The surgeon",
+            "action": "removes",
+            "object": "the base plate",
+            "tools": "none"
+        }
+    ]
+}

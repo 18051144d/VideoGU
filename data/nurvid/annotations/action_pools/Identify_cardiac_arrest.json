@@ -1,0 +1,39 @@
+{
+    "Identify cardiac arrest": [
+        {
+            "sentence": "The healthcare provider assesses the patient's responsiveness by calling out and gently shaking the patient's shoulders.",
+            "subject": "The healthcare provider",
+            "action": "assesses",
+            "object": "the patient's responsiveness",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider checks for normal breathing by observing the patient's chest for rise and fall for at least 10 seconds.",
+            "subject": "The healthcare provider",
+            "action": "checks",
+            "object": "for normal breathing",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider feels for a pulse at the carotid artery for at least 5 to 10 seconds.",
+            "subject": "The healthcare provider",
+            "action": "feels",
+            "object": "for a pulse",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider determines cardiac arrest if the patient is unresponsive, not breathing, and has no pulse.",
+            "subject": "The healthcare provider",
+            "action": "determines",
+            "object": "cardiac arrest",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider activates the emergency response system to summon additional medical assistance immediately.",
+            "subject": "The healthcare provider",
+            "action": "activates",
+            "object": "the emergency response system",
+            "tools": "none"
+        }
+    ]
+}

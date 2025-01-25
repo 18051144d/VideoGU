@@ -1,0 +1,39 @@
+{
+    "Insert rectal tube": [
+        {
+            "sentence": "The healthcare provider prepares the rectal tube and lubricant for the procedure.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the rectal tube and lubricant",
+            "tools": "rectal tube, lubricant"
+        },
+        {
+            "sentence": "The patient assumes a comfortable position, typically lying on their side with knees drawn toward the chest.",
+            "subject": "The patient",
+            "action": "assumes",
+            "object": "a comfortable position",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider gently inserts the lubricated rectal tube into the patient's rectum.",
+            "subject": "The healthcare provider",
+            "action": "inserts",
+            "object": "the lubricated rectal tube",
+            "tools": "lubricated rectal tube"
+        },
+        {
+            "sentence": "The healthcare provider secures the rectal tube in place to prevent dislodgement.",
+            "subject": "The healthcare provider",
+            "action": "secures",
+            "object": "the rectal tube",
+            "tools": "tape or securing device"
+        },
+        {
+            "sentence": "The healthcare provider monitors the patient for any signs of discomfort or complications during the procedure.",
+            "subject": "The healthcare provider",
+            "action": "monitors",
+            "object": "the patient",
+            "tools": "none"
+        }
+    ]
+}

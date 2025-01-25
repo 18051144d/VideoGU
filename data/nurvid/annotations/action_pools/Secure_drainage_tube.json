@@ -1,0 +1,39 @@
+{
+    "Secure drainage tube": [
+        {
+            "sentence": "The nurse gathers the necessary tools including the drainage tube, sterile gloves, and adhesive tape.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "the necessary tools",
+            "tools": "drainage tube, sterile gloves, adhesive tape"
+        },
+        {
+            "sentence": "The nurse puts on sterile gloves to maintain a sterile environment.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "sterile gloves",
+            "tools": "sterile gloves"
+        },
+        {
+            "sentence": "The nurse carefully inserts the drainage tube into the appropriate anatomical site.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "the drainage tube",
+            "tools": "drainage tube"
+        },
+        {
+            "sentence": "The nurse secures the drainage tube in place using adhesive tape.",
+            "subject": "The nurse",
+            "action": "secures",
+            "object": "the drainage tube",
+            "tools": "adhesive tape"
+        },
+        {
+            "sentence": "The nurse checks the drainage system for proper function and leaks after securing the tube.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the drainage system",
+            "tools": "none"
+        }
+    ]
+}

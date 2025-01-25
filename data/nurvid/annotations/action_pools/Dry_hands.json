@@ -1,0 +1,39 @@
+{
+    "Dry hands": [
+        {
+            "sentence": "The healthcare worker turns on the hand dryer.",
+            "subject": "The healthcare worker",
+            "action": "turns on",
+            "object": "the hand dryer",
+            "tools": "hand dryer"
+        },
+        {
+            "sentence": "The healthcare worker positions their hands under the air nozzle.",
+            "subject": "The healthcare worker",
+            "action": "positions",
+            "object": "their hands",
+            "tools": "air nozzle"
+        },
+        {
+            "sentence": "The healthcare worker moves their hands around to ensure even drying.",
+            "subject": "The healthcare worker",
+            "action": "moves",
+            "object": "their hands",
+            "tools": "air nozzle"
+        },
+        {
+            "sentence": "The healthcare worker removes their hands after the drying cycle is complete.",
+            "subject": "The healthcare worker",
+            "action": "removes",
+            "object": "their hands",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare worker checks their hands for any remaining moisture.",
+            "subject": "The healthcare worker",
+            "action": "checks",
+            "object": "their hands",
+            "tools": "none"
+        }
+    ]
+}

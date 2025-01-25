@@ -1,0 +1,39 @@
+{
+    "Rinse with running water": [
+        {
+            "sentence": "The caregiver prepares a clean area for the procedure.",
+            "subject": "The caregiver",
+            "action": "prepares",
+            "object": "a clean area",
+            "tools": "cleaning supplies"
+        },
+        {
+            "sentence": "The caregiver ensures that running water is available and at a suitable temperature.",
+            "subject": "The caregiver",
+            "action": "ensures",
+            "object": "running water",
+            "tools": "water source, thermometer"
+        },
+        {
+            "sentence": "The caregiver directs the patient to the sink or water source.",
+            "subject": "The caregiver",
+            "action": "directs",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient holds the affected area under the running water.",
+            "subject": "The patient",
+            "action": "holds",
+            "object": "the affected area",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver monitors the rinsing process to ensure thorough cleaning.",
+            "subject": "The caregiver",
+            "action": "monitors",
+            "object": "the rinsing process",
+            "tools": "none"
+        }
+    ]
+}

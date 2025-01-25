@@ -1,0 +1,39 @@
+{
+    "Dispose of arterial blood collection device": [
+        {
+            "sentence": "The healthcare worker verifies the disposal protocol for the arterial blood collection device.",
+            "subject": "The healthcare worker",
+            "action": "verifies",
+            "object": "the disposal protocol for the arterial blood collection device",
+            "tools": "disposal guidelines"
+        },
+        {
+            "sentence": "The healthcare worker puts on gloves to ensure safety during disposal.",
+            "subject": "The healthcare worker",
+            "action": "puts on",
+            "object": "gloves",
+            "tools": "personal protective equipment"
+        },
+        {
+            "sentence": "The healthcare worker carefully places the used arterial blood collection device into a designated sharps container.",
+            "subject": "The healthcare worker",
+            "action": "places",
+            "object": "the used arterial blood collection device",
+            "tools": "sharps container"
+        },
+        {
+            "sentence": "The healthcare worker ensures that the sharps container is properly sealed after the device is disposed of.",
+            "subject": "The healthcare worker",
+            "action": "ensures",
+            "object": "that the sharps container is properly sealed",
+            "tools": "sealed sharps container"
+        },
+        {
+            "sentence": "The healthcare worker documents the disposal of the arterial blood collection device in the patient's medical record.",
+            "subject": "The healthcare worker",
+            "action": "documents",
+            "object": "the disposal of the arterial blood collection device",
+            "tools": "patient's medical record"
+        }
+    ]
+}

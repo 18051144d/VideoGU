@@ -1,0 +1,39 @@
+{
+    "Disinfect instruments": [
+        {
+            "sentence": "The technician gathers all used surgical instruments for disinfection.",
+            "subject": "The technician",
+            "action": "gathers",
+            "object": "all used surgical instruments",
+            "tools": "none"
+        },
+        {
+            "sentence": "The technician cleans the instruments with soap and water to remove any debris.",
+            "subject": "The technician",
+            "action": "cleans",
+            "object": "the instruments",
+            "tools": "soap, water, scrub brush"
+        },
+        {
+            "sentence": "The technician immerses the instruments in a disinfectant solution for the recommended time.",
+            "subject": "The technician",
+            "action": "immerses",
+            "object": "the instruments",
+            "tools": "disinfectant solution, timer"
+        },
+        {
+            "sentence": "The technician rinses the instruments with sterile water to remove any residual disinfectant.",
+            "subject": "The technician",
+            "action": "rinses",
+            "object": "the instruments",
+            "tools": "sterile water"
+        },
+        {
+            "sentence": "The technician dries the instruments using a clean, sterile cloth before storage.",
+            "subject": "The technician",
+            "action": "dries",
+            "object": "the instruments",
+            "tools": "clean, sterile cloth"
+        }
+    ]
+}

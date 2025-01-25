@@ -1,0 +1,39 @@
+{
+    "Check the thermometer": [
+        {
+            "sentence": "The nurse prepares the thermometer by ensuring it is clean and functional.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the thermometer",
+            "tools": "cleaning supplies, thermometer"
+        },
+        {
+            "sentence": "The nurse positions the thermometer appropriately under the patient's tongue or in the armpit.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the thermometer",
+            "tools": "thermometer"
+        },
+        {
+            "sentence": "The patient remains still while the thermometer measures the body temperature.",
+            "subject": "The patient",
+            "action": "remains",
+            "object": "still",
+            "tools": "thermometer"
+        },
+        {
+            "sentence": "The nurse reads the thermometer display to obtain the temperature reading.",
+            "subject": "The nurse",
+            "action": "reads",
+            "object": "the thermometer display",
+            "tools": "thermometer"
+        },
+        {
+            "sentence": "The nurse records the temperature reading in the patient's medical chart.",
+            "subject": "The nurse",
+            "action": "records",
+            "object": "the temperature reading",
+            "tools": "medical chart"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Check": [
+        {
+            "sentence": "The nurse prepares the examination room for the check-up.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the examination room",
+            "tools": "medical equipment, examination table, cleaning supplies"
+        },
+        {
+            "sentence": "The nurse greets the patient and reviews their medical history.",
+            "subject": "The nurse",
+            "action": "greets",
+            "object": "the patient",
+            "tools": "medical history form"
+        },
+        {
+            "sentence": "The nurse measures the patient's vital signs including blood pressure, heart rate, and temperature.",
+            "subject": "The nurse",
+            "action": "measures",
+            "object": "the patient's vital signs",
+            "tools": "sphygmomanometer, thermometer, pulse oximeter"
+        },
+        {
+            "sentence": "The nurse conducts a physical examination based on the patient's symptoms.",
+            "subject": "The nurse",
+            "action": "conducts",
+            "object": "a physical examination",
+            "tools": "stethoscope, otoscope, reflex hammer"
+        },
+        {
+            "sentence": "The nurse documents the findings and discusses any necessary follow-up with the patient.",
+            "subject": "The nurse",
+            "action": "documents",
+            "object": "the findings",
+            "tools": "medical record system, note-taking materials"
+        }
+    ]
+}

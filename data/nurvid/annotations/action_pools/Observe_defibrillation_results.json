@@ -1,0 +1,39 @@
+{
+    "Observe defibrillation results": [
+        {
+            "sentence": "The medical team monitors the patient's vital signs during the defibrillation procedure.",
+            "subject": "The medical team",
+            "action": "monitors",
+            "object": "the patient's vital signs",
+            "tools": "monitoring devices"
+        },
+        {
+            "sentence": "The nurse checks the defibrillator's settings to ensure proper function.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the defibrillator's settings",
+            "tools": "defibrillator"
+        },
+        {
+            "sentence": "The physician evaluates the patient's response immediately after the shock is delivered.",
+            "subject": "The physician",
+            "action": "evaluates",
+            "object": "the patient's response",
+            "tools": "clinical observation"
+        },
+        {
+            "sentence": "The medical team records the outcomes of the defibrillation in the patient's medical chart.",
+            "subject": "The medical team",
+            "action": "records",
+            "object": "the outcomes of the defibrillation",
+            "tools": "medical chart"
+        },
+        {
+            "sentence": "The cardiologist analyzes the recorded data to determine the effectiveness of the defibrillation.",
+            "subject": "The cardiologist",
+            "action": "analyzes",
+            "object": "the recorded data",
+            "tools": "analysis tools"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Dry hair": [
+        {
+            "sentence": "The stylist applies a heat protectant spray to the patient's damp hair.",
+            "subject": "The stylist",
+            "action": "applies",
+            "object": "a heat protectant spray",
+            "tools": "heat protectant spray"
+        },
+        {
+            "sentence": "The stylist uses a blow dryer to dry the patient's hair.",
+            "subject": "The stylist",
+            "action": "uses",
+            "object": "a blow dryer",
+            "tools": "blow dryer"
+        },
+        {
+            "sentence": "The stylist sections the patient's hair to ensure even drying.",
+            "subject": "The stylist",
+            "action": "sections",
+            "object": "the patient's hair",
+            "tools": "hair clips"
+        },
+        {
+            "sentence": "The stylist directs the blow dryer in a downward motion to minimize frizz.",
+            "subject": "The stylist",
+            "action": "directs",
+            "object": "the blow dryer",
+            "tools": "blow dryer"
+        },
+        {
+            "sentence": "The stylist checks the patient's hair for dryness and applies finishing products as needed.",
+            "subject": "The stylist",
+            "action": "checks",
+            "object": "the patient's hair",
+            "tools": "finishing products"
+        }
+    ]
+}

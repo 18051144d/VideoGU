@@ -1,0 +1,32 @@
+{
+    "Confirm the position of the gastric tube in the stomach": [
+        {
+            "sentence": "The nurse prepares the necessary equipment for confirming the position of the gastric tube.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the necessary equipment",
+            "tools": "pH test strips, syringe, stethoscope"
+        },
+        {
+            "sentence": "The nurse inserts a syringe into the gastric tube and withdraws a small amount of gastric contents.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "a syringe",
+            "tools": "syringe"
+        },
+        {
+            "sentence": "The nurse tests the pH of the gastric contents using pH test strips.",
+            "subject": "The nurse",
+            "action": "tests",
+            "object": "the pH of the gastric contents",
+            "tools": "pH test strips"
+        },
+        {
+            "sentence": "The nurse listens with a stethoscope while injecting air into the gastric tube to confirm placement.",
+            "subject": "The nurse",
+            "action": "listens",
+            "object": "while injecting air into the gastric tube",
+            "tools": "stethoscope, air"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Secure gastric tube": [
+        {
+            "sentence": "The nurse positions the patient in a semi-upright position to facilitate gastric tube insertion.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse measures the appropriate length of the gastric tube from the patient's nose to the stomach.",
+            "subject": "The nurse",
+            "action": "measures",
+            "object": "the appropriate length of the gastric tube",
+            "tools": "gastric tube, measuring tape"
+        },
+        {
+            "sentence": "The nurse applies lubricant to the tip of the gastric tube to ease the insertion process.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "lubricant to the tip of the gastric tube",
+            "tools": "lubricant"
+        },
+        {
+            "sentence": "The nurse gently inserts the gastric tube into the patient's nostril and advances it toward the stomach.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "the gastric tube into the patient's nostril",
+            "tools": "gastric tube"
+        },
+        {
+            "sentence": "The nurse confirms proper placement of the gastric tube by checking for gastric contents or auscultating the abdomen.",
+            "subject": "The nurse",
+            "action": "confirms",
+            "object": "proper placement of the gastric tube",
+            "tools": "syringe, stethoscope"
+        }
+    ]
+}

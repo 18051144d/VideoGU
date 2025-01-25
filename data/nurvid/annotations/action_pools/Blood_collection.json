@@ -1,0 +1,39 @@
+{
+    "Blood collection": [
+        {
+            "sentence": "The healthcare professional prepares the blood collection site by cleaning it with an antiseptic wipe.",
+            "subject": "The healthcare professional",
+            "action": "prepares",
+            "object": "the blood collection site",
+            "tools": "antiseptic wipe"
+        },
+        {
+            "sentence": "The healthcare professional applies a tourniquet above the intended venipuncture site to engorge the vein.",
+            "subject": "The healthcare professional",
+            "action": "applies",
+            "object": "a tourniquet",
+            "tools": "tourniquet"
+        },
+        {
+            "sentence": "The healthcare professional inserts a sterile needle into the vein to collect blood.",
+            "subject": "The healthcare professional",
+            "action": "inserts",
+            "object": "a sterile needle",
+            "tools": "sterile needle"
+        },
+        {
+            "sentence": "The healthcare professional fills the blood collection tubes to the required volume.",
+            "subject": "The healthcare professional",
+            "action": "fills",
+            "object": "the blood collection tubes",
+            "tools": "blood collection tubes"
+        },
+        {
+            "sentence": "The healthcare professional removes the needle and applies pressure to the puncture site with a gauze pad.",
+            "subject": "The healthcare professional",
+            "action": "removes",
+            "object": "the needle",
+            "tools": "gauze pad"
+        }
+    ]
+}

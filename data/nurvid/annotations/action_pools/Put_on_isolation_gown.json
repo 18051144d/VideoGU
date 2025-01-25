@@ -1,0 +1,39 @@
+{
+    "Put on isolation gown": [
+        {
+            "sentence": "The healthcare worker dons an isolation gown to prevent contamination.",
+            "subject": "The healthcare worker",
+            "action": "dons",
+            "object": "an isolation gown",
+            "tools": "isolation gown"
+        },
+        {
+            "sentence": "The healthcare worker ensures the gown is fully fastened at the back for proper coverage.",
+            "subject": "The healthcare worker",
+            "action": "ensures",
+            "object": "the gown is fully fastened at the back",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare worker checks for any tears or defects in the gown before use.",
+            "subject": "The healthcare worker",
+            "action": "checks",
+            "object": "for any tears or defects in the gown",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare worker verifies that the gown fits properly to maintain comfort and mobility.",
+            "subject": "The healthcare worker",
+            "action": "verifies",
+            "object": "that the gown fits properly",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare worker performs hand hygiene after putting on the isolation gown.",
+            "subject": "The healthcare worker",
+            "action": "performs",
+            "object": "hand hygiene",
+            "tools": "hand sanitizer"
+        }
+    ]
+}

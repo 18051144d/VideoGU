@@ -1,0 +1,39 @@
+{
+    "Secure the base": [
+        {
+            "sentence": "The technician prepares the necessary securing materials.",
+            "subject": "The technician",
+            "action": "prepares",
+            "object": "the necessary securing materials",
+            "tools": "securing materials such as straps or clamps"
+        },
+        {
+            "sentence": "The technician positions the securing materials around the base.",
+            "subject": "The technician",
+            "action": "positions",
+            "object": "the securing materials around the base",
+            "tools": "securing materials"
+        },
+        {
+            "sentence": "The technician tightens the securing materials to ensure stability.",
+            "subject": "The technician",
+            "action": "tightens",
+            "object": "the securing materials",
+            "tools": "tightening tool or manual effort"
+        },
+        {
+            "sentence": "The technician inspects the secured base for any movement or instability.",
+            "subject": "The technician",
+            "action": "inspects",
+            "object": "the secured base",
+            "tools": "visual inspection"
+        },
+        {
+            "sentence": "The technician documents the completion of the securing process.",
+            "subject": "The technician",
+            "action": "documents",
+            "object": "the completion of the securing process",
+            "tools": "documentation tools such as a logbook or electronic device"
+        }
+    ]
+}

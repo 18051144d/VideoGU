@@ -1,0 +1,39 @@
+{
+    "Cleanse lips": [
+        {
+            "sentence": "The nurse gathers the necessary cleansing supplies.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "the necessary cleansing supplies",
+            "tools": "cleansing wipes or solution, cotton swabs, gloves"
+        },
+        {
+            "sentence": "The nurse puts on disposable gloves to maintain hygiene.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "disposable gloves",
+            "tools": "disposable gloves"
+        },
+        {
+            "sentence": "The nurse carefully cleanses the patient's lips with the cleansing wipes.",
+            "subject": "The nurse",
+            "action": "cleanses",
+            "object": "the patient's lips",
+            "tools": "cleansing wipes"
+        },
+        {
+            "sentence": "The nurse ensures that all residue is removed from the patient's lips.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "that all residue is removed from the patient's lips",
+            "tools": "cleansing wipes, cotton swabs"
+        },
+        {
+            "sentence": "The nurse disposes of used materials properly to maintain cleanliness.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "of used materials",
+            "tools": "biohazard waste container"
+        }
+    ]
+}

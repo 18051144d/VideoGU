@@ -1,0 +1,39 @@
+{
+    "Change pillowcase": [
+        {
+            "sentence": "The nurse removes the used pillowcase from the pillow.",
+            "subject": "The nurse",
+            "action": "removes",
+            "object": "the used pillowcase",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse places the used pillowcase in the laundry bin.",
+            "subject": "The nurse",
+            "action": "places",
+            "object": "the used pillowcase",
+            "tools": "laundry bin"
+        },
+        {
+            "sentence": "The nurse takes a clean pillowcase from the linen supply.",
+            "subject": "The nurse",
+            "action": "takes",
+            "object": "a clean pillowcase",
+            "tools": "linen supply"
+        },
+        {
+            "sentence": "The nurse puts the clean pillowcase on the pillow.",
+            "subject": "The nurse",
+            "action": "puts",
+            "object": "the clean pillowcase",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse ensures the pillowcase is properly fitted and wrinkle-free.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the pillowcase is properly fitted and wrinkle-free",
+            "tools": "none"
+        }
+    ]
+}

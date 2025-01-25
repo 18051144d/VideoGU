@@ -1,0 +1,39 @@
+{
+    "Expose the connection sit": [
+        {
+            "sentence": "The surgeon prepares the operating room by ensuring all necessary instruments are sterilized and ready for use.",
+            "subject": "The surgeon",
+            "action": "prepares",
+            "object": "the operating room",
+            "tools": "sterilized instruments"
+        },
+        {
+            "sentence": "The anesthesiologist administers anesthesia to the patient to ensure they are comfortably sedated during the procedure.",
+            "subject": "The anesthesiologist",
+            "action": "administers",
+            "object": "anesthesia",
+            "tools": "anesthetic agents"
+        },
+        {
+            "sentence": "The surgeon makes an incision at the designated site to gain access to the underlying structures.",
+            "subject": "The surgeon",
+            "action": "makes",
+            "object": "an incision",
+            "tools": "scalpel"
+        },
+        {
+            "sentence": "The surgical team identifies the connection site that requires exposure and carefully dissects surrounding tissues.",
+            "subject": "The surgical team",
+            "action": "identifies",
+            "object": "the connection site",
+            "tools": "dissection instruments"
+        },
+        {
+            "sentence": "The surgeon exposes the connection site adequately for any necessary procedures or repairs to be performed.",
+            "subject": "The surgeon",
+            "action": "exposes",
+            "object": "the connection site",
+            "tools": "retractors"
+        }
+    ]
+}

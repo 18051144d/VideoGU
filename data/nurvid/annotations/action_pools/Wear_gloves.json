@@ -1,0 +1,39 @@
+{
+    "Wear gloves": [
+        {
+            "sentence": "The healthcare worker inspects the gloves for any defects before wearing them.",
+            "subject": "The healthcare worker",
+            "action": "inspects",
+            "object": "the gloves",
+            "tools": "gloves"
+        },
+        {
+            "sentence": "The healthcare worker selects the appropriate size of gloves for the procedure.",
+            "subject": "The healthcare worker",
+            "action": "selects",
+            "object": "the appropriate size of gloves",
+            "tools": "gloves"
+        },
+        {
+            "sentence": "The healthcare worker puts on the gloves using the proper technique to avoid contamination.",
+            "subject": "The healthcare worker",
+            "action": "puts on",
+            "object": "the gloves",
+            "tools": "gloves"
+        },
+        {
+            "sentence": "The healthcare worker ensures the gloves fit securely and comfortably on both hands.",
+            "subject": "The healthcare worker",
+            "action": "ensures",
+            "object": "the gloves fit securely and comfortably",
+            "tools": "gloves"
+        },
+        {
+            "sentence": "The healthcare worker disposes of the gloves properly after the procedure is complete.",
+            "subject": "The healthcare worker",
+            "action": "disposes of",
+            "object": "the gloves",
+            "tools": "disposal bin"
+        }
+    ]
+}

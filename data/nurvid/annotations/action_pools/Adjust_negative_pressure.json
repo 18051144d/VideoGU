@@ -1,0 +1,39 @@
+{
+    "Adjust negative pressure": [
+        {
+            "sentence": "The clinician prepares the negative pressure device by ensuring it is clean and functioning properly.",
+            "subject": "The clinician",
+            "action": "prepares",
+            "object": "the negative pressure device",
+            "tools": "cleaning supplies, negative pressure device"
+        },
+        {
+            "sentence": "The clinician assesses the patient's wound to determine the appropriate settings for the negative pressure therapy.",
+            "subject": "The clinician",
+            "action": "assesses",
+            "object": "the patient's wound",
+            "tools": "assessment tools"
+        },
+        {
+            "sentence": "The clinician applies the dressing around the wound and connects it to the negative pressure device.",
+            "subject": "The clinician",
+            "action": "applies",
+            "object": "the dressing",
+            "tools": "dressing, adhesive, connectors"
+        },
+        {
+            "sentence": "The clinician sets the negative pressure levels according to the treatment plan.",
+            "subject": "The clinician",
+            "action": "sets",
+            "object": "the negative pressure levels",
+            "tools": "negative pressure device controls"
+        },
+        {
+            "sentence": "The clinician monitors the patient's response to the therapy and makes adjustments as necessary.",
+            "subject": "The clinician",
+            "action": "monitors",
+            "object": "the patient's response",
+            "tools": "monitoring equipment"
+        }
+    ]
+}

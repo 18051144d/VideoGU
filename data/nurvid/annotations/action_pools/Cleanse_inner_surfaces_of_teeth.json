@@ -1,0 +1,39 @@
+{
+    "Cleanse inner surfaces of teeth": [
+        {
+            "sentence": "The dental hygienist prepares the necessary tools for the teeth cleaning procedure.",
+            "subject": "The dental hygienist",
+            "action": "prepares",
+            "object": "the necessary tools",
+            "tools": "toothbrush, dental floss, toothpaste, mouthwash, scaler"
+        },
+        {
+            "sentence": "The dental hygienist instructs the patient to sit comfortably in the dental chair.",
+            "subject": "The dental hygienist",
+            "action": "instructs",
+            "object": "the patient",
+            "tools": "dental chair"
+        },
+        {
+            "sentence": "The dental hygienist uses a toothbrush and toothpaste to brush the patient's teeth thoroughly.",
+            "subject": "The dental hygienist",
+            "action": "uses",
+            "object": "the patient's teeth",
+            "tools": "toothbrush, toothpaste"
+        },
+        {
+            "sentence": "The dental hygienist utilizes dental floss to clean between the patient's teeth.",
+            "subject": "The dental hygienist",
+            "action": "utilizes",
+            "object": "dental floss",
+            "tools": "dental floss"
+        },
+        {
+            "sentence": "The dental hygienist rinses the patient's mouth with mouthwash to remove debris and refresh breath.",
+            "subject": "The dental hygienist",
+            "action": "rinses",
+            "object": "the patient's mouth",
+            "tools": "mouthwash"
+        }
+    ]
+}

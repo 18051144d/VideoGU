@@ -1,0 +1,39 @@
+{
+    "Check the pressure reducer": [
+        {
+            "sentence": "The technician inspects the pressure reducer for any visible signs of damage.",
+            "subject": "The technician",
+            "action": "inspects",
+            "object": "the pressure reducer",
+            "tools": "visual inspection tools"
+        },
+        {
+            "sentence": "The technician connects a pressure gauge to the pressure reducer to measure the output pressure.",
+            "subject": "The technician",
+            "action": "connects",
+            "object": "a pressure gauge",
+            "tools": "pressure gauge"
+        },
+        {
+            "sentence": "The technician adjusts the settings on the pressure reducer to ensure proper functionality.",
+            "subject": "The technician",
+            "action": "adjusts",
+            "object": "the settings on the pressure reducer",
+            "tools": "adjustment tools"
+        },
+        {
+            "sentence": "The technician verifies the output pressure readings against standard specifications.",
+            "subject": "The technician",
+            "action": "verifies",
+            "object": "the output pressure readings",
+            "tools": "standard specifications document"
+        },
+        {
+            "sentence": "The technician documents the inspection results in the maintenance log.",
+            "subject": "The technician",
+            "action": "documents",
+            "object": "the inspection results",
+            "tools": "maintenance log"
+        }
+    ]
+}

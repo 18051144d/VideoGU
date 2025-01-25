@@ -1,0 +1,39 @@
+{
+    "Cleanse cheeks": [
+        {
+            "sentence": "The nurse prepares the cleansing solution.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the cleansing solution",
+            "tools": "cleansing solution"
+        },
+        {
+            "sentence": "The nurse gently cleans the patient's cheeks using a cotton pad.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the patient's cheeks",
+            "tools": "cotton pad"
+        },
+        {
+            "sentence": "The nurse ensures that the cleansing solution is evenly applied to the cheeks.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the cleansing solution is evenly applied to the cheeks",
+            "tools": "cleansing solution"
+        },
+        {
+            "sentence": "The nurse assesses the patient's skin for any reactions after cleansing.",
+            "subject": "The nurse",
+            "action": "assesses",
+            "object": "the patient's skin for any reactions",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse disposes of the used cotton pad properly.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "the used cotton pad",
+            "tools": "waste disposal container"
+        }
+    ]
+}

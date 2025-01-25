@@ -1,0 +1,39 @@
+{
+    "Trim ostomy bag baseplate": [
+        {
+            "sentence": "The nurse prepares the necessary tools for trimming the ostomy bag baseplate.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the necessary tools",
+            "tools": "scissors, measuring guide, adhesive remover"
+        },
+        {
+            "sentence": "The patient cleans the skin around the stoma with an adhesive remover.",
+            "subject": "The patient",
+            "action": "cleans",
+            "object": "the skin around the stoma",
+            "tools": "adhesive remover, gauze"
+        },
+        {
+            "sentence": "The nurse measures the stoma's size using a measuring guide.",
+            "subject": "The nurse",
+            "action": "measures",
+            "object": "the stoma's size",
+            "tools": "measuring guide"
+        },
+        {
+            "sentence": "The nurse trims the ostomy bag baseplate according to the measured size.",
+            "subject": "The nurse",
+            "action": "trims",
+            "object": "the ostomy bag baseplate",
+            "tools": "scissors"
+        },
+        {
+            "sentence": "The nurse applies the trimmed baseplate to the patient's skin around the stoma.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "the trimmed baseplate",
+            "tools": "adhesive"
+        }
+    ]
+}

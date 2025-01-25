@@ -1,0 +1,39 @@
+{
+    "Connect injection device": [
+        {
+            "sentence": "The technician prepares the injection device for use.",
+            "subject": "The technician",
+            "action": "prepares",
+            "object": "the injection device",
+            "tools": "cleaning supplies, device components"
+        },
+        {
+            "sentence": "The technician checks the compatibility of the injection device with the medication.",
+            "subject": "The technician",
+            "action": "checks",
+            "object": "the compatibility of the injection device with the medication",
+            "tools": "medication information, compatibility charts"
+        },
+        {
+            "sentence": "The technician securely connects the injection device to the medication vial.",
+            "subject": "The technician",
+            "action": "connects",
+            "object": "the injection device to the medication vial",
+            "tools": "connection adapters, syringes"
+        },
+        {
+            "sentence": "The technician verifies that the connections are tight and leak-free.",
+            "subject": "The technician",
+            "action": "verifies",
+            "object": "that the connections are tight and leak-free",
+            "tools": "visual inspection tools"
+        },
+        {
+            "sentence": "The technician performs a test injection to ensure proper functionality.",
+            "subject": "The technician",
+            "action": "performs",
+            "object": "a test injection to ensure proper functionality",
+            "tools": "test medication, safety equipment"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Perform three-person transfer": [
+        {
+            "sentence": "The team of caregivers assesses the patient's physical condition and mobility needs for a safe transfer.",
+            "subject": "The team of caregivers",
+            "action": "assesses",
+            "object": "the patient's physical condition and mobility needs",
+            "tools": "assessment forms"
+        },
+        {
+            "sentence": "The caregivers position themselves strategically around the patient to ensure stability and support during the transfer.",
+            "subject": "The caregivers",
+            "action": "position",
+            "object": "themselves strategically around the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The lead caregiver communicates the transfer plan clearly to the other caregivers to ensure everyone understands their roles.",
+            "subject": "The lead caregiver",
+            "action": "communicates",
+            "object": "the transfer plan",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregivers coordinate their movements and carefully lift the patient using proper body mechanics to prevent injury.",
+            "subject": "The caregivers",
+            "action": "coordinate",
+            "object": "their movements and lift the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The team gently places the patient onto the designated surface and checks for comfort and safety after the transfer.",
+            "subject": "The team",
+            "action": "places",
+            "object": "the patient onto the designated surface",
+            "tools": "none"
+        }
+    ]
+}

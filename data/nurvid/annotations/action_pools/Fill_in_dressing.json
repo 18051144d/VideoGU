@@ -1,0 +1,39 @@
+{
+    "Fill in dressing": [
+        {
+            "sentence": "The nurse prepares the sterile dressing and necessary tools for the procedure.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the sterile dressing and necessary tools",
+            "tools": "sterile dressing, scissors, gloves, antiseptic wipes"
+        },
+        {
+            "sentence": "The nurse cleans the wound area thoroughly using antiseptic wipes.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the wound area",
+            "tools": "antiseptic wipes"
+        },
+        {
+            "sentence": "The nurse applies the sterile dressing over the cleaned wound.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "the sterile dressing",
+            "tools": "sterile dressing"
+        },
+        {
+            "sentence": "The nurse ensures that the dressing is securely adhered to the skin.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the dressing is securely adhered",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse disposes of any used materials in accordance with safety protocols.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "any used materials",
+            "tools": "none"
+        }
+    ]
+}

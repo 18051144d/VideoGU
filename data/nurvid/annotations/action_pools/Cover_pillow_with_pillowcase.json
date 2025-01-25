@@ -1,0 +1,39 @@
+{
+    "Cover pillow with pillowcase": [
+        {
+            "sentence": "The patient selects a clean pillowcase from the linen closet.",
+            "subject": "The patient",
+            "action": "selects",
+            "object": "a clean pillowcase",
+            "tools": "linen closet"
+        },
+        {
+            "sentence": "The patient holds the pillow in one hand and the pillowcase in the other hand.",
+            "subject": "The patient",
+            "action": "holds",
+            "object": "the pillow and the pillowcase",
+            "tools": "hands"
+        },
+        {
+            "sentence": "The patient opens the pillowcase by holding the opening with both hands.",
+            "subject": "The patient",
+            "action": "opens",
+            "object": "the pillowcase",
+            "tools": "hands"
+        },
+        {
+            "sentence": "The patient inserts the pillow into the opened pillowcase.",
+            "subject": "The patient",
+            "action": "inserts",
+            "object": "the pillow",
+            "tools": "pillowcase"
+        },
+        {
+            "sentence": "The patient shakes the pillowcase to ensure the pillow is fully enclosed.",
+            "subject": "The patient",
+            "action": "shakes",
+            "object": "the pillowcase",
+            "tools": "hands"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Cover with bed sheet": [
+        {
+            "sentence": "The caregiver gathers a clean bed sheet from the storage area.",
+            "subject": "The caregiver",
+            "action": "gathers",
+            "object": "a clean bed sheet",
+            "tools": "storage area"
+        },
+        {
+            "sentence": "The caregiver approaches the patient's bed with the bed sheet in hand.",
+            "subject": "The caregiver",
+            "action": "approaches",
+            "object": "the patient's bed",
+            "tools": "bed sheet"
+        },
+        {
+            "sentence": "The caregiver spreads the bed sheet over the mattress, ensuring it is smooth and wrinkle-free.",
+            "subject": "The caregiver",
+            "action": "spreads",
+            "object": "the bed sheet",
+            "tools": "mattress"
+        },
+        {
+            "sentence": "The caregiver tucks the edges of the bed sheet under the mattress securely.",
+            "subject": "The caregiver",
+            "action": "tucks",
+            "object": "the edges of the bed sheet",
+            "tools": "mattress"
+        },
+        {
+            "sentence": "The caregiver checks the bed sheet for any loose areas and adjusts as necessary.",
+            "subject": "The caregiver",
+            "action": "checks",
+            "object": "the bed sheet",
+            "tools": "hands"
+        }
+    ]
+}

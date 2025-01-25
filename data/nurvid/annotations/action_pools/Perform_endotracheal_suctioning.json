@@ -1,0 +1,39 @@
+{
+    "Perform endotracheal suctioning": [
+        {
+            "sentence": "The nurse prepares the suction equipment and gathers necessary supplies.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the suction equipment and necessary supplies",
+            "tools": "suction catheter, suction machine, sterile gloves, saline solution"
+        },
+        {
+            "sentence": "The nurse positions the patient appropriately to ensure optimal access to the airway.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "bed adjustment, pillows"
+        },
+        {
+            "sentence": "The nurse dons sterile gloves and connects the suction catheter to the suction machine.",
+            "subject": "The nurse",
+            "action": "dons",
+            "object": "sterile gloves and connects the suction catheter",
+            "tools": "suction catheter, suction machine"
+        },
+        {
+            "sentence": "The nurse gently inserts the suction catheter into the patient's trachea while monitoring vital signs.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "the suction catheter into the patient's trachea",
+            "tools": "suction catheter, monitoring equipment"
+        },
+        {
+            "sentence": "The nurse applies suction briefly and removes the catheter, then assesses the patient for airway clearance.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "suction briefly and removes the catheter",
+            "tools": "suction machine, assessment tools"
+        }
+    ]
+}

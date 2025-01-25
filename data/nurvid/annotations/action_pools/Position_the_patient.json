@@ -1,0 +1,39 @@
+{
+    "Position the patient": [
+        {
+            "sentence": "The nurse assesses the patient's comfort level before positioning.",
+            "subject": "The nurse",
+            "action": "assesses",
+            "object": "the patient's comfort level",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse explains the positioning process to the patient.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the positioning process",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse gathers necessary positioning aids such as pillows or cushions.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "necessary positioning aids",
+            "tools": "pillows, cushions"
+        },
+        {
+            "sentence": "The nurse carefully positions the patient in the desired posture.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse checks the patient's alignment and comfort after positioning.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the patient's alignment and comfort",
+            "tools": "none"
+        }
+    ]
+}

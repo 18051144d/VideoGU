@@ -1,0 +1,39 @@
+{
+    "Observe results of skin test": [
+        {
+            "sentence": "The healthcare provider explains the purpose of the skin test to the patient.",
+            "subject": "The healthcare provider",
+            "action": "explains",
+            "object": "the purpose of the skin test",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient waits for the specified time period after the skin test is administered.",
+            "subject": "The patient",
+            "action": "waits",
+            "object": "for the specified time period",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider examines the test site for any reactions.",
+            "subject": "The healthcare provider",
+            "action": "examines",
+            "object": "the test site",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider measures any induration or redness at the test site.",
+            "subject": "The healthcare provider",
+            "action": "measures",
+            "object": "any induration or redness",
+            "tools": "ruler or caliper"
+        },
+        {
+            "sentence": "The healthcare provider documents the results of the skin test in the patient's medical record.",
+            "subject": "The healthcare provider",
+            "action": "documents",
+            "object": "the results of the skin test",
+            "tools": "medical record software or paper chart"
+        }
+    ]
+}

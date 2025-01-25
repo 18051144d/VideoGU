@@ -1,0 +1,39 @@
+{
+    "Apply conductive gel": [
+        {
+            "sentence": "The technician prepares the conductive gel by ensuring it is at room temperature.",
+            "subject": "The technician",
+            "action": "prepares",
+            "object": "the conductive gel",
+            "tools": "temperature gauge"
+        },
+        {
+            "sentence": "The technician cleans the skin area where the conductive gel will be applied using an antiseptic wipe.",
+            "subject": "The technician",
+            "action": "cleans",
+            "object": "the skin area",
+            "tools": "antiseptic wipe"
+        },
+        {
+            "sentence": "The technician applies a sufficient amount of conductive gel onto the skin area evenly.",
+            "subject": "The technician",
+            "action": "applies",
+            "object": "conductive gel",
+            "tools": "squeeze bottle"
+        },
+        {
+            "sentence": "The technician ensures that the conductive gel is spread uniformly to prevent air pockets.",
+            "subject": "The technician",
+            "action": "ensures",
+            "object": "the conductive gel",
+            "tools": "spreader or gloved fingers"
+        },
+        {
+            "sentence": "The technician checks the skin for any adverse reactions after applying the conductive gel.",
+            "subject": "The technician",
+            "action": "checks",
+            "object": "the skin",
+            "tools": "visual inspection"
+        }
+    ]
+}

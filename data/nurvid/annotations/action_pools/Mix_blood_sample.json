@@ -1,0 +1,39 @@
+{
+    "Mix blood sample": [
+        {
+            "sentence": "The technician collects the blood sample from the patient.",
+            "subject": "The technician",
+            "action": "collects",
+            "object": "the blood sample",
+            "tools": "vacutainer, needle"
+        },
+        {
+            "sentence": "The technician labels the blood sample with the patient's information.",
+            "subject": "The technician",
+            "action": "labels",
+            "object": "the blood sample",
+            "tools": "labeling stickers, pen"
+        },
+        {
+            "sentence": "The technician places the blood sample into a centrifuge.",
+            "subject": "The technician",
+            "action": "places",
+            "object": "the blood sample",
+            "tools": "centrifuge"
+        },
+        {
+            "sentence": "The technician sets the centrifuge to the appropriate speed and time for mixing.",
+            "subject": "The technician",
+            "action": "sets",
+            "object": "the centrifuge",
+            "tools": "centrifuge control panel"
+        },
+        {
+            "sentence": "The technician retrieves the mixed blood sample after centrifugation is complete.",
+            "subject": "The technician",
+            "action": "retrieves",
+            "object": "the mixed blood sample",
+            "tools": "gloves, centrifuge"
+        }
+    ]
+}

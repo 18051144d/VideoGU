@@ -1,0 +1,39 @@
+{
+    "Measure pulse": [
+        {
+            "sentence": "The nurse locates the patient's wrist to assess the pulse.",
+            "subject": "The nurse",
+            "action": "locates",
+            "object": "the patient's wrist",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse places two fingers on the radial artery to feel the pulse.",
+            "subject": "The nurse",
+            "action": "places",
+            "object": "two fingers on the radial artery",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse counts the number of beats felt for one minute to measure the pulse rate.",
+            "subject": "The nurse",
+            "action": "counts",
+            "object": "the number of beats",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse records the pulse rate in the patient's medical chart for future reference.",
+            "subject": "The nurse",
+            "action": "records",
+            "object": "the pulse rate",
+            "tools": "patient's medical chart"
+        },
+        {
+            "sentence": "The nurse assesses the pulse quality to evaluate the patient's cardiovascular health.",
+            "subject": "The nurse",
+            "action": "assesses",
+            "object": "the pulse quality",
+            "tools": "none"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Cleanse perineum": [
+        {
+            "sentence": "The nurse gathers all necessary supplies for the perineal cleansing procedure.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "all necessary supplies",
+            "tools": "antiseptic solution, sterile wipes, gloves, and a clean towel"
+        },
+        {
+            "sentence": "The nurse puts on disposable gloves to maintain hygiene during the procedure.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "disposable gloves",
+            "tools": "disposable gloves"
+        },
+        {
+            "sentence": "The nurse positions the patient comfortably to allow easy access to the perineal area.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "a clean bed or examination table"
+        },
+        {
+            "sentence": "The nurse applies the antiseptic solution to a sterile wipe to cleanse the perineum.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "the antiseptic solution to a sterile wipe",
+            "tools": "antiseptic solution and sterile wipes"
+        },
+        {
+            "sentence": "The nurse gently wipes the perineal area from front to back to ensure thorough cleansing.",
+            "subject": "The nurse",
+            "action": "wipes",
+            "object": "the perineal area from front to back",
+            "tools": "sterile wipes"
+        }
+    ]
+}

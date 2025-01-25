@@ -1,0 +1,39 @@
+{
+    "Connect the monitor": [
+        {
+            "sentence": "The technician prepares the ECG monitor for use.",
+            "subject": "The technician",
+            "action": "prepares",
+            "object": "the ECG monitor",
+            "tools": "ECG monitor, power cable"
+        },
+        {
+            "sentence": "The technician plugs the power cable into an electrical outlet.",
+            "subject": "The technician",
+            "action": "plugs",
+            "object": "the power cable",
+            "tools": "power cable, electrical outlet"
+        },
+        {
+            "sentence": "The technician attaches the lead wires to the appropriate electrodes on the patient's body.",
+            "subject": "The technician",
+            "action": "attaches",
+            "object": "the lead wires",
+            "tools": "lead wires, electrodes"
+        },
+        {
+            "sentence": "The technician powers on the ECG monitor to initiate readings.",
+            "subject": "The technician",
+            "action": "powers on",
+            "object": "the ECG monitor",
+            "tools": "ECG monitor"
+        },
+        {
+            "sentence": "The technician verifies the monitor displays the patient's heart activity correctly.",
+            "subject": "The technician",
+            "action": "verifies",
+            "object": "the monitor displays",
+            "tools": "monitor"
+        }
+    ]
+}

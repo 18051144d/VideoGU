@@ -1,0 +1,39 @@
+{
+    "Spread the large sheet": [
+        {
+            "sentence": "The nurse unfolds the large sheet on the examination table.",
+            "subject": "The nurse",
+            "action": "unfolds",
+            "object": "the large sheet",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse ensures the large sheet is free of wrinkles and creases.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the large sheet is free of wrinkles and creases",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse adjusts the large sheet to cover the entire surface of the examination table.",
+            "subject": "The nurse",
+            "action": "adjusts",
+            "object": "the large sheet to cover the entire surface of the examination table",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse secures the edges of the large sheet with clips if necessary.",
+            "subject": "The nurse",
+            "action": "secures",
+            "object": "the edges of the large sheet with clips",
+            "tools": "clips"
+        },
+        {
+            "sentence": "The nurse checks the large sheet for cleanliness and readiness for the next procedure.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the large sheet for cleanliness and readiness",
+            "tools": "none"
+        }
+    ]
+}

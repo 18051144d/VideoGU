@@ -1,0 +1,39 @@
+{
+    "Change dressing": [
+        {
+            "sentence": "The nurse gathers all necessary supplies for the dressing change.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "all necessary supplies for the dressing change",
+            "tools": "dressing supplies, gloves, antiseptic solution, scissors"
+        },
+        {
+            "sentence": "The nurse washes her hands thoroughly to ensure cleanliness.",
+            "subject": "The nurse",
+            "action": "washes",
+            "object": "her hands thoroughly",
+            "tools": "soap, water"
+        },
+        {
+            "sentence": "The nurse puts on sterile gloves to maintain a sterile environment.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "sterile gloves",
+            "tools": "sterile gloves"
+        },
+        {
+            "sentence": "The nurse carefully removes the old dressing and inspects the wound for any signs of infection.",
+            "subject": "The nurse",
+            "action": "removes",
+            "object": "the old dressing and inspects the wound",
+            "tools": "scissors, gauze, antiseptic solution"
+        },
+        {
+            "sentence": "The nurse applies a new dressing securely over the wound to promote healing.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "a new dressing securely over the wound",
+            "tools": "new dressing, adhesive tape, gauze"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Remove gastric tube": [
+        {
+            "sentence": "The nurse gathers the necessary supplies, including gloves, a syringe, and a clean cloth.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "the necessary supplies",
+            "tools": "gloves, syringe, clean cloth"
+        },
+        {
+            "sentence": "The nurse explains the procedure to the patient to ensure understanding and obtain consent.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the procedure",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse puts on gloves to maintain a sterile environment during the removal process.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "gloves",
+            "tools": "gloves"
+        },
+        {
+            "sentence": "The nurse carefully disconnects the gastric tube from the feeding source while monitoring the patient's comfort.",
+            "subject": "The nurse",
+            "action": "disconnects",
+            "object": "the gastric tube",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse cleans the insertion site with the clean cloth and disposes of the tube appropriately.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the insertion site",
+            "tools": "clean cloth"
+        }
+    ]
+}

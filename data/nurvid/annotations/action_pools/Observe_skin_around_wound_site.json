@@ -1,0 +1,39 @@
+{
+    "Observe skin around wound site": [
+        {
+            "sentence": "The nurse prepares the examination area to ensure cleanliness.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the examination area",
+            "tools": "cleaning supplies"
+        },
+        {
+            "sentence": "The nurse instructs the patient to lie down comfortably for the examination.",
+            "subject": "The nurse",
+            "action": "instructs",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse inspects the skin around the wound site for any signs of infection.",
+            "subject": "The nurse",
+            "action": "inspects",
+            "object": "the skin around the wound site",
+            "tools": "magnifying glass"
+        },
+        {
+            "sentence": "The nurse documents any observed abnormalities in the patient's medical record.",
+            "subject": "The nurse",
+            "action": "documents",
+            "object": "any observed abnormalities",
+            "tools": "medical record software"
+        },
+        {
+            "sentence": "The nurse discusses the findings with the physician for further evaluation.",
+            "subject": "The nurse",
+            "action": "discusses",
+            "object": "the findings",
+            "tools": "none"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Set parameters": [
+        {
+            "sentence": "The technician reviews the procedure guidelines to ensure compliance with standards.",
+            "subject": "The technician",
+            "action": "reviews",
+            "object": "the procedure guidelines",
+            "tools": "guidelines document"
+        },
+        {
+            "sentence": "The technician accesses the control panel to input the desired settings.",
+            "subject": "The technician",
+            "action": "accesses",
+            "object": "the control panel",
+            "tools": "control panel"
+        },
+        {
+            "sentence": "The technician adjusts the parameters according to the specific requirements of the procedure.",
+            "subject": "The technician",
+            "action": "adjusts",
+            "object": "the parameters",
+            "tools": "input device"
+        },
+        {
+            "sentence": "The technician verifies the entered parameters for accuracy before proceeding.",
+            "subject": "The technician",
+            "action": "verifies",
+            "object": "the entered parameters",
+            "tools": "verification checklist"
+        },
+        {
+            "sentence": "The technician confirms the settings and initiates the procedure.",
+            "subject": "The technician",
+            "action": "confirms",
+            "object": "the settings",
+            "tools": "confirmation button"
+        }
+    ]
+}

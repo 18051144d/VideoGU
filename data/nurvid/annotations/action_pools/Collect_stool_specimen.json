@@ -1,0 +1,39 @@
+{
+    "Collect stool specimen": [
+        {
+            "sentence": "The healthcare provider explains the stool specimen collection procedure to the patient.",
+            "subject": "The healthcare provider",
+            "action": "explains",
+            "object": "the stool specimen collection procedure",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient collects the stool sample using the provided collection container.",
+            "subject": "The patient",
+            "action": "collects",
+            "object": "the stool sample",
+            "tools": "collection container"
+        },
+        {
+            "sentence": "The patient seals the collection container securely after obtaining the stool sample.",
+            "subject": "The patient",
+            "action": "seals",
+            "object": "the collection container",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient labels the collection container with their name and date of collection.",
+            "subject": "The patient",
+            "action": "labels",
+            "object": "the collection container",
+            "tools": "labeling materials"
+        },
+        {
+            "sentence": "The patient returns the labeled collection container to the healthcare provider for analysis.",
+            "subject": "The patient",
+            "action": "returns",
+            "object": "the labeled collection container",
+            "tools": "none"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Remove urinary catheter": [
+        {
+            "sentence": "The nurse verifies the patient's identity and explains the procedure to ensure understanding.",
+            "subject": "The nurse",
+            "action": "verifies",
+            "object": "the patient's identity",
+            "tools": "patient identification wristband"
+        },
+        {
+            "sentence": "The nurse gathers necessary supplies including sterile gloves, a catheter removal kit, and absorbent pads.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "necessary supplies",
+            "tools": "sterile gloves, catheter removal kit, absorbent pads"
+        },
+        {
+            "sentence": "The nurse puts on sterile gloves to maintain a clean environment during the procedure.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "sterile gloves",
+            "tools": "sterile gloves"
+        },
+        {
+            "sentence": "The nurse deflates the catheter balloon by using a syringe to withdraw the saline solution.",
+            "subject": "The nurse",
+            "action": "deflates",
+            "object": "the catheter balloon",
+            "tools": "syringe"
+        },
+        {
+            "sentence": "The nurse gently pulls the catheter out while ensuring the patient experiences minimal discomfort.",
+            "subject": "The nurse",
+            "action": "pulls",
+            "object": "the catheter",
+            "tools": "none"
+        }
+    ]
+}

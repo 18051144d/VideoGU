@@ -1,0 +1,39 @@
+{
+    "Cleanse oral cavity bottom": [
+        {
+            "sentence": "The dental hygienist prepares antiseptic solution for oral cavity cleansing.",
+            "subject": "The dental hygienist",
+            "action": "prepares",
+            "object": "antiseptic solution",
+            "tools": "antiseptic solution"
+        },
+        {
+            "sentence": "The dental hygienist positions the patient comfortably in the dental chair.",
+            "subject": "The dental hygienist",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "dental chair"
+        },
+        {
+            "sentence": "The dental hygienist uses gauze to remove debris from the bottom of the oral cavity.",
+            "subject": "The dental hygienist",
+            "action": "uses",
+            "object": "gauze",
+            "tools": "gauze"
+        },
+        {
+            "sentence": "The dental hygienist swabs the bottom of the oral cavity with the antiseptic solution.",
+            "subject": "The dental hygienist",
+            "action": "swabs",
+            "object": "the bottom of the oral cavity",
+            "tools": "antiseptic solution"
+        },
+        {
+            "sentence": "The dental hygienist instructs the patient to rinse their mouth with water after cleansing.",
+            "subject": "The dental hygienist",
+            "action": "instructs",
+            "object": "the patient",
+            "tools": "water"
+        }
+    ]
+}

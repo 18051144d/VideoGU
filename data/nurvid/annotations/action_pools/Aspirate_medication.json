@@ -1,0 +1,39 @@
+{
+    "Aspirate medication": [
+        {
+            "sentence": "The healthcare provider prepares the medication by verifying the dosage and checking for expiration.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the medication",
+            "tools": "dosage measurement tools, expiration date check"
+        },
+        {
+            "sentence": "The healthcare provider selects the appropriate syringe and needle for the aspiration process.",
+            "subject": "The healthcare provider",
+            "action": "selects",
+            "object": "the appropriate syringe and needle",
+            "tools": "syringe, needle"
+        },
+        {
+            "sentence": "The healthcare provider cleans the vial top with an alcohol swab to maintain sterility.",
+            "subject": "The healthcare provider",
+            "action": "cleans",
+            "object": "the vial top",
+            "tools": "alcohol swab"
+        },
+        {
+            "sentence": "The healthcare provider inserts the needle into the vial and pulls back the plunger to aspirate the medication.",
+            "subject": "The healthcare provider",
+            "action": "inserts",
+            "object": "the needle into the vial and pulls back the plunger",
+            "tools": "syringe, needle"
+        },
+        {
+            "sentence": "The healthcare provider removes the syringe from the vial and checks for air bubbles before administering the medication.",
+            "subject": "The healthcare provider",
+            "action": "removes",
+            "object": "the syringe from the vial and checks for air bubbles",
+            "tools": "syringe"
+        }
+    ]
+}

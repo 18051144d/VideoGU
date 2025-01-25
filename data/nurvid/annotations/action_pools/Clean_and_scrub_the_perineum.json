@@ -1,0 +1,39 @@
+{
+    "Clean and scrub the perineum": [
+        {
+            "sentence": "The healthcare provider gathers necessary supplies including antiseptic solution, sterile gloves, and gauze pads.",
+            "subject": "The healthcare provider",
+            "action": "gathers",
+            "object": "necessary supplies",
+            "tools": "antiseptic solution, sterile gloves, gauze pads"
+        },
+        {
+            "sentence": "The healthcare provider washes hands thoroughly to ensure cleanliness before the procedure.",
+            "subject": "The healthcare provider",
+            "action": "washes",
+            "object": "hands",
+            "tools": "soap, water"
+        },
+        {
+            "sentence": "The healthcare provider puts on sterile gloves to maintain a hygienic environment during the procedure.",
+            "subject": "The healthcare provider",
+            "action": "puts on",
+            "object": "sterile gloves",
+            "tools": "sterile gloves"
+        },
+        {
+            "sentence": "The healthcare provider applies antiseptic solution to the perineum area using gauze pads to cleanse the skin.",
+            "subject": "The healthcare provider",
+            "action": "applies",
+            "object": "antiseptic solution",
+            "tools": "gauze pads"
+        },
+        {
+            "sentence": "The healthcare provider discards used materials properly and removes gloves to complete the procedure.",
+            "subject": "The healthcare provider",
+            "action": "discards",
+            "object": "used materials",
+            "tools": "waste disposal container"
+        }
+    ]
+}

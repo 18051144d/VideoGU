@@ -1,0 +1,39 @@
+{
+    "PICC insertion": [
+        {
+            "sentence": "The nurse prepares the sterile field and gathers the necessary equipment for PICC insertion.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the sterile field and the necessary equipment",
+            "tools": "PICC catheter, sterile gloves, antiseptic solution, ultrasound machine, dressing supplies"
+        },
+        {
+            "sentence": "The physician cleans the insertion site on the patient's arm with antiseptic solution to reduce the risk of infection.",
+            "subject": "The physician",
+            "action": "cleans",
+            "object": "the insertion site on the patient's arm",
+            "tools": "antiseptic solution, sterile gauze"
+        },
+        {
+            "sentence": "The physician uses ultrasound to identify the vein for optimal catheter placement during the procedure.",
+            "subject": "The physician",
+            "action": "uses",
+            "object": "ultrasound to identify the vein",
+            "tools": "ultrasound machine"
+        },
+        {
+            "sentence": "The physician inserts the PICC catheter into the identified vein with the assistance of the nurse.",
+            "subject": "The physician",
+            "action": "inserts",
+            "object": "the PICC catheter into the identified vein",
+            "tools": "PICC catheter, introducer, syringe"
+        },
+        {
+            "sentence": "The nurse secures the catheter with a dressing and provides the patient with post-procedure care instructions.",
+            "subject": "The nurse",
+            "action": "secures",
+            "object": "the catheter with a dressing",
+            "tools": "dressing supplies, post-procedure care instructions"
+        }
+    ]
+}

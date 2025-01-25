@@ -1,0 +1,39 @@
+{
+    "Connect suction tube": [
+        {
+            "sentence": "The nurse prepares the suction machine for use.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the suction machine",
+            "tools": "suction machine"
+        },
+        {
+            "sentence": "The nurse checks the suction tubing for any defects or blockages.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the suction tubing",
+            "tools": "suction tubing"
+        },
+        {
+            "sentence": "The nurse connects one end of the suction tube to the suction machine.",
+            "subject": "The nurse",
+            "action": "connects",
+            "object": "one end of the suction tube",
+            "tools": "suction tube"
+        },
+        {
+            "sentence": "The nurse connects the other end of the suction tube to the appropriate suction site.",
+            "subject": "The nurse",
+            "action": "connects",
+            "object": "the other end of the suction tube",
+            "tools": "suction site"
+        },
+        {
+            "sentence": "The nurse tests the suction machine to ensure it is functioning properly.",
+            "subject": "The nurse",
+            "action": "tests",
+            "object": "the suction machine",
+            "tools": "suction machine"
+        }
+    ]
+}

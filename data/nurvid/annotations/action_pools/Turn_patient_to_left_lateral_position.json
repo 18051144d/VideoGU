@@ -1,0 +1,39 @@
+{
+    "Turn patient to left lateral position": [
+        {
+            "sentence": "The nurse explains the procedure to the patient to ensure understanding and comfort.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the procedure",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse assesses the patient's condition to identify any contraindications for the left lateral position.",
+            "subject": "The nurse",
+            "action": "assesses",
+            "object": "the patient's condition",
+            "tools": "assessment tools"
+        },
+        {
+            "sentence": "The nurse positions a pillow near the patient's back to provide support when turning.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "a pillow",
+            "tools": "pillow"
+        },
+        {
+            "sentence": "The nurse gently turns the patient onto their left side while ensuring comfort and safety.",
+            "subject": "The nurse",
+            "action": "turns",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse adjusts the patient's limbs and head to maintain proper alignment in the left lateral position.",
+            "subject": "The nurse",
+            "action": "adjusts",
+            "object": "the patient's limbs and head",
+            "tools": "none"
+        }
+    ]
+}

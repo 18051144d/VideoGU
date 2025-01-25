@@ -1,0 +1,39 @@
+{
+    "Rub lower limbs": [
+        {
+            "sentence": "The healthcare provider assesses the patient's lower limbs for any signs of swelling or discomfort.",
+            "subject": "The healthcare provider",
+            "action": "assesses",
+            "object": "the patient's lower limbs",
+            "tools": "assessment chart"
+        },
+        {
+            "sentence": "The healthcare provider prepares a clean, warm towel for the rubbing procedure.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "a clean, warm towel",
+            "tools": "towel, water"
+        },
+        {
+            "sentence": "The healthcare provider applies a suitable lotion or oil to the towel to facilitate smooth rubbing.",
+            "subject": "The healthcare provider",
+            "action": "applies",
+            "object": "a suitable lotion or oil",
+            "tools": "lotion or oil, towel"
+        },
+        {
+            "sentence": "The healthcare provider gently rubs the lower limbs in a circular motion to improve circulation.",
+            "subject": "The healthcare provider",
+            "action": "rubs",
+            "object": "the lower limbs",
+            "tools": "hands, towel"
+        },
+        {
+            "sentence": "The healthcare provider evaluates the patient's response during the rubbing process for any discomfort.",
+            "subject": "The healthcare provider",
+            "action": "evaluates",
+            "object": "the patient's response",
+            "tools": "observation notes"
+        }
+    ]
+}

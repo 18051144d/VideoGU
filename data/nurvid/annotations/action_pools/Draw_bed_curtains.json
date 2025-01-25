@@ -1,0 +1,39 @@
+{
+    "Draw bed curtains": [
+        {
+            "sentence": "The nurse approaches the patient's bed.",
+            "subject": "The nurse",
+            "action": "approaches",
+            "object": "the patient's bed",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse grabs the bed curtain's pull cord.",
+            "subject": "The nurse",
+            "action": "grabs",
+            "object": "the bed curtain's pull cord",
+            "tools": "pull cord"
+        },
+        {
+            "sentence": "The nurse pulls the cord to draw the bed curtains closed.",
+            "subject": "The nurse",
+            "action": "pulls",
+            "object": "the bed curtains",
+            "tools": "cord"
+        },
+        {
+            "sentence": "The nurse ensures that the curtains fully cover the bed area for privacy.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the curtains",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse checks for any obstructions or issues with the curtains.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "for any obstructions or issues",
+            "tools": "none"
+        }
+    ]
+}

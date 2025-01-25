@@ -1,0 +1,39 @@
+{
+    "Wash face": [
+        {
+            "sentence": "The patient stands in front of a mirror.",
+            "subject": "The patient",
+            "action": "stands",
+            "object": "in front of a mirror",
+            "tools": "mirror"
+        },
+        {
+            "sentence": "The patient gathers a gentle facial cleanser.",
+            "subject": "The patient",
+            "action": "gathers",
+            "object": "a gentle facial cleanser",
+            "tools": "facial cleanser"
+        },
+        {
+            "sentence": "The patient applies the facial cleanser to their damp face.",
+            "subject": "The patient",
+            "action": "applies",
+            "object": "the facial cleanser to their damp face",
+            "tools": "facial cleanser, water"
+        },
+        {
+            "sentence": "The patient massages the cleanser onto their face using circular motions.",
+            "subject": "The patient",
+            "action": "massages",
+            "object": "the cleanser onto their face using circular motions",
+            "tools": "hands"
+        },
+        {
+            "sentence": "The patient rinses their face thoroughly with lukewarm water.",
+            "subject": "The patient",
+            "action": "rinses",
+            "object": "their face thoroughly with lukewarm water",
+            "tools": "water"
+        }
+    ]
+}

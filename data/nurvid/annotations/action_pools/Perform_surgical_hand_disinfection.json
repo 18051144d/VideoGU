@@ -1,0 +1,39 @@
+{
+    "Perform surgical hand disinfection": [
+        {
+            "sentence": "The surgical team gathers all necessary supplies for hand disinfection.",
+            "subject": "The surgical team",
+            "action": "gathers",
+            "object": "all necessary supplies for hand disinfection",
+            "tools": "disinfectant solution, disposable towels, soap, water"
+        },
+        {
+            "sentence": "The surgical team removes all jewelry and watches before starting the disinfection process.",
+            "subject": "The surgical team",
+            "action": "removes",
+            "object": "all jewelry and watches",
+            "tools": "none"
+        },
+        {
+            "sentence": "The surgical team washes their hands with soap and water for at least 20 seconds.",
+            "subject": "The surgical team",
+            "action": "washes",
+            "object": "their hands with soap and water for at least 20 seconds",
+            "tools": "soap, water"
+        },
+        {
+            "sentence": "The surgical team applies an appropriate amount of disinfectant solution to their hands.",
+            "subject": "The surgical team",
+            "action": "applies",
+            "object": "an appropriate amount of disinfectant solution to their hands",
+            "tools": "disinfectant solution"
+        },
+        {
+            "sentence": "The surgical team allows their hands to air dry completely before donning sterile gloves.",
+            "subject": "The surgical team",
+            "action": "allows",
+            "object": "their hands to air dry completely",
+            "tools": "none"
+        }
+    ]
+}

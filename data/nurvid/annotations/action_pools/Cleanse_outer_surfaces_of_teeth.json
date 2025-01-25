@@ -1,0 +1,39 @@
+{
+    "Cleanse outer surfaces of teeth": [
+        {
+            "sentence": "The dental hygienist prepares the necessary tools for cleansing the outer surfaces of teeth.",
+            "subject": "The dental hygienist",
+            "action": "prepares",
+            "object": "the necessary tools",
+            "tools": "toothbrush, toothpaste, dental floss, mouthwash"
+        },
+        {
+            "sentence": "The dental hygienist instructs the patient to sit comfortably in the dental chair.",
+            "subject": "The dental hygienist",
+            "action": "instructs",
+            "object": "the patient",
+            "tools": "dental chair"
+        },
+        {
+            "sentence": "The dental hygienist applies a pea-sized amount of toothpaste on the toothbrush.",
+            "subject": "The dental hygienist",
+            "action": "applies",
+            "object": "a pea-sized amount of toothpaste",
+            "tools": "toothbrush, toothpaste"
+        },
+        {
+            "sentence": "The dental hygienist gently brushes the outer surfaces of the patient's teeth using the toothbrush.",
+            "subject": "The dental hygienist",
+            "action": "brushes",
+            "object": "the outer surfaces of the patient's teeth",
+            "tools": "toothbrush"
+        },
+        {
+            "sentence": "The dental hygienist rinses the patient's mouth with mouthwash to remove any debris.",
+            "subject": "The dental hygienist",
+            "action": "rinses",
+            "object": "the patient's mouth",
+            "tools": "mouthwash"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Remove the lead wires": [
+        {
+            "sentence": "The healthcare provider identifies the lead wires that need to be removed.",
+            "subject": "The healthcare provider",
+            "action": "identifies",
+            "object": "the lead wires",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider secures the patient in a comfortable position to prevent any movement during the procedure.",
+            "subject": "The healthcare provider",
+            "action": "secures",
+            "object": "the patient",
+            "tools": "restraints or positioning aids"
+        },
+        {
+            "sentence": "The healthcare provider carefully disconnects the lead wires from the monitoring device.",
+            "subject": "The healthcare provider",
+            "action": "disconnects",
+            "object": "the lead wires",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider gently removes the lead wires from the patient's skin, ensuring minimal discomfort.",
+            "subject": "The healthcare provider",
+            "action": "removes",
+            "object": "the lead wires",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider cleans the areas where the lead wires were attached to prevent infection.",
+            "subject": "The healthcare provider",
+            "action": "cleans",
+            "object": "the areas",
+            "tools": "antiseptic solution"
+        }
+    ]
+}

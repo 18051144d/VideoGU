@@ -1,0 +1,39 @@
+{
+    "Spray stoma care powder": [
+        {
+            "sentence": "The caregiver prepares the stoma care powder for application.",
+            "subject": "The caregiver",
+            "action": "prepares",
+            "object": "the stoma care powder",
+            "tools": "stoma care powder"
+        },
+        {
+            "sentence": "The caregiver cleans the stoma area gently with saline solution.",
+            "subject": "The caregiver",
+            "action": "cleans",
+            "object": "the stoma area",
+            "tools": "saline solution"
+        },
+        {
+            "sentence": "The caregiver dries the stoma area thoroughly using a clean cloth.",
+            "subject": "The caregiver",
+            "action": "dries",
+            "object": "the stoma area",
+            "tools": "clean cloth"
+        },
+        {
+            "sentence": "The caregiver holds the stoma care powder container above the stoma area.",
+            "subject": "The caregiver",
+            "action": "holds",
+            "object": "the stoma care powder container",
+            "tools": "stoma care powder container"
+        },
+        {
+            "sentence": "The caregiver sprays the stoma care powder evenly over the stoma area.",
+            "subject": "The caregiver",
+            "action": "sprays",
+            "object": "the stoma care powder",
+            "tools": "stoma care powder spray"
+        }
+    ]
+}

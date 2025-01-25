@@ -1,0 +1,39 @@
+{
+    "Prepare skin test solution": [
+        {
+            "sentence": "The technician gathers all necessary materials for the skin test solution preparation.",
+            "subject": "The technician",
+            "action": "gathers",
+            "object": "all necessary materials",
+            "tools": "skin test reagents, sterile water, mixing container, pipette, labels"
+        },
+        {
+            "sentence": "The technician measures the required amount of skin test reagent using a pipette.",
+            "subject": "The technician",
+            "action": "measures",
+            "object": "the required amount of skin test reagent",
+            "tools": "pipette"
+        },
+        {
+            "sentence": "The technician adds sterile water to the measured reagent in the mixing container.",
+            "subject": "The technician",
+            "action": "adds",
+            "object": "sterile water to the measured reagent",
+            "tools": "mixing container, sterile water"
+        },
+        {
+            "sentence": "The technician mixes the solution thoroughly to ensure proper dilution.",
+            "subject": "The technician",
+            "action": "mixes",
+            "object": "the solution thoroughly",
+            "tools": "stirring rod or vortex mixer"
+        },
+        {
+            "sentence": "The technician labels the prepared skin test solution with the date and contents for future reference.",
+            "subject": "The technician",
+            "action": "labels",
+            "object": "the prepared skin test solution",
+            "tools": "labels, marker"
+        }
+    ]
+}

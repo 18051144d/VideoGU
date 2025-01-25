@@ -1,0 +1,39 @@
+{
+    "Withdraw contaminated bed shee": [
+        {
+            "sentence": "The nurse assesses the bed for any contamination before starting the procedure.",
+            "subject": "The nurse",
+            "action": "assesses",
+            "object": "the bed",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse puts on disposable gloves to maintain hygiene and prevent contamination.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "disposable gloves",
+            "tools": "disposable gloves"
+        },
+        {
+            "sentence": "The nurse carefully removes the contaminated bed sheet by pulling it away from the mattress.",
+            "subject": "The nurse",
+            "action": "removes",
+            "object": "the contaminated bed sheet",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse folds the contaminated bed sheet to contain any pathogens and places it in a designated biohazard bag.",
+            "subject": "The nurse",
+            "action": "folds",
+            "object": "the contaminated bed sheet",
+            "tools": "biohazard bag"
+        },
+        {
+            "sentence": "The nurse disposes of the biohazard bag in accordance with hospital protocols for contaminated materials.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "the biohazard bag",
+            "tools": "none"
+        }
+    ]
+}

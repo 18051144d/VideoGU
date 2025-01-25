@@ -1,0 +1,39 @@
+{
+    "Change upper clothing": [
+        {
+            "sentence": "The patient removes the upper clothing carefully to avoid any discomfort.",
+            "subject": "The patient",
+            "action": "removes",
+            "object": "the upper clothing",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver assists the patient in removing any medical devices attached to the upper body.",
+            "subject": "The caregiver",
+            "action": "assists",
+            "object": "the patient in removing any medical devices",
+            "tools": "medical device removal tools"
+        },
+        {
+            "sentence": "The patient selects clean upper clothing appropriate for the situation.",
+            "subject": "The patient",
+            "action": "selects",
+            "object": "clean upper clothing",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver helps the patient put on the clean upper clothing while ensuring comfort and proper fit.",
+            "subject": "The caregiver",
+            "action": "helps",
+            "object": "the patient put on the clean upper clothing",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient checks the fit and comfort of the new upper clothing with the caregiver's assistance.",
+            "subject": "The patient",
+            "action": "checks",
+            "object": "the fit and comfort of the new upper clothing",
+            "tools": "none"
+        }
+    ]
+}

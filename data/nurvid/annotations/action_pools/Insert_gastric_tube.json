@@ -1,0 +1,39 @@
+{
+    "Insert gastric tube": [
+        {
+            "sentence": "The healthcare provider prepares the necessary equipment for the gastric tube insertion.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the necessary equipment",
+            "tools": "gastric tube, lubricant, syringe, pH test strip, gloves"
+        },
+        {
+            "sentence": "The healthcare provider positions the patient in a semi-upright position to facilitate the procedure.",
+            "subject": "The healthcare provider",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "bed, pillows"
+        },
+        {
+            "sentence": "The healthcare provider measures the appropriate length of the gastric tube to ensure correct placement.",
+            "subject": "The healthcare provider",
+            "action": "measures",
+            "object": "the appropriate length of the gastric tube",
+            "tools": "measuring tape"
+        },
+        {
+            "sentence": "The healthcare provider gently inserts the gastric tube through the patient's mouth or nose and advances it toward the stomach.",
+            "subject": "The healthcare provider",
+            "action": "inserts",
+            "object": "the gastric tube",
+            "tools": "gastric tube, lubricant"
+        },
+        {
+            "sentence": "The healthcare provider confirms the correct placement of the gastric tube by checking the pH of aspirated gastric contents.",
+            "subject": "The healthcare provider",
+            "action": "confirms",
+            "object": "the correct placement of the gastric tube",
+            "tools": "syringe, pH test strip"
+        }
+    ]
+}

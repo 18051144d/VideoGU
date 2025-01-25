@@ -1,0 +1,39 @@
+{
+    "Transport in wheelchair": [
+        {
+            "sentence": "The caregiver evaluates the patient's mobility and readiness for transport.",
+            "subject": "The caregiver",
+            "action": "evaluates",
+            "object": "the patient's mobility and readiness for transport",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver positions the wheelchair close to the patient for easy access.",
+            "subject": "The caregiver",
+            "action": "positions",
+            "object": "the wheelchair",
+            "tools": "wheelchair"
+        },
+        {
+            "sentence": "The caregiver assists the patient in transferring from the bed or chair to the wheelchair.",
+            "subject": "The caregiver",
+            "action": "assists",
+            "object": "the patient in transferring to the wheelchair",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver secures the patient in the wheelchair using safety belts if available.",
+            "subject": "The caregiver",
+            "action": "secures",
+            "object": "the patient in the wheelchair",
+            "tools": "safety belts"
+        },
+        {
+            "sentence": "The caregiver maneuvers the wheelchair to the desired location while ensuring the patient's comfort.",
+            "subject": "The caregiver",
+            "action": "maneuvers",
+            "object": "the wheelchair to the desired location",
+            "tools": "wheelchair"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Comb hair": [
+        {
+            "sentence": "The patient gathers a wide-toothed comb from the grooming kit.",
+            "subject": "The patient",
+            "action": "gathers",
+            "object": "a wide-toothed comb",
+            "tools": "grooming kit"
+        },
+        {
+            "sentence": "The patient holds the wide-toothed comb in one hand while tilting their head slightly forward.",
+            "subject": "The patient",
+            "action": "holds",
+            "object": "the wide-toothed comb",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient starts combing from the tips of the hair, gently working through any knots.",
+            "subject": "The patient",
+            "action": "starts combing",
+            "object": "from the tips of the hair",
+            "tools": "wide-toothed comb"
+        },
+        {
+            "sentence": "The patient continues to comb through the hair in sections, ensuring even distribution and avoiding breakage.",
+            "subject": "The patient",
+            "action": "continues",
+            "object": "to comb through the hair in sections",
+            "tools": "wide-toothed comb"
+        },
+        {
+            "sentence": "The patient finishes by inspecting the hair for any remaining tangles and making final adjustments.",
+            "subject": "The patient",
+            "action": "finishes",
+            "object": "by inspecting the hair for any remaining tangles",
+            "tools": "none"
+        }
+    ]
+}

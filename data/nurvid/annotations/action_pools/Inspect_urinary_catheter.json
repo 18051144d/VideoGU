@@ -1,0 +1,39 @@
+{
+    "Inspect urinary catheter": [
+        {
+            "sentence": "The nurse prepares the necessary tools for the inspection of the urinary catheter.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the necessary tools for the inspection",
+            "tools": "gloves, antiseptic wipes, a flashlight"
+        },
+        {
+            "sentence": "The nurse puts on sterile gloves to maintain a clean environment during the inspection.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "sterile gloves",
+            "tools": "sterile gloves"
+        },
+        {
+            "sentence": "The nurse visually examines the urinary catheter for any signs of blockage or leakage.",
+            "subject": "The nurse",
+            "action": "examines",
+            "object": "the urinary catheter",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse checks the attachment site for any signs of infection or irritation.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the attachment site",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse documents the findings of the urinary catheter inspection in the patient's medical record.",
+            "subject": "The nurse",
+            "action": "documents",
+            "object": "the findings of the urinary catheter inspection",
+            "tools": "patient's medical record"
+        }
+    ]
+}

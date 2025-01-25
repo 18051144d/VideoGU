@@ -1,0 +1,39 @@
+{
+    "Measure body temperature": [
+        {
+            "sentence": "The nurse prepares a digital thermometer for use.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "a digital thermometer",
+            "tools": "digital thermometer"
+        },
+        {
+            "sentence": "The nurse places the thermometer under the patient's tongue.",
+            "subject": "The nurse",
+            "action": "places",
+            "object": "the thermometer",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse instructs the patient to keep their mouth closed during measurement.",
+            "subject": "The nurse",
+            "action": "instructs",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse waits for the thermometer to signal the completion of the measurement.",
+            "subject": "The nurse",
+            "action": "waits",
+            "object": "for the thermometer to signal",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse reads and records the patient's temperature from the thermometer display.",
+            "subject": "The nurse",
+            "action": "reads and records",
+            "object": "the patient's temperature",
+            "tools": "none"
+        }
+    ]
+}

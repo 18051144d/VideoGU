@@ -1,0 +1,39 @@
+{
+    "Cleanse back": [
+        {
+            "sentence": "The nurse gathers antiseptic solution and sterile gauze for cleansing the back.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "antiseptic solution and sterile gauze",
+            "tools": "antiseptic solution, sterile gauze"
+        },
+        {
+            "sentence": "The nurse positions the patient comfortably to access the back area.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "patient positioning tools"
+        },
+        {
+            "sentence": "The nurse applies antiseptic solution to the sterile gauze to prepare for cleansing.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "antiseptic solution to the sterile gauze",
+            "tools": "antiseptic solution, sterile gauze"
+        },
+        {
+            "sentence": "The nurse gently cleanses the back using the prepared gauze in circular motions.",
+            "subject": "The nurse",
+            "action": "cleanses",
+            "object": "the back",
+            "tools": "sterile gauze"
+        },
+        {
+            "sentence": "The nurse disposes of the used gauze and ensures the back is dry after cleansing.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "the used gauze and ensures the back is dry",
+            "tools": "disposal container"
+        }
+    ]
+}

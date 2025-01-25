@@ -1,0 +1,39 @@
+{
+    "Withdraw nebulizer": [
+        {
+            "sentence": "The nurse prepares the nebulizer for withdrawal.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the nebulizer",
+            "tools": "nebulizer, gloves, alcohol swab"
+        },
+        {
+            "sentence": "The nurse turns off the nebulizer and disconnects it from the power source.",
+            "subject": "The nurse",
+            "action": "turns off and disconnects",
+            "object": "the nebulizer",
+            "tools": "power source"
+        },
+        {
+            "sentence": "The nurse carefully removes the medication chamber from the nebulizer.",
+            "subject": "The nurse",
+            "action": "removes",
+            "object": "the medication chamber",
+            "tools": "gloves"
+        },
+        {
+            "sentence": "The nurse cleans the nebulizer parts with an alcohol swab.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the nebulizer parts",
+            "tools": "alcohol swab"
+        },
+        {
+            "sentence": "The nurse stores the nebulizer and its components in a designated area.",
+            "subject": "The nurse",
+            "action": "stores",
+            "object": "the nebulizer and its components",
+            "tools": "storage container"
+        }
+    ]
+}

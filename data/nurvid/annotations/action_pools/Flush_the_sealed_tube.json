@@ -1,0 +1,39 @@
+{
+    "Flush the sealed tube": [
+        {
+            "sentence": "The healthcare provider prepares the sterile saline solution for the flush.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the sterile saline solution",
+            "tools": "sterile saline solution, container"
+        },
+        {
+            "sentence": "The healthcare provider gathers the necessary flushing equipment, including a syringe and alcohol swabs.",
+            "subject": "The healthcare provider",
+            "action": "gathers",
+            "object": "the necessary flushing equipment",
+            "tools": "syringe, alcohol swabs"
+        },
+        {
+            "sentence": "The healthcare provider cleans the access port of the sealed tube with an alcohol swab to ensure sterility.",
+            "subject": "The healthcare provider",
+            "action": "cleans",
+            "object": "the access port of the sealed tube",
+            "tools": "alcohol swab"
+        },
+        {
+            "sentence": "The healthcare provider attaches the syringe filled with saline solution to the access port of the sealed tube.",
+            "subject": "The healthcare provider",
+            "action": "attaches",
+            "object": "the syringe filled with saline solution",
+            "tools": "syringe, saline solution"
+        },
+        {
+            "sentence": "The healthcare provider gently pushes the saline solution through the sealed tube to ensure it is properly flushed.",
+            "subject": "The healthcare provider",
+            "action": "pushes",
+            "object": "the saline solution through the sealed tube",
+            "tools": "syringe"
+        }
+    ]
+}

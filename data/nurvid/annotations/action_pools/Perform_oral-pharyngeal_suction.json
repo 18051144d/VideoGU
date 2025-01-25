@@ -1,0 +1,39 @@
+{
+    "Perform oral-pharyngeal suction": [
+        {
+            "sentence": "The healthcare provider prepares the suctioning equipment for the oral-pharyngeal suction procedure.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the suctioning equipment",
+            "tools": "suction machine, suction catheter, gloves"
+        },
+        {
+            "sentence": "The healthcare provider positions the patient comfortably to facilitate access to the oral cavity.",
+            "subject": "The healthcare provider",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "bed adjustment, pillows"
+        },
+        {
+            "sentence": "The healthcare provider dons sterile gloves to maintain hygiene during the suctioning process.",
+            "subject": "The healthcare provider",
+            "action": "dons",
+            "object": "sterile gloves",
+            "tools": "sterile gloves"
+        },
+        {
+            "sentence": "The healthcare provider inserts the suction catheter into the patient's mouth while ensuring not to stimulate the gag reflex.",
+            "subject": "The healthcare provider",
+            "action": "inserts",
+            "object": "the suction catheter",
+            "tools": "suction catheter"
+        },
+        {
+            "sentence": "The healthcare provider activates the suction to remove secretions from the oral-pharyngeal area, monitoring the patient's response throughout the procedure.",
+            "subject": "The healthcare provider",
+            "action": "activates",
+            "object": "the suction",
+            "tools": "suction machine"
+        }
+    ]
+}

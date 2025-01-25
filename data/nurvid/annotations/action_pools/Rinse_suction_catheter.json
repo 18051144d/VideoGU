@@ -1,0 +1,39 @@
+{
+    "Rinse suction catheter": [
+        {
+            "sentence": "The healthcare provider prepares the suction catheter by gathering necessary supplies.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the suction catheter",
+            "tools": "suction catheter, saline solution, sterile container"
+        },
+        {
+            "sentence": "The healthcare provider fills the sterile container with saline solution to ensure proper rinsing.",
+            "subject": "The healthcare provider",
+            "action": "fills",
+            "object": "the sterile container",
+            "tools": "saline solution, sterile container"
+        },
+        {
+            "sentence": "The healthcare provider inserts the suction catheter into the saline solution to rinse it effectively.",
+            "subject": "The healthcare provider",
+            "action": "inserts",
+            "object": "the suction catheter",
+            "tools": "saline solution"
+        },
+        {
+            "sentence": "The healthcare provider ensures that the suction catheter is thoroughly rinsed by moving it in the saline solution.",
+            "subject": "The healthcare provider",
+            "action": "ensures",
+            "object": "the suction catheter is thoroughly rinsed",
+            "tools": "saline solution"
+        },
+        {
+            "sentence": "The healthcare provider removes the suction catheter from the saline solution and prepares it for use.",
+            "subject": "The healthcare provider",
+            "action": "removes",
+            "object": "the suction catheter",
+            "tools": "saline solution"
+        }
+    ]
+}

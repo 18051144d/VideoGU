@@ -1,0 +1,39 @@
+{
+    "Loosen isolation gown": [
+        {
+            "sentence": "The nurse loosens the isolation gown at the waist.",
+            "subject": "The nurse",
+            "action": "loosens",
+            "object": "the isolation gown",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse carefully unties the gown's neck ties.",
+            "subject": "The nurse",
+            "action": "unties",
+            "object": "the gown's neck ties",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse pulls the gown away from the patient's body.",
+            "subject": "The nurse",
+            "action": "pulls",
+            "object": "the gown",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse ensures that the gown does not touch the floor.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the gown's position",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse folds the gown neatly for disposal.",
+            "subject": "The nurse",
+            "action": "folds",
+            "object": "the gown",
+            "tools": "none"
+        }
+    ]
+}

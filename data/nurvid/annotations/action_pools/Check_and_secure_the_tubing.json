@@ -1,0 +1,39 @@
+{
+    "Check and secure the tubing": [
+        {
+            "sentence": "The nurse checks the tubing for any leaks or blockages.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the tubing",
+            "tools": "tubing inspection tools"
+        },
+        {
+            "sentence": "The nurse ensures that all connections are tight and secure.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "all connections",
+            "tools": "hands, connection clamps"
+        },
+        {
+            "sentence": "The nurse verifies that the tubing is properly positioned and not kinked.",
+            "subject": "The nurse",
+            "action": "verifies",
+            "object": "the tubing",
+            "tools": "hands, visual inspection"
+        },
+        {
+            "sentence": "The nurse secures the tubing using appropriate fastening devices.",
+            "subject": "The nurse",
+            "action": "secures",
+            "object": "the tubing",
+            "tools": "fastening devices, tape"
+        },
+        {
+            "sentence": "The nurse documents the status of the tubing in the patient's chart.",
+            "subject": "The nurse",
+            "action": "documents",
+            "object": "the status of the tubing",
+            "tools": "patient chart, pen"
+        }
+    ]
+}

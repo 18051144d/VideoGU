@@ -1,0 +1,39 @@
+{
+    "Cleanse tongue surface": [
+        {
+            "sentence": "The caregiver gathers necessary supplies for cleansing the tongue surface.",
+            "subject": "The caregiver",
+            "action": "gathers",
+            "object": "necessary supplies",
+            "tools": "tongue scraper, antiseptic mouthwash, gauze pads"
+        },
+        {
+            "sentence": "The caregiver positions the patient comfortably in a seated position.",
+            "subject": "The caregiver",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "chair, cushion"
+        },
+        {
+            "sentence": "The caregiver applies antiseptic mouthwash to a gauze pad for tongue cleansing.",
+            "subject": "The caregiver",
+            "action": "applies",
+            "object": "antiseptic mouthwash",
+            "tools": "gauze pad"
+        },
+        {
+            "sentence": "The caregiver gently scrapes the tongue surface using the tongue scraper.",
+            "subject": "The caregiver",
+            "action": "scrapes",
+            "object": "the tongue surface",
+            "tools": "tongue scraper"
+        },
+        {
+            "sentence": "The caregiver instructs the patient to rinse their mouth thoroughly with water after cleansing.",
+            "subject": "The caregiver",
+            "action": "instructs",
+            "object": "the patient",
+            "tools": "water"
+        }
+    ]
+}

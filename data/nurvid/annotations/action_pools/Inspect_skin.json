@@ -1,0 +1,39 @@
+{
+    "Inspect skin": [
+        {
+            "sentence": "The healthcare provider examines the patient's skin for any abnormalities.",
+            "subject": "The healthcare provider",
+            "action": "examines",
+            "object": "the patient's skin",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider uses a light source to enhance visibility during the inspection.",
+            "subject": "The healthcare provider",
+            "action": "uses",
+            "object": "a light source",
+            "tools": "light source"
+        },
+        {
+            "sentence": "The healthcare provider palpates the skin to assess texture and temperature.",
+            "subject": "The healthcare provider",
+            "action": "palpates",
+            "object": "the skin",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider documents any findings in the patient's medical record.",
+            "subject": "The healthcare provider",
+            "action": "documents",
+            "object": "any findings",
+            "tools": "medical record"
+        },
+        {
+            "sentence": "The healthcare provider discusses the findings with the patient and suggests further evaluation if necessary.",
+            "subject": "The healthcare provider",
+            "action": "discusses",
+            "object": "the findings",
+            "tools": "none"
+        }
+    ]
+}

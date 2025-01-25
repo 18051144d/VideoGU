@@ -1,0 +1,39 @@
+{
+    "Withdraw the opposite side bed sheet": [
+        {
+            "sentence": "The nurse raises the opposite side of the bed to access the bed sheet easily.",
+            "subject": "The nurse",
+            "action": "raises",
+            "object": "the opposite side of the bed",
+            "tools": "bed controls"
+        },
+        {
+            "sentence": "The nurse carefully tucks the opposite side bed sheet into the mattress to prevent it from dragging on the floor.",
+            "subject": "The nurse",
+            "action": "tucks",
+            "object": "the opposite side bed sheet",
+            "tools": "hands"
+        },
+        {
+            "sentence": "The nurse grasps the corner of the opposite side bed sheet to pull it away from the mattress.",
+            "subject": "The nurse",
+            "action": "grasps",
+            "object": "the corner of the opposite side bed sheet",
+            "tools": "hands"
+        },
+        {
+            "sentence": "The nurse pulls the opposite side bed sheet gently towards herself to remove it from the bed.",
+            "subject": "The nurse",
+            "action": "pulls",
+            "object": "the opposite side bed sheet",
+            "tools": "hands"
+        },
+        {
+            "sentence": "The nurse discards the removed opposite side bed sheet into the designated laundry bin.",
+            "subject": "The nurse",
+            "action": "discards",
+            "object": "the removed opposite side bed sheet",
+            "tools": "laundry bin"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Secure the indwelling needle": [
+        {
+            "sentence": "The nurse prepares the indwelling needle for insertion.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the indwelling needle",
+            "tools": "alcohol swab, sterile gauze"
+        },
+        {
+            "sentence": "The nurse selects an appropriate site for the needle insertion.",
+            "subject": "The nurse",
+            "action": "selects",
+            "object": "an appropriate site",
+            "tools": "marker, gloves"
+        },
+        {
+            "sentence": "The nurse cleans the selected site with an antiseptic solution.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the selected site",
+            "tools": "antiseptic solution, sterile gauze"
+        },
+        {
+            "sentence": "The nurse inserts the indwelling needle into the vein at the cleaned site.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "the indwelling needle",
+            "tools": "indwelling needle, syringe"
+        },
+        {
+            "sentence": "The nurse secures the indwelling needle in place with adhesive tape.",
+            "subject": "The nurse",
+            "action": "secures",
+            "object": "the indwelling needle",
+            "tools": "adhesive tape, sterile gauze"
+        }
+    ]
+}

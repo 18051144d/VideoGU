@@ -1,0 +1,39 @@
+{
+    "Handwashing": [
+        {
+            "sentence": "The healthcare worker removes any jewelry from their hands and wrists.",
+            "subject": "The healthcare worker",
+            "action": "removes",
+            "object": "any jewelry from their hands and wrists",
+            "tools": "jewelry"
+        },
+        {
+            "sentence": "The healthcare worker turns on the water to a comfortable temperature.",
+            "subject": "The healthcare worker",
+            "action": "turns on",
+            "object": "the water to a comfortable temperature",
+            "tools": "water faucet"
+        },
+        {
+            "sentence": "The healthcare worker applies soap to their hands.",
+            "subject": "The healthcare worker",
+            "action": "applies",
+            "object": "soap to their hands",
+            "tools": "soap"
+        },
+        {
+            "sentence": "The healthcare worker rubs their hands together for at least 20 seconds, ensuring to cover all surfaces.",
+            "subject": "The healthcare worker",
+            "action": "rubs",
+            "object": "their hands together for at least 20 seconds",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare worker rinses their hands thoroughly under clean running water.",
+            "subject": "The healthcare worker",
+            "action": "rinses",
+            "object": "their hands thoroughly under clean running water",
+            "tools": "water"
+        }
+    ]
+}

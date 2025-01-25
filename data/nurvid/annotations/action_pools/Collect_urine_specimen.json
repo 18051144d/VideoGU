@@ -1,0 +1,39 @@
+{
+    "Collect urine specimen": [
+        {
+            "sentence": "The nurse explains the urine collection process to the patient.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the urine collection process",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient is provided with a clean, sterile container for urine collection.",
+            "subject": "The patient",
+            "action": "is provided",
+            "object": "a clean, sterile container",
+            "tools": "sterile container"
+        },
+        {
+            "sentence": "The patient is instructed to urinate mid-stream into the container.",
+            "subject": "The patient",
+            "action": "is instructed",
+            "object": "to urinate mid-stream into the container",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse ensures that the container is securely closed after collection.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "that the container is securely closed",
+            "tools": "container"
+        },
+        {
+            "sentence": "The nurse labels the specimen with the patient's information and sends it to the laboratory.",
+            "subject": "The nurse",
+            "action": "labels",
+            "object": "the specimen with the patient's information",
+            "tools": "labeling materials"
+        }
+    ]
+}

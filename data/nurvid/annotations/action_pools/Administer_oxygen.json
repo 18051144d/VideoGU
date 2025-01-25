@@ -1,0 +1,39 @@
+{
+    "Administer oxygen": [
+        {
+            "sentence": "The healthcare provider assesses the patient's oxygen saturation levels using a pulse oximeter.",
+            "subject": "The healthcare provider",
+            "action": "assesses",
+            "object": "the patient's oxygen saturation levels",
+            "tools": "pulse oximeter"
+        },
+        {
+            "sentence": "The healthcare provider positions the patient comfortably to facilitate optimal breathing.",
+            "subject": "The healthcare provider",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider selects the appropriate oxygen delivery device based on the patient's needs.",
+            "subject": "The healthcare provider",
+            "action": "selects",
+            "object": "the appropriate oxygen delivery device",
+            "tools": "oxygen delivery device"
+        },
+        {
+            "sentence": "The healthcare provider connects the oxygen delivery device to the oxygen source to begin the flow of oxygen.",
+            "subject": "The healthcare provider",
+            "action": "connects",
+            "object": "the oxygen delivery device to the oxygen source",
+            "tools": "oxygen source"
+        },
+        {
+            "sentence": "The healthcare provider monitors the patient\u2019s response to oxygen therapy and adjusts the flow rate as necessary.",
+            "subject": "The healthcare provider",
+            "action": "monitors",
+            "object": "the patient\u2019s response to oxygen therapy",
+            "tools": "none"
+        }
+    ]
+}

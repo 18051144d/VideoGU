@@ -1,0 +1,39 @@
+{
+    "Apply leak prevention ointment": [
+        {
+            "sentence": "The nurse prepares the skin by cleaning the area with antiseptic wipes.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the skin",
+            "tools": "antiseptic wipes"
+        },
+        {
+            "sentence": "The nurse applies a thin layer of leak prevention ointment to the cleaned area.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "a thin layer of leak prevention ointment",
+            "tools": "leak prevention ointment"
+        },
+        {
+            "sentence": "The nurse gently massages the ointment into the skin to ensure even coverage.",
+            "subject": "The nurse",
+            "action": "massages",
+            "object": "the ointment",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse monitors the area for any immediate reactions after application.",
+            "subject": "The nurse",
+            "action": "monitors",
+            "object": "the area",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse educates the patient about the importance of avoiding moisture on the treated area.",
+            "subject": "The nurse",
+            "action": "educates",
+            "object": "the patient",
+            "tools": "none"
+        }
+    ]
+}

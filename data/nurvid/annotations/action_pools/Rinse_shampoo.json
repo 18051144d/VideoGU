@@ -1,0 +1,39 @@
+{
+    "Rinse shampoo": [
+        {
+            "sentence": "The patient tilts their head backward.",
+            "subject": "The patient",
+            "action": "tilts",
+            "object": "their head",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse adjusts the showerhead to a comfortable temperature.",
+            "subject": "The nurse",
+            "action": "adjusts",
+            "object": "the showerhead",
+            "tools": "thermometer"
+        },
+        {
+            "sentence": "The nurse directs a gentle stream of water onto the patient's hair.",
+            "subject": "The nurse",
+            "action": "directs",
+            "object": "a gentle stream of water",
+            "tools": "showerhead"
+        },
+        {
+            "sentence": "The patient closes their eyes to avoid water entering them.",
+            "subject": "The patient",
+            "action": "closes",
+            "object": "their eyes",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse ensures all shampoo is thoroughly rinsed out from the patient's hair.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "all shampoo",
+            "tools": "none"
+        }
+    ]
+}

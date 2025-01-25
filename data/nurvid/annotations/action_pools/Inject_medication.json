@@ -1,0 +1,39 @@
+{
+    "Inject medication": [
+        {
+            "sentence": "The healthcare provider gathers the necessary supplies for the injection.",
+            "subject": "The healthcare provider",
+            "action": "gathers",
+            "object": "the necessary supplies for the injection",
+            "tools": "syringe, medication vial, alcohol swab, gloves"
+        },
+        {
+            "sentence": "The healthcare provider prepares the medication by drawing the correct dosage into the syringe.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the medication",
+            "tools": "syringe, medication vial"
+        },
+        {
+            "sentence": "The healthcare provider cleans the injection site on the patient's skin with an alcohol swab.",
+            "subject": "The healthcare provider",
+            "action": "cleans",
+            "object": "the injection site on the patient's skin",
+            "tools": "alcohol swab"
+        },
+        {
+            "sentence": "The healthcare provider injects the medication into the patient's muscle or subcutaneous tissue.",
+            "subject": "The healthcare provider",
+            "action": "injects",
+            "object": "the medication into the patient's muscle or subcutaneous tissue",
+            "tools": "syringe"
+        },
+        {
+            "sentence": "The healthcare provider disposes of the used syringe and any other materials in a biohazard container.",
+            "subject": "The healthcare provider",
+            "action": "disposes",
+            "object": "of the used syringe and any other materials",
+            "tools": "biohazard container"
+        }
+    ]
+}

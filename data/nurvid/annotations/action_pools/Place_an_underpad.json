@@ -1,0 +1,39 @@
+{
+    "Place an underpad": [
+        {
+            "sentence": "The nurse prepares the underpad by checking for any damages or defects.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the underpad",
+            "tools": "underpad"
+        },
+        {
+            "sentence": "The nurse positions the patient comfortably on the bed or examination table.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "bed or examination table"
+        },
+        {
+            "sentence": "The nurse lifts the patient's hips gently to slide the underpad underneath them.",
+            "subject": "The nurse",
+            "action": "lifts",
+            "object": "the patient's hips",
+            "tools": "underpad"
+        },
+        {
+            "sentence": "The nurse ensures that the underpad is flat and fully covers the designated area.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the underpad",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse secures any bedding or additional materials over the underpad as needed.",
+            "subject": "The nurse",
+            "action": "secures",
+            "object": "bedding or additional materials",
+            "tools": "bedding or additional materials"
+        }
+    ]
+}

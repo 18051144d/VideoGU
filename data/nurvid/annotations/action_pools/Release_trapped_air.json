@@ -1,0 +1,39 @@
+{
+    "Release trapped air": [
+        {
+            "sentence": "The healthcare provider assesses the patient's condition to determine the presence of trapped air.",
+            "subject": "The healthcare provider",
+            "action": "assesses",
+            "object": "the patient's condition",
+            "tools": "stethoscope, medical history"
+        },
+        {
+            "sentence": "The healthcare provider positions the patient appropriately to facilitate the release of trapped air.",
+            "subject": "The healthcare provider",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "hospital bed, pillows"
+        },
+        {
+            "sentence": "The healthcare provider uses a needle or catheter to access the area where the trapped air is located.",
+            "subject": "The healthcare provider",
+            "action": "uses",
+            "object": "a needle or catheter",
+            "tools": "sterile needle, catheter, antiseptic solution"
+        },
+        {
+            "sentence": "The healthcare provider carefully withdraws the trapped air to relieve the patient's discomfort.",
+            "subject": "The healthcare provider",
+            "action": "withdraws",
+            "object": "the trapped air",
+            "tools": "syringe, collection container"
+        },
+        {
+            "sentence": "The healthcare provider monitors the patient for any complications after the procedure has been completed.",
+            "subject": "The healthcare provider",
+            "action": "monitors",
+            "object": "the patient",
+            "tools": "vital signs monitor, observation chart"
+        }
+    ]
+}

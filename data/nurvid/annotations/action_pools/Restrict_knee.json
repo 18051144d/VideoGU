@@ -1,0 +1,39 @@
+{
+    "Restrict knee": [
+        {
+            "sentence": "The physician evaluates the patient's knee condition to determine the necessity for restriction.",
+            "subject": "The physician",
+            "action": "evaluates",
+            "object": "the patient's knee condition",
+            "tools": "medical history, physical examination, imaging studies"
+        },
+        {
+            "sentence": "The physician explains the restriction procedure to the patient, outlining the benefits and potential risks involved.",
+            "subject": "The physician",
+            "action": "explains",
+            "object": "the restriction procedure",
+            "tools": "patient education materials, consent form"
+        },
+        {
+            "sentence": "The nurse prepares the necessary equipment and materials for the knee restriction procedure.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the necessary equipment and materials",
+            "tools": "splints, bandages, immobilizers"
+        },
+        {
+            "sentence": "The physician performs the knee restriction by applying the chosen immobilization method to the patient's knee.",
+            "subject": "The physician",
+            "action": "performs",
+            "object": "the knee restriction",
+            "tools": "surgical gloves, immobilization device"
+        },
+        {
+            "sentence": "The nurse provides post-procedure care instructions to the patient, emphasizing the importance of follow-up appointments.",
+            "subject": "The nurse",
+            "action": "provides",
+            "object": "post-procedure care instructions",
+            "tools": "instructional handouts, appointment schedule"
+        }
+    ]
+}

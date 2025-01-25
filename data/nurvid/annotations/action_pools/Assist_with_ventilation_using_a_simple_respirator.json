@@ -1,0 +1,39 @@
+{
+    "Assist with ventilation using a simple respirator": [
+        {
+            "sentence": "The respiratory therapist prepares the simple respirator for use.",
+            "subject": "The respiratory therapist",
+            "action": "prepares",
+            "object": "the simple respirator",
+            "tools": "simple respirator, power source, tubing"
+        },
+        {
+            "sentence": "The respiratory therapist connects the simple respirator to the patient\u2019s airway.",
+            "subject": "The respiratory therapist",
+            "action": "connects",
+            "object": "the simple respirator to the patient\u2019s airway",
+            "tools": "simple respirator, airway management tools"
+        },
+        {
+            "sentence": "The respiratory therapist adjusts the settings on the simple respirator according to the patient\u2019s needs.",
+            "subject": "The respiratory therapist",
+            "action": "adjusts",
+            "object": "the settings on the simple respirator",
+            "tools": "simple respirator, control panel"
+        },
+        {
+            "sentence": "The respiratory therapist monitors the patient\u2019s vital signs and ventilatory parameters during the procedure.",
+            "subject": "The respiratory therapist",
+            "action": "monitors",
+            "object": "the patient\u2019s vital signs and ventilatory parameters",
+            "tools": "monitoring equipment, vital signs monitor"
+        },
+        {
+            "sentence": "The respiratory therapist provides necessary interventions if any complications arise during ventilation.",
+            "subject": "The respiratory therapist",
+            "action": "provides",
+            "object": "necessary interventions",
+            "tools": "emergency equipment, protocols for complications"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Collect sputum specimen": [
+        {
+            "sentence": "The healthcare provider explains the sputum collection process to the patient.",
+            "subject": "The healthcare provider",
+            "action": "explains",
+            "object": "the sputum collection process",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient is instructed to take a deep breath and then cough forcefully to produce sputum.",
+            "subject": "The patient",
+            "action": "is instructed",
+            "object": "to take a deep breath and then cough forcefully to produce sputum",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient collects the sputum in a sterile container provided by the healthcare provider.",
+            "subject": "The patient",
+            "action": "collects",
+            "object": "the sputum in a sterile container",
+            "tools": "sterile container"
+        },
+        {
+            "sentence": "The patient seals the container tightly to prevent contamination and leakage.",
+            "subject": "The patient",
+            "action": "seals",
+            "object": "the container tightly",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient returns the sealed container to the healthcare provider for analysis.",
+            "subject": "The patient",
+            "action": "returns",
+            "object": "the sealed container",
+            "tools": "none"
+        }
+    ]
+}

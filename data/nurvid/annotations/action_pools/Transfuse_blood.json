@@ -1,0 +1,39 @@
+{
+    "Transfuse blood": [
+        {
+            "sentence": "The healthcare provider verifies the patient's identity and blood type.",
+            "subject": "The healthcare provider",
+            "action": "verifies",
+            "object": "the patient's identity and blood type",
+            "tools": "patient identification bracelet, blood type records"
+        },
+        {
+            "sentence": "The nurse prepares the blood product for transfusion by checking the expiration date and compatibility.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the blood product for transfusion",
+            "tools": "blood bag, compatibility report, expiration check"
+        },
+        {
+            "sentence": "The nurse establishes an intravenous (IV) access site on the patient.",
+            "subject": "The nurse",
+            "action": "establishes",
+            "object": "an intravenous (IV) access site",
+            "tools": "IV catheter, antiseptic, adhesive tape"
+        },
+        {
+            "sentence": "The nurse connects the blood bag to the IV line and starts the transfusion at a regulated rate.",
+            "subject": "The nurse",
+            "action": "connects",
+            "object": "the blood bag to the IV line",
+            "tools": "blood transfusion set, IV pump or gravity drip"
+        },
+        {
+            "sentence": "The healthcare provider monitors the patient for any adverse reactions during the transfusion.",
+            "subject": "The healthcare provider",
+            "action": "monitors",
+            "object": "the patient for any adverse reactions",
+            "tools": "vital signs monitor, observation checklist"
+        }
+    ]
+}

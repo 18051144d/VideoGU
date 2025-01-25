@@ -1,0 +1,39 @@
+{
+    "Shift to the right side": [
+        {
+            "sentence": "The nurse instructs the patient to lie down on their back.",
+            "subject": "The nurse",
+            "action": "instructs",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse assists the patient in shifting their body to the right side.",
+            "subject": "The nurse",
+            "action": "assists",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse ensures that the patient's head is properly aligned with their spine.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the patient's head",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse checks that the patient is comfortable in the new position.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse monitors the patient's vital signs after the shift.",
+            "subject": "The nurse",
+            "action": "monitors",
+            "object": "the patient's vital signs",
+            "tools": "vital signs monitor"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Remove ostomy bag": [
+        {
+            "sentence": "The nurse gathers all necessary supplies for the procedure.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "necessary supplies",
+            "tools": "ostomy bag, adhesive remover, gauze, gloves, waste disposal bag"
+        },
+        {
+            "sentence": "The nurse puts on gloves to maintain hygiene during the procedure.",
+            "subject": "The nurse",
+            "action": "puts on",
+            "object": "gloves",
+            "tools": "gloves"
+        },
+        {
+            "sentence": "The nurse carefully detaches the ostomy bag from the skin around the stoma.",
+            "subject": "The nurse",
+            "action": "detaches",
+            "object": "the ostomy bag",
+            "tools": "hands, adhesive remover"
+        },
+        {
+            "sentence": "The nurse cleans the skin around the stoma with gauze to prevent infection.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the skin around the stoma",
+            "tools": "gauze, water or saline solution"
+        },
+        {
+            "sentence": "The nurse disposes of the used ostomy bag and materials in the waste disposal bag.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "used ostomy bag and materials",
+            "tools": "waste disposal bag"
+        }
+    ]
+}

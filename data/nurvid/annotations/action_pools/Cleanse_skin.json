@@ -1,0 +1,39 @@
+{
+    "Cleanse skin": [
+        {
+            "sentence": "The nurse prepares the cleansing solution.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the cleansing solution",
+            "tools": "cleansing solution"
+        },
+        {
+            "sentence": "The nurse gathers sterile gauze or wipes.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "sterile gauze or wipes",
+            "tools": "sterile gauze or wipes"
+        },
+        {
+            "sentence": "The nurse positions the patient for access to the skin area.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient for access to the skin area",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse applies the cleansing solution to the sterile gauze or wipes.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "the cleansing solution to the sterile gauze or wipes",
+            "tools": "sterile gauze or wipes"
+        },
+        {
+            "sentence": "The nurse gently cleanses the designated skin area using the moistened gauze or wipes.",
+            "subject": "The nurse",
+            "action": "gently cleanses",
+            "object": "the designated skin area using the moistened gauze or wipes",
+            "tools": "moistened gauze or wipes"
+        }
+    ]
+}

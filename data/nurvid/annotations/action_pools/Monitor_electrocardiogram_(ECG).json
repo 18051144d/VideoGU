@@ -1,0 +1,39 @@
+{
+    "Monitor electrocardiogram (ECG)": [
+        {
+            "sentence": "The technician prepares the electrocardiogram machine for use.",
+            "subject": "The technician",
+            "action": "prepares",
+            "object": "the electrocardiogram machine",
+            "tools": "electrocardiogram machine"
+        },
+        {
+            "sentence": "The nurse positions the electrodes on the patient's chest and limbs.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the electrodes",
+            "tools": "electrodes, adhesive pads"
+        },
+        {
+            "sentence": "The technician connects the electrodes to the electrocardiogram machine.",
+            "subject": "The technician",
+            "action": "connects",
+            "object": "the electrodes",
+            "tools": "wires, electrocardiogram machine"
+        },
+        {
+            "sentence": "The healthcare provider instructs the patient to remain still during the recording.",
+            "subject": "The healthcare provider",
+            "action": "instructs",
+            "object": "the patient",
+            "tools": "instructions"
+        },
+        {
+            "sentence": "The technician monitors the electrocardiogram readout for any abnormalities.",
+            "subject": "The technician",
+            "action": "monitors",
+            "object": "the electrocardiogram readout",
+            "tools": "electrocardiogram machine"
+        }
+    ]
+}

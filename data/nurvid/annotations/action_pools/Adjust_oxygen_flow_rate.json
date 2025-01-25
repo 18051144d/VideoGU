@@ -1,0 +1,39 @@
+{
+    "Adjust oxygen flow rate": [
+        {
+            "sentence": "The healthcare provider assesses the patient's current oxygen saturation levels.",
+            "subject": "The healthcare provider",
+            "action": "assesses",
+            "object": "the patient's current oxygen saturation levels",
+            "tools": "pulse oximeter"
+        },
+        {
+            "sentence": "The healthcare provider determines the appropriate oxygen flow rate based on the assessment.",
+            "subject": "The healthcare provider",
+            "action": "determines",
+            "object": "the appropriate oxygen flow rate",
+            "tools": "clinical guidelines"
+        },
+        {
+            "sentence": "The healthcare provider adjusts the oxygen flow rate on the delivery device accordingly.",
+            "subject": "The healthcare provider",
+            "action": "adjusts",
+            "object": "the oxygen flow rate on the delivery device",
+            "tools": "oxygen flow meter"
+        },
+        {
+            "sentence": "The healthcare provider monitors the patient\u2019s response to the new oxygen flow rate.",
+            "subject": "The healthcare provider",
+            "action": "monitors",
+            "object": "the patient\u2019s response to the new oxygen flow rate",
+            "tools": "pulse oximeter"
+        },
+        {
+            "sentence": "The healthcare provider documents the changes made to the oxygen flow rate and the patient's response.",
+            "subject": "The healthcare provider",
+            "action": "documents",
+            "object": "the changes made to the oxygen flow rate and the patient's response",
+            "tools": "medical record system"
+        }
+    ]
+}

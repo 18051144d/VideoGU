@@ -1,0 +1,39 @@
+{
+    "Remove rectal tube": [
+        {
+            "sentence": "The nurse gathers the necessary supplies to ensure a sterile environment.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "the necessary supplies",
+            "tools": "sterile gloves, gauze, and disposal bag"
+        },
+        {
+            "sentence": "The nurse explains the procedure to the patient to obtain informed consent.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the procedure",
+            "tools": "patient information sheet"
+        },
+        {
+            "sentence": "The nurse positions the patient comfortably in a safe and private area.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "bed or examination table"
+        },
+        {
+            "sentence": "The nurse carefully removes the rectal tube while monitoring the patient's comfort.",
+            "subject": "The nurse",
+            "action": "removes",
+            "object": "the rectal tube",
+            "tools": "sterile gloves"
+        },
+        {
+            "sentence": "The nurse disposes of the rectal tube properly and documents the procedure in the patient's record.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "the rectal tube",
+            "tools": "disposal bag and patient record system"
+        }
+    ]
+}

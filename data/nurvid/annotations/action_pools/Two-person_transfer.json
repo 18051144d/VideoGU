@@ -1,0 +1,39 @@
+{
+    "Two-person transfer": [
+        {
+            "sentence": "The caregiver assesses the patient's mobility and stability before performing the transfer.",
+            "subject": "The caregiver",
+            "action": "assesses",
+            "object": "the patient's mobility and stability",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver positions the wheelchair or bed close to the patient's current location.",
+            "subject": "The caregiver",
+            "action": "positions",
+            "object": "the wheelchair or bed",
+            "tools": "wheelchair, bed"
+        },
+        {
+            "sentence": "The caregiver provides clear instructions to the second caregiver regarding the transfer method and timing.",
+            "subject": "The caregiver",
+            "action": "provides",
+            "object": "clear instructions to the second caregiver",
+            "tools": "none"
+        },
+        {
+            "sentence": "The two caregivers simultaneously lift and support the patient using proper body mechanics during the transfer.",
+            "subject": "The two caregivers",
+            "action": "lift and support",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregivers ensure the patient is securely positioned in the new location and check for comfort.",
+            "subject": "The caregivers",
+            "action": "ensure",
+            "object": "the patient is securely positioned",
+            "tools": "none"
+        }
+    ]
+}

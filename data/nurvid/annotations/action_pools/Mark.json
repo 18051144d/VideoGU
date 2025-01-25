@@ -1,0 +1,39 @@
+{
+    "Mark": [
+        {
+            "sentence": "The healthcare provider prepares the marking tools and ensures they are sterile.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the marking tools",
+            "tools": "sterile marking instruments"
+        },
+        {
+            "sentence": "The healthcare provider explains the marking procedure to the patient to obtain informed consent.",
+            "subject": "The healthcare provider",
+            "action": "explains",
+            "object": "the marking procedure",
+            "tools": "informed consent form"
+        },
+        {
+            "sentence": "The healthcare provider positions the patient appropriately for visibility and access to the area being marked.",
+            "subject": "The healthcare provider",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "adjustable exam table"
+        },
+        {
+            "sentence": "The healthcare provider marks the designated areas on the patient's body using the prepared marking tools.",
+            "subject": "The healthcare provider",
+            "action": "marks",
+            "object": "the designated areas",
+            "tools": "marker or pen"
+        },
+        {
+            "sentence": "The healthcare provider reviews the markings with the patient to ensure accuracy and agreement before proceeding.",
+            "subject": "The healthcare provider",
+            "action": "reviews",
+            "object": "the markings",
+            "tools": "none"
+        }
+    ]
+}

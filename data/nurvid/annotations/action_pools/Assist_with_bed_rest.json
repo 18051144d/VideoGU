@@ -1,0 +1,39 @@
+{
+    "Assist with bed rest": [
+        {
+            "sentence": "The nurse evaluates the patient's condition and mobility limitations to determine the appropriate level of bed rest required.",
+            "subject": "The nurse",
+            "action": "evaluates",
+            "object": "the patient's condition and mobility limitations",
+            "tools": "assessment tools"
+        },
+        {
+            "sentence": "The nurse explains the importance of bed rest to the patient to ensure understanding and compliance with the procedure.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the importance of bed rest",
+            "tools": "educational materials"
+        },
+        {
+            "sentence": "The nurse positions the patient comfortably in bed, ensuring proper alignment to prevent pressure sores and discomfort.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "pillows and support devices"
+        },
+        {
+            "sentence": "The nurse monitors the patient's vital signs regularly to identify any changes in health status during bed rest.",
+            "subject": "The nurse",
+            "action": "monitors",
+            "object": "the patient's vital signs",
+            "tools": "vital signs equipment"
+        },
+        {
+            "sentence": "The nurse provides assistance with activities of daily living as needed, ensuring the patient remains safe and comfortable while on bed rest.",
+            "subject": "The nurse",
+            "action": "provides",
+            "object": "assistance with activities of daily living",
+            "tools": "mobility aids and personal care items"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Perform nasopharyngeal and nasotracheal suction": [
+        {
+            "sentence": "The nurse explains the procedure to the patient to ensure understanding and consent.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the procedure",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse gathers the necessary suction equipment, including a suction catheter and a suction machine.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "the necessary suction equipment",
+            "tools": "suction catheter, suction machine"
+        },
+        {
+            "sentence": "The nurse positions the patient comfortably to facilitate access to the nasopharynx and nasotracheal area.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse inserts the suction catheter into the patient's nasopharynx or nasotracheal area with caution.",
+            "subject": "The nurse",
+            "action": "inserts",
+            "object": "the suction catheter",
+            "tools": "suction catheter"
+        },
+        {
+            "sentence": "The nurse activates the suction device and gently withdraws the catheter to clear secretions from the airway.",
+            "subject": "The nurse",
+            "action": "activates",
+            "object": "the suction device",
+            "tools": "suction device"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Perform surgical hand scrub": [
+        {
+            "sentence": "The surgical team prepares by gathering all necessary supplies for the hand scrub.",
+            "subject": "The surgical team",
+            "action": "prepares",
+            "object": "all necessary supplies",
+            "tools": "surgical soap, scrub brush, sterile towels"
+        },
+        {
+            "sentence": "The surgical team removes all jewelry and watches to maintain a sterile environment.",
+            "subject": "The surgical team",
+            "action": "removes",
+            "object": "all jewelry and watches",
+            "tools": "none"
+        },
+        {
+            "sentence": "The surgical team washes their hands and arms with surgical soap for at least two to five minutes.",
+            "subject": "The surgical team",
+            "action": "washes",
+            "object": "their hands and arms",
+            "tools": "surgical soap"
+        },
+        {
+            "sentence": "The surgical team uses a scrub brush to clean under nails and between fingers thoroughly.",
+            "subject": "The surgical team",
+            "action": "uses",
+            "object": "a scrub brush",
+            "tools": "scrub brush"
+        },
+        {
+            "sentence": "The surgical team dries their hands and arms with sterile towels to prevent contamination.",
+            "subject": "The surgical team",
+            "action": "dries",
+            "object": "their hands and arms",
+            "tools": "sterile towels"
+        }
+    ]
+}

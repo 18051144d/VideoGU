@@ -1,0 +1,39 @@
+{
+    "Organize the bed unit": [
+        {
+            "sentence": "The nurse removes any soiled linens from the bed unit.",
+            "subject": "The nurse",
+            "action": "removes",
+            "object": "soiled linens",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse inspects the mattress for any signs of damage or stains.",
+            "subject": "The nurse",
+            "action": "inspects",
+            "object": "the mattress",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse places fresh linens on the bed unit, ensuring proper alignment.",
+            "subject": "The nurse",
+            "action": "places",
+            "object": "fresh linens",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse arranges the pillows and blankets neatly on the bed unit.",
+            "subject": "The nurse",
+            "action": "arranges",
+            "object": "the pillows and blankets",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse ensures that all necessary items for patient comfort are within reach.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "necessary items",
+            "tools": "none"
+        }
+    ]
+}

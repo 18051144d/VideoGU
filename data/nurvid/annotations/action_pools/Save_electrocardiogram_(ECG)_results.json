@@ -1,0 +1,39 @@
+{
+    "Save electrocardiogram (ECG) results": [
+        {
+            "sentence": "The healthcare provider accesses the ECG machine to retrieve the recorded data.",
+            "subject": "The healthcare provider",
+            "action": "accesses",
+            "object": "the ECG machine",
+            "tools": "ECG machine"
+        },
+        {
+            "sentence": "The healthcare provider selects the appropriate patient file to store the ECG results.",
+            "subject": "The healthcare provider",
+            "action": "selects",
+            "object": "the appropriate patient file",
+            "tools": "computer system"
+        },
+        {
+            "sentence": "The healthcare provider copies the ECG data from the machine to the patient file.",
+            "subject": "The healthcare provider",
+            "action": "copies",
+            "object": "the ECG data",
+            "tools": "computer system"
+        },
+        {
+            "sentence": "The healthcare provider verifies the accuracy of the transferred ECG results.",
+            "subject": "The healthcare provider",
+            "action": "verifies",
+            "object": "the accuracy of the transferred ECG results",
+            "tools": "monitor"
+        },
+        {
+            "sentence": "The healthcare provider saves the patient file to ensure the ECG results are securely stored.",
+            "subject": "The healthcare provider",
+            "action": "saves",
+            "object": "the patient file",
+            "tools": "computer system"
+        }
+    ]
+}

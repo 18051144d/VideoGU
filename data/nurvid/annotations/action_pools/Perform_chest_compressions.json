@@ -1,0 +1,39 @@
+{
+    "Perform chest compressions": [
+        {
+            "sentence": "The rescuer positions the hands on the center of the patient's chest.",
+            "subject": "The rescuer",
+            "action": "positions",
+            "object": "the hands",
+            "tools": "none"
+        },
+        {
+            "sentence": "The rescuer interlocks the fingers of one hand with the other.",
+            "subject": "The rescuer",
+            "action": "interlocks",
+            "object": "the fingers",
+            "tools": "none"
+        },
+        {
+            "sentence": "The rescuer straightens the arms and maintains a shoulder-width stance.",
+            "subject": "The rescuer",
+            "action": "straightens",
+            "object": "the arms",
+            "tools": "none"
+        },
+        {
+            "sentence": "The rescuer performs chest compressions by pushing down hard and fast at a rate of 100 to 120 compressions per minute.",
+            "subject": "The rescuer",
+            "action": "performs",
+            "object": "chest compressions",
+            "tools": "none"
+        },
+        {
+            "sentence": "The rescuer allows the chest to fully recoil between compressions.",
+            "subject": "The rescuer",
+            "action": "allows",
+            "object": "the chest",
+            "tools": "none"
+        }
+    ]
+}

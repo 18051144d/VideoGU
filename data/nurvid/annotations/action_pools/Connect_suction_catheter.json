@@ -1,0 +1,39 @@
+{
+    "Connect suction catheter": [
+        {
+            "sentence": "The nurse prepares the suction catheter by ensuring it is sterile and functional.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the suction catheter",
+            "tools": "sterile suction catheter"
+        },
+        {
+            "sentence": "The nurse connects the suction catheter to the suction machine by securing the appropriate tubing.",
+            "subject": "The nurse",
+            "action": "connects",
+            "object": "the suction catheter to the suction machine",
+            "tools": "suction machine, tubing"
+        },
+        {
+            "sentence": "The nurse checks the suction settings on the machine to ensure they are appropriate for the patient's needs.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the suction settings",
+            "tools": "suction machine"
+        },
+        {
+            "sentence": "The nurse assesses the patient for any contraindications to suctioning before proceeding.",
+            "subject": "The nurse",
+            "action": "assesses",
+            "object": "the patient for contraindications",
+            "tools": "patient assessment tools"
+        },
+        {
+            "sentence": "The nurse initiates suctioning by inserting the catheter gently into the patient's airway.",
+            "subject": "The nurse",
+            "action": "initiates",
+            "object": "suctioning",
+            "tools": "suction catheter"
+        }
+    ]
+}

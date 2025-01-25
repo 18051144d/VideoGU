@@ -1,0 +1,39 @@
+{
+    "Take treatment bowl": [
+        {
+            "sentence": "The nurse prepares the treatment bowl by gathering all necessary supplies.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the treatment bowl",
+            "tools": "necessary supplies"
+        },
+        {
+            "sentence": "The nurse ensures that the treatment bowl is clean and sanitized before use.",
+            "subject": "The nurse",
+            "action": "ensures",
+            "object": "the treatment bowl is clean and sanitized",
+            "tools": "sanitizing solution, clean cloth"
+        },
+        {
+            "sentence": "The nurse fills the treatment bowl with the appropriate solution or medication as prescribed.",
+            "subject": "The nurse",
+            "action": "fills",
+            "object": "the treatment bowl with the appropriate solution or medication",
+            "tools": "solution or medication"
+        },
+        {
+            "sentence": "The nurse checks the temperature of the solution in the treatment bowl to ensure it is safe for the patient.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the temperature of the solution in the treatment bowl",
+            "tools": "thermometer"
+        },
+        {
+            "sentence": "The nurse presents the treatment bowl to the patient and explains the procedure clearly.",
+            "subject": "The nurse",
+            "action": "presents",
+            "object": "the treatment bowl to the patient",
+            "tools": "none"
+        }
+    ]
+}

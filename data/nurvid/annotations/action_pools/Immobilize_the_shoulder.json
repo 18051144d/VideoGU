@@ -1,0 +1,39 @@
+{
+    "Immobilize the shoulder": [
+        {
+            "sentence": "The healthcare provider assesses the patient's shoulder for any signs of injury or dislocation.",
+            "subject": "The healthcare provider",
+            "action": "assesses",
+            "object": "the patient's shoulder",
+            "tools": "visual inspection, palpation"
+        },
+        {
+            "sentence": "The healthcare provider explains the immobilization process to the patient to ensure understanding and cooperation.",
+            "subject": "The healthcare provider",
+            "action": "explains",
+            "object": "the immobilization process",
+            "tools": "verbal communication"
+        },
+        {
+            "sentence": "The healthcare provider selects an appropriate immobilization device, such as a sling or brace, based on the assessment.",
+            "subject": "The healthcare provider",
+            "action": "selects",
+            "object": "an appropriate immobilization device",
+            "tools": "sling, brace"
+        },
+        {
+            "sentence": "The healthcare provider carefully places the selected immobilization device on the patient's shoulder, ensuring proper fit and support.",
+            "subject": "The healthcare provider",
+            "action": "places",
+            "object": "the selected immobilization device",
+            "tools": "sling, brace"
+        },
+        {
+            "sentence": "The healthcare provider provides the patient with instructions on how to care for the immobilized shoulder and when to seek further medical attention.",
+            "subject": "The healthcare provider",
+            "action": "provides",
+            "object": "the patient with instructions",
+            "tools": "printed instructions, verbal communication"
+        }
+    ]
+}

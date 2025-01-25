@@ -1,0 +1,39 @@
+{
+    "Install oxygen inhalation device": [
+        {
+            "sentence": "The technician prepares the oxygen inhalation device by checking all components for functionality.",
+            "subject": "The technician",
+            "action": "prepares",
+            "object": "the oxygen inhalation device",
+            "tools": "oxygen inhalation device components"
+        },
+        {
+            "sentence": "The technician connects the oxygen tank to the inhalation device using the appropriate fittings.",
+            "subject": "The technician",
+            "action": "connects",
+            "object": "the oxygen tank",
+            "tools": "appropriate fittings"
+        },
+        {
+            "sentence": "The technician adjusts the flow rate on the inhalation device according to the patient's prescription.",
+            "subject": "The technician",
+            "action": "adjusts",
+            "object": "the flow rate",
+            "tools": "flow rate settings"
+        },
+        {
+            "sentence": "The technician places the mask or mouthpiece securely on the patient to ensure a proper seal.",
+            "subject": "The technician",
+            "action": "places",
+            "object": "the mask or mouthpiece",
+            "tools": "mask or mouthpiece"
+        },
+        {
+            "sentence": "The technician tests the device to verify that oxygen is flowing correctly before monitoring the patient's comfort.",
+            "subject": "The technician",
+            "action": "tests",
+            "object": "the device",
+            "tools": "testing equipment"
+        }
+    ]
+}

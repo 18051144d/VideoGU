@@ -1,0 +1,39 @@
+{
+    "Nasogastric feeding": [
+        {
+            "sentence": "The nurse gathers all necessary equipment for nasogastric feeding.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "all necessary equipment for nasogastric feeding",
+            "tools": "nasogastric tube, lubricant, syringe, feeding formula, gloves"
+        },
+        {
+            "sentence": "The nurse explains the procedure to the patient to obtain informed consent.",
+            "subject": "The nurse",
+            "action": "explains",
+            "object": "the procedure to the patient",
+            "tools": "informational pamphlet"
+        },
+        {
+            "sentence": "The nurse positions the patient in a comfortable semi-upright position to facilitate feeding.",
+            "subject": "The nurse",
+            "action": "positions",
+            "object": "the patient in a comfortable semi-upright position",
+            "tools": "bed or chair"
+        },
+        {
+            "sentence": "The nurse measures the length of the nasogastric tube before insertion to ensure proper placement.",
+            "subject": "The nurse",
+            "action": "measures",
+            "object": "the length of the nasogastric tube before insertion",
+            "tools": "measuring tape"
+        },
+        {
+            "sentence": "The nurse securely attaches the nasogastric tube to the feeding syringe and initiates the feeding process.",
+            "subject": "The nurse",
+            "action": "attaches",
+            "object": "the nasogastric tube to the feeding syringe and initiates the feeding process",
+            "tools": "nasogastric tube, feeding syringe, feeding formula"
+        }
+    ]
+}

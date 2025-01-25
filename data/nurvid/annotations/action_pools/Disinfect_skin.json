@@ -1,0 +1,39 @@
+{
+    "Disinfect skin": [
+        {
+            "sentence": "The nurse prepares the disinfectant solution.",
+            "subject": "The nurse",
+            "action": "prepares",
+            "object": "the disinfectant solution",
+            "tools": "disinfectant solution, measuring cup"
+        },
+        {
+            "sentence": "The nurse cleans the skin area with soap and water.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the skin area",
+            "tools": "soap, water, washcloth"
+        },
+        {
+            "sentence": "The nurse dries the skin area using a sterile cloth.",
+            "subject": "The nurse",
+            "action": "dries",
+            "object": "the skin area",
+            "tools": "sterile cloth"
+        },
+        {
+            "sentence": "The nurse applies the disinfectant solution to the skin area using a sterile applicator.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "the disinfectant solution to the skin area",
+            "tools": "disinfectant solution, sterile applicator"
+        },
+        {
+            "sentence": "The nurse allows the disinfectant solution to air dry on the skin.",
+            "subject": "The nurse",
+            "action": "allows",
+            "object": "the disinfectant solution to air dry on the skin",
+            "tools": "none"
+        }
+    ]
+}

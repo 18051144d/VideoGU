@@ -1,0 +1,39 @@
+{
+    "Prepare operating space": [
+        {
+            "sentence": "The surgical team clears the operating room of any unnecessary equipment and supplies.",
+            "subject": "The surgical team",
+            "action": "clears",
+            "object": "the operating room",
+            "tools": "none"
+        },
+        {
+            "sentence": "The nurse verifies that all necessary surgical instruments are sterile and within reach.",
+            "subject": "The nurse",
+            "action": "verifies",
+            "object": "all necessary surgical instruments",
+            "tools": "sterilization equipment"
+        },
+        {
+            "sentence": "The anesthesiologist prepares the anesthesia equipment and checks for proper functionality.",
+            "subject": "The anesthesiologist",
+            "action": "prepares",
+            "object": "the anesthesia equipment",
+            "tools": "anesthesia machine"
+        },
+        {
+            "sentence": "The surgical team sets up the operating table according to the surgical protocol.",
+            "subject": "The surgical team",
+            "action": "sets up",
+            "object": "the operating table",
+            "tools": "surgical drapes, positioning devices"
+        },
+        {
+            "sentence": "The team conducts a final safety check to ensure all equipment is ready and correctly positioned.",
+            "subject": "The team",
+            "action": "conducts",
+            "object": "a final safety check",
+            "tools": "checklist"
+        }
+    ]
+}

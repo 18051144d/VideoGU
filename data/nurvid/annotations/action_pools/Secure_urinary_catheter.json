@@ -1,0 +1,39 @@
+{
+    "Secure urinary catheter": [
+        {
+            "sentence": "The nurse gathers all necessary supplies for securing the urinary catheter.",
+            "subject": "The nurse",
+            "action": "gathers",
+            "object": "all necessary supplies",
+            "tools": "catheter securing device, adhesive strips, gloves"
+        },
+        {
+            "sentence": "The nurse washes her hands thoroughly to maintain aseptic technique.",
+            "subject": "The nurse",
+            "action": "washes",
+            "object": "her hands",
+            "tools": "soap, water, hand sanitizer"
+        },
+        {
+            "sentence": "The nurse places the patient in a comfortable position to facilitate access to the catheter.",
+            "subject": "The nurse",
+            "action": "places",
+            "object": "the patient",
+            "tools": "pillows, blankets"
+        },
+        {
+            "sentence": "The nurse secures the urinary catheter using the appropriate securing device to prevent displacement.",
+            "subject": "The nurse",
+            "action": "secures",
+            "object": "the urinary catheter",
+            "tools": "catheter securing device, adhesive strips"
+        },
+        {
+            "sentence": "The nurse disposes of any used materials and performs hand hygiene after completing the procedure.",
+            "subject": "The nurse",
+            "action": "disposes",
+            "object": "any used materials",
+            "tools": "biohazard container, hand sanitizer"
+        }
+    ]
+}

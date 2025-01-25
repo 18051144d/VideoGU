@@ -78,8 +78,9 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser('Preprocess video data')
     parser.add_argument('--videos_dir', type = str)
     parser.add_argument('--dataset', type = str, default = 'nurvid')
+    parser.add_argument('--limit', type = int, default = -1)
     args = parser.parse_args()
 
-    video2frame(args.videos_dir, args.dataset)
+    video2frame(args.videos_dir, args.dataset, args.limit)
     collect_all_valid(args.dataset)
 

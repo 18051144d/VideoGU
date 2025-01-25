@@ -1,0 +1,39 @@
+{
+    "Install nebulizer": [
+        {
+            "sentence": "The technician prepares the nebulizer by assembling the necessary components.",
+            "subject": "The technician",
+            "action": "prepares",
+            "object": "the nebulizer",
+            "tools": "nebulizer components"
+        },
+        {
+            "sentence": "The technician ensures that the medication is properly measured and added to the medication cup.",
+            "subject": "The technician",
+            "action": "ensures",
+            "object": "the medication",
+            "tools": "medication cup"
+        },
+        {
+            "sentence": "The technician connects the medication cup to the nebulizer and attaches the tubing.",
+            "subject": "The technician",
+            "action": "connects",
+            "object": "the medication cup",
+            "tools": "tubing"
+        },
+        {
+            "sentence": "The technician checks that the power source is plugged in and turns on the nebulizer.",
+            "subject": "The technician",
+            "action": "checks",
+            "object": "the power source",
+            "tools": "power outlet"
+        },
+        {
+            "sentence": "The technician instructs the patient on how to use the nebulizer properly during the treatment.",
+            "subject": "The technician",
+            "action": "instructs",
+            "object": "the patient",
+            "tools": "instruction manual"
+        }
+    ]
+}

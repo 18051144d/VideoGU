@@ -1,0 +1,39 @@
+{
+    "Perform single-person transfer": [
+        {
+            "sentence": "The caregiver assesses the patient's mobility and safety needs before initiating the transfer.",
+            "subject": "The caregiver",
+            "action": "assesses",
+            "object": "the patient's mobility and safety needs",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver prepares the environment by removing obstacles and ensuring a clear path for the transfer.",
+            "subject": "The caregiver",
+            "action": "prepares",
+            "object": "the environment",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver positions the wheelchair or transfer device close to the patient to facilitate the transfer.",
+            "subject": "The caregiver",
+            "action": "positions",
+            "object": "the wheelchair or transfer device",
+            "tools": "wheelchair or transfer device"
+        },
+        {
+            "sentence": "The caregiver uses proper body mechanics to lift and transfer the patient safely into the wheelchair or transfer device.",
+            "subject": "The caregiver",
+            "action": "uses",
+            "object": "proper body mechanics",
+            "tools": "none"
+        },
+        {
+            "sentence": "The caregiver secures the patient in the wheelchair or transfer device and checks for comfort and safety.",
+            "subject": "The caregiver",
+            "action": "secures",
+            "object": "the patient",
+            "tools": "none"
+        }
+    ]
+}

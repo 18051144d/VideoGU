@@ -1,0 +1,39 @@
+{
+    "Secure ostomy bag": [
+        {
+            "sentence": "The nurse cleans the patient's skin around the stoma with antiseptic wipes.",
+            "subject": "The nurse",
+            "action": "cleans",
+            "object": "the patient's skin around the stoma",
+            "tools": "antiseptic wipes"
+        },
+        {
+            "sentence": "The nurse measures the stoma to ensure proper fitting of the ostomy bag.",
+            "subject": "The nurse",
+            "action": "measures",
+            "object": "the stoma",
+            "tools": "measuring tape"
+        },
+        {
+            "sentence": "The nurse selects an appropriately sized ostomy bag for the patient.",
+            "subject": "The nurse",
+            "action": "selects",
+            "object": "an appropriately sized ostomy bag",
+            "tools": "ostomy bag selection"
+        },
+        {
+            "sentence": "The nurse applies the adhesive side of the ostomy bag to the patient's skin around the stoma.",
+            "subject": "The nurse",
+            "action": "applies",
+            "object": "the adhesive side of the ostomy bag",
+            "tools": "ostomy bag"
+        },
+        {
+            "sentence": "The nurse checks the fit of the ostomy bag to ensure it is secure and leak-proof.",
+            "subject": "The nurse",
+            "action": "checks",
+            "object": "the fit of the ostomy bag",
+            "tools": "none"
+        }
+    ]
+}

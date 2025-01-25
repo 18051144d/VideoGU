@@ -1,0 +1,39 @@
+{
+    "Prepare medications": [
+        {
+            "sentence": "The pharmacist gathers all necessary medication orders from the healthcare provider.",
+            "subject": "The pharmacist",
+            "action": "gathers",
+            "object": "all necessary medication orders",
+            "tools": "none"
+        },
+        {
+            "sentence": "The pharmacist verifies each medication's dosage and administration route for accuracy.",
+            "subject": "The pharmacist",
+            "action": "verifies",
+            "object": "each medication's dosage and administration route",
+            "tools": "none"
+        },
+        {
+            "sentence": "The pharmacist retrieves the medications from the storage area according to the verified orders.",
+            "subject": "The pharmacist",
+            "action": "retrieves",
+            "object": "the medications",
+            "tools": "storage area"
+        },
+        {
+            "sentence": "The pharmacist labels each medication with the patient's information and instructions for use.",
+            "subject": "The pharmacist",
+            "action": "labels",
+            "object": "each medication",
+            "tools": "labels"
+        },
+        {
+            "sentence": "The pharmacist organizes the medications for easy access during administration.",
+            "subject": "The pharmacist",
+            "action": "organizes",
+            "object": "the medications",
+            "tools": "organization system"
+        }
+    ]
+}

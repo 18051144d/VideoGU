@@ -1,0 +1,39 @@
+{
+    "Cleanse hard palate": [
+        {
+            "sentence": "The clinician inspects the hard palate for any debris or irregularities.",
+            "subject": "The clinician",
+            "action": "inspects",
+            "object": "the hard palate",
+            "tools": "none"
+        },
+        {
+            "sentence": "The clinician prepares a sterile saline solution for cleansing.",
+            "subject": "The clinician",
+            "action": "prepares",
+            "object": "a sterile saline solution",
+            "tools": "saline solution, sterile container"
+        },
+        {
+            "sentence": "The clinician moisten a sterile gauze pad with the saline solution.",
+            "subject": "The clinician",
+            "action": "moisten",
+            "object": "a sterile gauze pad",
+            "tools": "sterile gauze pad, sterile saline solution"
+        },
+        {
+            "sentence": "The clinician gently wipes the hard palate with the moistened gauze pad.",
+            "subject": "The clinician",
+            "action": "wipes",
+            "object": "the hard palate",
+            "tools": "moistened gauze pad"
+        },
+        {
+            "sentence": "The clinician assesses the hard palate for cleanliness and any remaining debris.",
+            "subject": "The clinician",
+            "action": "assesses",
+            "object": "the hard palate",
+            "tools": "none"
+        }
+    ]
+}

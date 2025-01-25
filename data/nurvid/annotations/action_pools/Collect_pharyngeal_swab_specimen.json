@@ -1,0 +1,39 @@
+{
+    "Collect pharyngeal swab specimen": [
+        {
+            "sentence": "The healthcare provider prepares the necessary equipment for the pharyngeal swab collection.",
+            "subject": "The healthcare provider",
+            "action": "prepares",
+            "object": "the necessary equipment",
+            "tools": "swab sticks, sterile containers, gloves, and antiseptic wipes"
+        },
+        {
+            "sentence": "The healthcare provider explains the procedure to the patient to ensure understanding and cooperation.",
+            "subject": "The healthcare provider",
+            "action": "explains",
+            "object": "the procedure",
+            "tools": "none"
+        },
+        {
+            "sentence": "The patient is positioned comfortably with their head tilted slightly back to expose the throat.",
+            "subject": "The patient",
+            "action": "is positioned",
+            "object": "comfortably",
+            "tools": "none"
+        },
+        {
+            "sentence": "The healthcare provider gently inserts the swab into the patient's throat, avoiding contact with the tongue and cheeks.",
+            "subject": "The healthcare provider",
+            "action": "inserts",
+            "object": "the swab",
+            "tools": "swab stick"
+        },
+        {
+            "sentence": "The healthcare provider places the swab in a sterile container and labels it for laboratory analysis.",
+            "subject": "The healthcare provider",
+            "action": "places",
+            "object": "the swab",
+            "tools": "sterile container and labeling materials"
+        }
+    ]
+}
