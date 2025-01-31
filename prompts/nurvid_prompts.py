@@ -1,9 +1,9 @@
 cluster_main_prompt = '''You are a helpful medical assistant. You are now given a frame from a nursing education video. Your job is to determind if the frame is part of a predefined medical procedure. Here are all the procedures: {procedure}.
     Here are a few things for you to keep in mind:
     1. The frame belongs to an procedure ONLY IF it clearly shows the action in the frame. Here is an example for procedure 29 Draw bed curtains:
-        Scene Description: A medical personalle standing next to a curtain.
+        Scene Description: A medical personnel standing next to a curtain.
         This is NOT an action of closing the curtain, as you are NOT ABSOLUTELY certain about the action of the subject.
-        In this case ONLY IF the medical personalle is holding and dragging the curtain should be consider as the procedure 29.
+        In this case ONLY IF the medical personnel is holding and dragging the curtain should be consider as the procedure 29.
     2. Don't be too interpretive on the scene or the action. Take the face value of the frame, do not be too imaginative on the action/scene. Here is an example:
         Scene Description: A nurse is standing and holding a antiseptic solution and sterile gauze.
         This should be taken as its face value: "A nurse holding some tools" and thats it. While it is possible that the nurse is going to perform skin disinfection, procedure 4, this is NOT. DO NOT consider the potential pre/post-processing as part of the procedure.{output_command}
