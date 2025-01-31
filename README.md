@@ -9,6 +9,9 @@ conda clean -a -f
 cd ~/.cache/pip
 sudo rm -rf *
 cd ~
+sudo apt-get uninstall ffmpeg
+sudo apt-get autoremove
+sudo apt-get clean
 ```
 
 ```zsh
@@ -17,18 +20,23 @@ conda update -n base conda -y
 conda create -n vidgu python=3.12 -y
 conda activate vidgu
 
+sudo apt-get install ffmpeg
+
 # prompt: 有哪些包需要安装? 找出来, 然后在 README.md# 配置 中列出pip安装
 # 基础依赖
 pip install torch torchvision torchaudio  # 根据你的CUDA版本选择合适的torch版本
+pip install flash-attn --no-build-isolation # https://huggingface.co/docs/transformers/perf_infer_gpu_one#flashattention-2
 # LLM相关
 pip install pydantic
 pip install langchain-core
 pip install langchain-google-genai  # Gemini API
-pip install transformers
+pip install --upgrade transformers
 pip install accelerate
+pip install qwen-vl-utils
 # 计算机视觉相关
 pip install ultralytics  # YOLO
 pip install cnocr  # 中文OCR
+pip install ffmpeg
 ```
 
 # 运行顺序和功能
@@ -81,3 +89,32 @@ data/
 2. 使用计算机视觉技术检测人体姿态和文本
 3. 利用多模态LLM（Gemini/QwenVL）理解视频内容
 4. 对视频内容进行分类和理解（使用预定义的程序代码体系）
+
+# 数据集
+Part1&2&3: 
+https://drive.google.com/drive/folders/1n1ChM2PxJcrRFJqskRA-_rzhKuEAzUvW?usp=drive_link
+
+Part4: 
+https://drive.google.com/file/d/1D55Oo6WyXuoLcQU77MYPNQfjEywjpQIa/view?usp=sharing
+
+Baidu Netdisk: https://pan.baidu.com/s/1Sm5YlLF0VCiLd6eGcXZUrQ code: 6ljv
+
+# Ref
+2408.17422
+2310.13347
+http://activity-net.org/index.html
+
+# Scripts
+
+## Preprocess
+
+```zsh
+python preprocess.py --videos_dir dataset_video
+```
+
+## Models
+
+```zsh
+python models/gemini_flash.py
+python models/qwenvl_local.py
+```
